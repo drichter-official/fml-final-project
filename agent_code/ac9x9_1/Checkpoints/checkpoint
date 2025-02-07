@@ -1,0 +1,2 @@
+model_checkpoint_path: "ckpt-31-rew_5.0"
+all_model_checkpoint_paths: "ckpt-31-rew_5.0"
