@@ -1,0 +1,278 @@
+2022-03-04 00:49:05,190 [task1_alt_besser_code] DEBUG: Successfully entered setup code
+2022-03-04 00:49:05,190 [task1_alt_besser_code] INFO: Loading model.
+2022-03-04 00:49:06,705 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:08,191 [task1_alt_besser_code] DEBUG: Choosing action DOWN.
+2022-03-04 00:49:08,295 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:08,298 [task1_alt_besser_code] DEBUG: Choosing action DOWN.
+2022-03-04 00:49:08,396 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:08,400 [task1_alt_besser_code] DEBUG: Choosing action DOWN.
+2022-03-04 00:49:08,496 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:08,499 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:08,597 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:08,600 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:08,698 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:08,701 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:08,797 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:08,800 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:08,898 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:08,901 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:08,999 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:09,002 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:09,099 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:09,102 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:09,199 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:09,202 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:09,300 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:09,303 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:09,400 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:09,403 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:09,500 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:09,503 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:09,601 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:09,604 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:09,701 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:09,704 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:09,801 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:09,804 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:09,901 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:09,904 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:10,001 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:10,004 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:10,102 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:10,105 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:10,202 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:10,205 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:10,302 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:10,305 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:10,403 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:10,406 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:10,504 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:10,507 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:10,604 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:10,607 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:10,705 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:10,708 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:10,805 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:10,808 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:10,905 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:10,908 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:11,005 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:11,008 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:11,105 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:11,108 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:11,206 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:11,209 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:11,306 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:11,309 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:11,407 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:11,411 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:11,507 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:11,511 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:11,607 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:11,612 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:11,707 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:11,712 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:11,807 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:11,812 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:11,907 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:11,912 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:12,008 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:12,012 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:12,108 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:12,114 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:12,209 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:12,214 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:12,309 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:12,314 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:12,410 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:12,414 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:12,510 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:12,514 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:12,610 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:12,614 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:12,710 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:12,714 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:12,811 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:12,814 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:12,911 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:12,914 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:13,012 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:13,015 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:13,113 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:13,116 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:13,212 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:13,216 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:13,313 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:13,317 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:13,413 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:13,417 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:13,514 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:13,518 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:13,614 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:13,617 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:13,715 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:13,719 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:13,815 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:13,819 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:13,915 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:13,918 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:14,016 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:14,019 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:14,115 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:14,119 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:14,215 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:14,219 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:14,316 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:14,319 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:14,416 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:14,419 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:14,517 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:14,524 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:14,617 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:14,624 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:14,717 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:14,724 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:14,817 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:14,824 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:14,917 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:14,924 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:15,017 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:15,024 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:15,118 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:15,124 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:15,218 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:15,225 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:15,319 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:15,325 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:15,420 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:15,424 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:16,625 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:16,629 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:16,632 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:16,635 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:16,733 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:16,738 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:16,835 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:16,838 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:16,934 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:16,938 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:17,036 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:17,039 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:17,136 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:17,139 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:17,235 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:17,239 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:17,336 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:17,339 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:17,436 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:17,439 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:17,536 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:17,539 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:17,637 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:17,642 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:17,736 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:17,740 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:17,837 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:17,844 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:17,937 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:17,942 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:18,038 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:18,044 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:18,138 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:18,144 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:18,239 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:18,245 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:18,340 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:18,344 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:18,440 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:18,444 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:18,541 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:18,545 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:18,641 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:18,645 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:18,741 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:18,745 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:18,842 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:18,845 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:18,943 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:18,947 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:19,044 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:19,047 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:19,144 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:19,148 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:19,245 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:19,249 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:19,346 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:19,349 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:19,446 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:19,449 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:19,547 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:19,554 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:19,647 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:19,654 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:19,747 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:19,754 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:19,848 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:19,855 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:19,948 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:19,955 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:20,048 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:20,055 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:20,148 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:20,155 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:20,249 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:20,255 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:20,350 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:20,355 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:20,450 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:20,454 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:20,550 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:20,554 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:20,650 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:20,655 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:20,750 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:20,754 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:20,850 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:20,854 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:20,950 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:20,954 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:21,050 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:21,058 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:21,151 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:21,154 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:21,251 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:21,257 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:21,351 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:21,355 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:21,452 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:21,455 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:21,553 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:21,556 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:21,653 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:21,656 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:21,753 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:21,758 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:21,854 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:21,857 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:21,954 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:21,958 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:22,054 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:22,058 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:22,156 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:22,159 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:22,255 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:22,259 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:22,356 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:22,359 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:22,456 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:22,460 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:22,557 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:22,562 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:22,657 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:22,667 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:22,758 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:22,767 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:22,858 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:22,867 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
+2022-03-04 00:49:22,958 [task1_alt_besser_code] INFO: Predicting Action
+2022-03-04 00:49:22,968 [task1_alt_besser_code] DEBUG: Choosing action WAIT.
