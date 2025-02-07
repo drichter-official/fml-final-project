@@ -1,0 +1,576 @@
+2022-03-23 16:09:49,699 [ac_q_1_code] DEBUG: Successfully entered setup code
+2022-03-23 16:09:49,699 [ac_q_1_code] INFO: Loading existing model.
+2022-03-23 16:09:50,294 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:50,302 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:09:50,303 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:09:50,303 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:09:50,393 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:50,401 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:09:50,401 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:09:50,401 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:09:50,494 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:50,502 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:09:50,502 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:09:50,502 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:09:50,596 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:50,603 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:09:50,603 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:09:50,603 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:09:50,696 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:50,703 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:09:50,704 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:09:50,704 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:09:50,797 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:50,804 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:09:50,805 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:09:50,805 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:09:50,904 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:50,915 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:09:50,915 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:09:50,915 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:09:51,000 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:51,014 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:09:51,015 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:09:51,015 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:09:51,104 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:51,113 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:09:51,113 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:09:51,113 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:09:51,204 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:51,212 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:09:51,212 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:09:51,212 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:09:51,305 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:51,317 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:09:51,317 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:09:51,317 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:09:51,406 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:51,414 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:09:51,414 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:09:51,414 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:09:51,508 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:51,516 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:09:51,516 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:09:51,516 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:09:51,609 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:51,618 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:09:51,618 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:09:51,618 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:09:51,712 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:51,720 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:09:51,720 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:09:51,720 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:09:51,814 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:51,821 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:09:51,821 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:09:51,821 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:09:51,915 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:51,925 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:09:51,925 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:09:51,925 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:09:52,017 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:52,025 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:09:52,025 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:09:52,025 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:09:52,626 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:52,634 [ac_q_1_code] INFO: New Episode2
+2022-03-23 16:09:52,634 [ac_q_1_code] INFO: self.epsilon1
+2022-03-23 16:09:52,634 [ac_q_1_code] DEBUG: state[0 0 1 1 0]
+2022-03-23 16:09:52,634 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:09:52,634 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:09:52,728 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:52,735 [ac_q_1_code] DEBUG: state[0 1 3 1 1]
+2022-03-23 16:09:52,735 [ac_q_1_code] DEBUG: Choosing action 5.
+2022-03-23 16:09:52,735 [ac_q_1_code] DEBUG: Choosing action BOMB.
+2022-03-23 16:09:52,829 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:52,836 [ac_q_1_code] DEBUG: state[0 1 0 1 0]
+2022-03-23 16:09:52,837 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:09:52,837 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:09:52,931 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:52,939 [ac_q_1_code] DEBUG: state[0 0 1 0 0]
+2022-03-23 16:09:52,939 [ac_q_1_code] DEBUG: Choosing action 2.
+2022-03-23 16:09:52,939 [ac_q_1_code] DEBUG: Choosing action DOWN.
+2022-03-23 16:09:53,032 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:53,040 [ac_q_1_code] DEBUG: state[1 0 0 0 0]
+2022-03-23 16:09:53,040 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:53,040 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:53,134 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:53,142 [ac_q_1_code] DEBUG: state[0 0 1 0 0]
+2022-03-23 16:09:53,142 [ac_q_1_code] DEBUG: Choosing action 2.
+2022-03-23 16:09:53,142 [ac_q_1_code] DEBUG: Choosing action DOWN.
+2022-03-23 16:09:53,236 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:53,244 [ac_q_1_code] DEBUG: state[0 0 0 0 0]
+2022-03-23 16:09:53,244 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:09:53,244 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:09:53,337 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:53,346 [ac_q_1_code] DEBUG: state[1 0 0 0 0]
+2022-03-23 16:09:53,346 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:53,346 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:53,439 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:53,448 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:53,448 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:53,448 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:53,541 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:53,549 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:53,549 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:53,550 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:53,642 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:53,651 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:53,651 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:53,651 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:53,744 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:53,753 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:53,753 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:53,753 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:53,846 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:53,858 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:53,858 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:53,858 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:53,946 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:53,954 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:53,955 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:53,955 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:54,048 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:54,057 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:54,057 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:54,057 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:54,150 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:54,159 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:54,159 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:54,159 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:54,250 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:54,259 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:54,259 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:54,259 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:54,354 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:54,365 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:54,365 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:54,365 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:54,455 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:54,464 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:54,464 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:54,464 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:54,557 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:54,566 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:54,566 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:54,566 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:54,658 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:54,666 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:54,666 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:54,667 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:54,760 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:54,769 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:54,769 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:54,769 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:54,862 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:54,870 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:54,870 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:54,871 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:54,962 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:54,972 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:54,973 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:54,973 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:55,064 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:55,072 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:55,072 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:55,073 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:55,166 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:55,175 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:55,175 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:55,175 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:55,267 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:55,278 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:55,278 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:55,279 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:55,369 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:55,378 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:55,378 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:55,378 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:55,471 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:55,479 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:55,479 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:55,479 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:55,572 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:55,580 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:55,580 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:55,580 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:55,674 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:55,682 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:55,682 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:55,682 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:55,776 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:55,784 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:55,785 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:55,785 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:55,877 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:55,885 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:55,885 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:55,885 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:55,979 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:55,987 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:55,987 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:55,987 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:56,080 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:56,089 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:56,089 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:56,089 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:56,182 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:56,191 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:56,191 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:56,191 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:56,284 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:56,292 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:56,292 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:56,292 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:56,386 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:56,395 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:56,395 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:56,395 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:56,486 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:56,495 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:56,496 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:56,496 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:09:56,589 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:09:56,597 [ac_q_1_code] DEBUG: state[3 0 1 1 1]
+2022-03-23 16:09:56,597 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:09:56,597 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:34,839 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:34,847 [ac_q_1_code] INFO: New Episode3
+2022-03-23 16:10:34,847 [ac_q_1_code] INFO: self.epsilon0.99
+2022-03-23 16:10:34,847 [ac_q_1_code] DEBUG: state[0 1 1 0 0]
+2022-03-23 16:10:34,847 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:34,847 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:34,940 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:34,947 [ac_q_1_code] DEBUG: state[0 1 1 0 0]
+2022-03-23 16:10:34,948 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:34,948 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:36,056 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:36,064 [ac_q_1_code] INFO: New Episode4
+2022-03-23 16:10:36,064 [ac_q_1_code] INFO: self.epsilon0.9801
+2022-03-23 16:10:36,065 [ac_q_1_code] DEBUG: state[1 1 0 0 0]
+2022-03-23 16:10:36,065 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:10:36,065 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:10:36,158 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:36,165 [ac_q_1_code] DEBUG: state[3 0 0 1 1]
+2022-03-23 16:10:36,166 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:36,166 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:10:36,260 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:36,268 [ac_q_1_code] DEBUG: state[1 1 0 0 0]
+2022-03-23 16:10:36,269 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:10:36,269 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:10:36,361 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:36,369 [ac_q_1_code] DEBUG: state[3 0 0 1 1]
+2022-03-23 16:10:36,369 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:36,369 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:10:36,461 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:36,470 [ac_q_1_code] DEBUG: state[1 1 0 0 0]
+2022-03-23 16:10:36,470 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:10:36,470 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:10:36,564 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:36,571 [ac_q_1_code] DEBUG: state[3 0 0 1 1]
+2022-03-23 16:10:36,572 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:36,572 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:10:36,666 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:36,674 [ac_q_1_code] DEBUG: state[1 1 0 0 0]
+2022-03-23 16:10:36,674 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:10:36,674 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:10:36,767 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:36,775 [ac_q_1_code] DEBUG: state[3 0 0 1 1]
+2022-03-23 16:10:36,775 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:36,776 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:10:36,868 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:36,877 [ac_q_1_code] DEBUG: state[1 1 0 0 0]
+2022-03-23 16:10:36,877 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:10:36,877 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:10:36,971 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:36,978 [ac_q_1_code] DEBUG: state[3 0 0 1 1]
+2022-03-23 16:10:36,979 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:36,979 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:10:37,071 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:37,078 [ac_q_1_code] DEBUG: state[1 1 0 0 0]
+2022-03-23 16:10:37,078 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:10:37,078 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:10:37,478 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:37,487 [ac_q_1_code] INFO: New Episode5
+2022-03-23 16:10:37,487 [ac_q_1_code] INFO: self.epsilon0.9702989999999999
+2022-03-23 16:10:37,487 [ac_q_1_code] DEBUG: state[0 3 1 1 1]
+2022-03-23 16:10:37,487 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:37,487 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:37,580 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:37,588 [ac_q_1_code] DEBUG: state[0 3 1 1 1]
+2022-03-23 16:10:37,588 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:37,588 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:37,681 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:37,690 [ac_q_1_code] DEBUG: state[0 3 1 1 1]
+2022-03-23 16:10:37,690 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:37,691 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:37,783 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:37,791 [ac_q_1_code] DEBUG: state[0 3 1 1 1]
+2022-03-23 16:10:37,791 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:37,791 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:37,885 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:37,893 [ac_q_1_code] DEBUG: state[0 3 1 1 1]
+2022-03-23 16:10:37,893 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:37,893 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:37,987 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:37,995 [ac_q_1_code] DEBUG: state[0 3 1 1 1]
+2022-03-23 16:10:37,996 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:37,996 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:38,088 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:38,096 [ac_q_1_code] DEBUG: state[0 3 1 1 1]
+2022-03-23 16:10:38,097 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:38,097 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:38,494 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:38,503 [ac_q_1_code] INFO: New Episode6
+2022-03-23 16:10:38,503 [ac_q_1_code] INFO: self.epsilon0.96059601
+2022-03-23 16:10:38,503 [ac_q_1_code] DEBUG: state[0 0 1 1 0]
+2022-03-23 16:10:38,503 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:38,503 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:10:38,595 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:38,602 [ac_q_1_code] DEBUG: state[0 1 3 0 1]
+2022-03-23 16:10:38,602 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:38,602 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:10:38,697 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:38,704 [ac_q_1_code] DEBUG: state[0 1 3 0 1]
+2022-03-23 16:10:38,704 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:38,704 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:10:38,799 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:38,806 [ac_q_1_code] DEBUG: state[0 1 3 0 1]
+2022-03-23 16:10:38,806 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:38,807 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:10:38,900 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:38,907 [ac_q_1_code] DEBUG: state[0 1 3 0 1]
+2022-03-23 16:10:38,907 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:38,907 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:10:39,001 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:39,009 [ac_q_1_code] DEBUG: state[0 1 3 0 1]
+2022-03-23 16:10:39,009 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:39,009 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:10:39,103 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:39,110 [ac_q_1_code] DEBUG: state[0 1 3 0 1]
+2022-03-23 16:10:39,110 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:39,110 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:10:39,205 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:39,212 [ac_q_1_code] DEBUG: state[0 1 3 0 1]
+2022-03-23 16:10:39,213 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:39,213 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:10:39,306 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:39,313 [ac_q_1_code] DEBUG: state[0 1 3 0 1]
+2022-03-23 16:10:39,314 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:39,314 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:10:39,408 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:39,416 [ac_q_1_code] DEBUG: state[0 1 3 0 1]
+2022-03-23 16:10:39,416 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:39,416 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:10:39,510 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:39,518 [ac_q_1_code] DEBUG: state[0 1 3 0 1]
+2022-03-23 16:10:39,518 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:39,518 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:10:39,611 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:39,621 [ac_q_1_code] DEBUG: state[0 1 3 0 1]
+2022-03-23 16:10:39,621 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:39,621 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:10:39,917 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:39,924 [ac_q_1_code] INFO: New Episode7
+2022-03-23 16:10:39,925 [ac_q_1_code] INFO: self.epsilon0.9509900498999999
+2022-03-23 16:10:39,925 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:10:39,925 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:10:39,925 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:10:40,018 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:40,025 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:10:40,025 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:10:40,025 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:10:40,119 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:40,127 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:10:40,127 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:10:40,127 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:10:40,222 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:40,230 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:10:40,230 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:10:40,230 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:10:40,323 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:40,330 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:10:40,330 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:10:40,330 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:10:40,425 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:40,432 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:10:40,432 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:10:40,432 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:10:40,525 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:40,534 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:10:40,534 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:10:40,534 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:10:40,628 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:40,635 [ac_q_1_code] DEBUG: state[1 0 0 1 0]
+2022-03-23 16:10:40,635 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:10:40,635 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:10:41,036 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:41,043 [ac_q_1_code] INFO: New Episode8
+2022-03-23 16:10:41,043 [ac_q_1_code] INFO: self.epsilon0.9414801494009999
+2022-03-23 16:10:41,044 [ac_q_1_code] DEBUG: state[0 1 1 0 0]
+2022-03-23 16:10:41,044 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:41,044 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:41,137 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:41,144 [ac_q_1_code] DEBUG: state[0 1 1 0 0]
+2022-03-23 16:10:41,144 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:41,144 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:41,238 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:41,246 [ac_q_1_code] DEBUG: state[0 1 1 0 0]
+2022-03-23 16:10:41,246 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:41,246 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:41,339 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:41,347 [ac_q_1_code] DEBUG: state[0 1 1 0 0]
+2022-03-23 16:10:41,347 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:41,347 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:41,442 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:41,450 [ac_q_1_code] DEBUG: state[0 1 1 0 0]
+2022-03-23 16:10:41,450 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:41,450 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:41,544 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:41,551 [ac_q_1_code] DEBUG: state[0 1 1 0 0]
+2022-03-23 16:10:41,552 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:41,552 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:41,645 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:41,652 [ac_q_1_code] DEBUG: state[0 1 1 0 0]
+2022-03-23 16:10:41,653 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:41,653 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:42,053 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:42,061 [ac_q_1_code] INFO: New Episode9
+2022-03-23 16:10:42,061 [ac_q_1_code] INFO: self.epsilon0.9320653479069899
+2022-03-23 16:10:42,061 [ac_q_1_code] DEBUG: state[1 1 3 0 1]
+2022-03-23 16:10:42,062 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:42,062 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:42,153 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:42,161 [ac_q_1_code] DEBUG: state[0 3 1 0 1]
+2022-03-23 16:10:42,161 [ac_q_1_code] DEBUG: Choosing action 2.
+2022-03-23 16:10:42,161 [ac_q_1_code] DEBUG: Choosing action DOWN.
+2022-03-23 16:10:42,254 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:42,262 [ac_q_1_code] DEBUG: state[1 1 3 0 1]
+2022-03-23 16:10:42,262 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:42,262 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:42,357 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:42,365 [ac_q_1_code] DEBUG: state[0 3 1 0 1]
+2022-03-23 16:10:42,365 [ac_q_1_code] DEBUG: Choosing action 2.
+2022-03-23 16:10:42,365 [ac_q_1_code] DEBUG: Choosing action DOWN.
+2022-03-23 16:10:42,457 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:42,466 [ac_q_1_code] DEBUG: state[1 1 3 0 1]
+2022-03-23 16:10:42,466 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:42,466 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:42,557 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:42,565 [ac_q_1_code] DEBUG: state[0 3 1 0 1]
+2022-03-23 16:10:42,565 [ac_q_1_code] DEBUG: Choosing action 2.
+2022-03-23 16:10:42,565 [ac_q_1_code] DEBUG: Choosing action DOWN.
+2022-03-23 16:10:42,659 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:42,667 [ac_q_1_code] DEBUG: state[1 1 3 0 1]
+2022-03-23 16:10:42,668 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:42,668 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:42,761 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:42,769 [ac_q_1_code] DEBUG: state[0 3 1 0 1]
+2022-03-23 16:10:42,769 [ac_q_1_code] DEBUG: Choosing action 2.
+2022-03-23 16:10:42,769 [ac_q_1_code] DEBUG: Choosing action DOWN.
+2022-03-23 16:10:42,863 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:42,872 [ac_q_1_code] DEBUG: state[1 1 3 0 1]
+2022-03-23 16:10:42,873 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:42,873 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:42,964 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:42,972 [ac_q_1_code] DEBUG: state[0 3 1 0 1]
+2022-03-23 16:10:42,972 [ac_q_1_code] DEBUG: Choosing action 2.
+2022-03-23 16:10:42,972 [ac_q_1_code] DEBUG: Choosing action DOWN.
+2022-03-23 16:10:43,066 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:43,075 [ac_q_1_code] DEBUG: state[1 1 3 0 1]
+2022-03-23 16:10:43,075 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:43,075 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:43,167 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:43,174 [ac_q_1_code] DEBUG: state[0 3 1 0 1]
+2022-03-23 16:10:43,174 [ac_q_1_code] DEBUG: Choosing action 2.
+2022-03-23 16:10:43,175 [ac_q_1_code] DEBUG: Choosing action DOWN.
+2022-03-23 16:10:43,270 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:43,282 [ac_q_1_code] DEBUG: state[1 1 3 0 1]
+2022-03-23 16:10:43,282 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:43,282 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:43,371 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:43,379 [ac_q_1_code] DEBUG: state[0 3 1 0 1]
+2022-03-23 16:10:43,379 [ac_q_1_code] DEBUG: Choosing action 2.
+2022-03-23 16:10:43,379 [ac_q_1_code] DEBUG: Choosing action DOWN.
+2022-03-23 16:10:43,473 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:43,481 [ac_q_1_code] DEBUG: state[1 1 3 0 1]
+2022-03-23 16:10:43,482 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:43,482 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:43,574 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:43,582 [ac_q_1_code] DEBUG: state[0 3 1 0 1]
+2022-03-23 16:10:43,582 [ac_q_1_code] DEBUG: Choosing action 2.
+2022-03-23 16:10:43,582 [ac_q_1_code] DEBUG: Choosing action DOWN.
+2022-03-23 16:10:43,676 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:43,685 [ac_q_1_code] DEBUG: state[1 1 3 0 1]
+2022-03-23 16:10:43,685 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:43,685 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:43,778 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:43,787 [ac_q_1_code] DEBUG: state[0 3 1 0 1]
+2022-03-23 16:10:43,787 [ac_q_1_code] DEBUG: Choosing action 2.
+2022-03-23 16:10:43,787 [ac_q_1_code] DEBUG: Choosing action DOWN.
+2022-03-23 16:10:43,879 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:43,891 [ac_q_1_code] DEBUG: state[1 1 3 0 1]
+2022-03-23 16:10:43,892 [ac_q_1_code] DEBUG: Choosing action 0.
+2022-03-23 16:10:43,892 [ac_q_1_code] DEBUG: Choosing action UP.
+2022-03-23 16:10:43,981 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:43,989 [ac_q_1_code] DEBUG: state[0 3 1 0 1]
+2022-03-23 16:10:43,989 [ac_q_1_code] DEBUG: Choosing action 2.
+2022-03-23 16:10:43,989 [ac_q_1_code] DEBUG: Choosing action DOWN.
+2022-03-23 16:10:44,386 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:44,394 [ac_q_1_code] INFO: New Episode10
+2022-03-23 16:10:44,394 [ac_q_1_code] INFO: self.epsilon0.92274469442792
+2022-03-23 16:10:44,394 [ac_q_1_code] DEBUG: state[1 1 0 0 0]
+2022-03-23 16:10:44,394 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:10:44,394 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:10:44,488 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:44,495 [ac_q_1_code] DEBUG: state[3 0 0 1 1]
+2022-03-23 16:10:44,495 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:44,495 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:10:44,589 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:44,597 [ac_q_1_code] DEBUG: state[1 1 0 0 0]
+2022-03-23 16:10:44,597 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:10:44,597 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:10:44,691 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:44,698 [ac_q_1_code] DEBUG: state[3 0 0 1 1]
+2022-03-23 16:10:44,698 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:44,698 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:10:44,793 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:44,800 [ac_q_1_code] DEBUG: state[1 1 0 0 0]
+2022-03-23 16:10:44,801 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:10:44,801 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:10:44,894 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:44,901 [ac_q_1_code] DEBUG: state[3 0 0 1 1]
+2022-03-23 16:10:44,901 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:44,901 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:10:44,996 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:45,004 [ac_q_1_code] DEBUG: state[1 1 0 0 0]
+2022-03-23 16:10:45,004 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:10:45,004 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:10:45,097 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:45,105 [ac_q_1_code] DEBUG: state[3 0 0 1 1]
+2022-03-23 16:10:45,105 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:45,105 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:10:45,198 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:45,205 [ac_q_1_code] DEBUG: state[1 1 0 0 0]
+2022-03-23 16:10:45,205 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:10:45,205 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:10:45,300 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:45,307 [ac_q_1_code] DEBUG: state[3 0 0 1 1]
+2022-03-23 16:10:45,307 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:45,307 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:10:45,400 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:45,407 [ac_q_1_code] DEBUG: state[1 1 0 0 0]
+2022-03-23 16:10:45,408 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:10:45,408 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:10:45,502 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:45,509 [ac_q_1_code] DEBUG: state[3 0 0 1 1]
+2022-03-23 16:10:45,509 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:45,509 [ac_q_1_code] DEBUG: Choosing action LEFT.
+2022-03-23 16:10:45,604 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:45,611 [ac_q_1_code] DEBUG: state[1 1 0 0 0]
+2022-03-23 16:10:45,611 [ac_q_1_code] DEBUG: Choosing action 1.
+2022-03-23 16:10:45,611 [ac_q_1_code] DEBUG: Choosing action RIGHT.
+2022-03-23 16:10:45,705 [ac_q_1_code] INFO: Predicting Action
+2022-03-23 16:10:45,712 [ac_q_1_code] DEBUG: state[3 0 0 1 1]
+2022-03-23 16:10:45,712 [ac_q_1_code] DEBUG: Choosing action 3.
+2022-03-23 16:10:45,712 [ac_q_1_code] DEBUG: Choosing action LEFT.
