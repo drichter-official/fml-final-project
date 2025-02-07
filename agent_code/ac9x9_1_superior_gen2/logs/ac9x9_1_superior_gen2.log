@@ -1,0 +1,949 @@
+2022-03-27 22:10:26,939 [ac9x9_1_superior_gen2_code] DEBUG: Successfully entered setup code
+2022-03-27 22:10:26,939 [ac9x9_1_superior_gen2_code] DEBUG: Successfully entered setup code
+2022-03-27 22:10:26,939 [ac9x9_1_superior_gen2_code] INFO: Loading Checkpoint
+2022-03-27 22:10:30,578 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:30,753 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64111796 0.69676733 0.68937476 0.63362351 0.66361039 0.67550604] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:30,754 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:30,779 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:30,811 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64375031 0.65897088 0.65484771 0.65926568 0.68089546 0.70226998] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:30,811 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:30,872 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:30,923 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66381235 0.63070655 0.63381086 0.71713574 0.67978478 0.67474975] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:30,924 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:30,975 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:31,012 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66313212 0.62838372 0.71393802 0.67262313 0.67134163 0.65058135] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:31,012 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:31,079 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:31,112 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67289157 0.63865528 0.65984412 0.66578561 0.68930974 0.67351372] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:31,112 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action WAIT.
+2022-03-27 22:10:31,179 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:31,219 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67289157 0.63865528 0.65984412 0.66578561 0.68930974 0.67351372] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:31,219 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action WAIT.
+2022-03-27 22:10:31,289 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:31,324 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.60039068 0.67493959 0.64813997 0.67417429 0.71334304 0.68901244] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:31,324 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action WAIT.
+2022-03-27 22:10:31,383 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:31,418 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6737565  0.65264842 0.6448896  0.65847609 0.68903978 0.68118962] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:31,418 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action WAIT.
+2022-03-27 22:10:31,483 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:31,536 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.663552   0.65168557 0.65122417 0.65096855 0.68145319 0.70111655] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:31,537 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:31,587 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:31,618 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.72275123 0.63628569 0.62499156 0.66448707 0.68063812 0.67084634] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:31,618 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:31,691 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:31,726 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6688765  0.72972029 0.62768395 0.66325875 0.66993139 0.64052907] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:31,727 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:31,786 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:31,821 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64175823 0.70493689 0.65520085 0.65608258 0.67571638 0.66630508] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:31,822 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:31,889 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:31,918 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62824669 0.71753603 0.64342202 0.64482809 0.68580223 0.680165  ] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:31,919 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:31,992 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:32,043 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62240884 0.69274511 0.65272139 0.68418277 0.67690451 0.67103747] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:32,043 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:32,096 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:32,152 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.61581257 0.65795948 0.71018979 0.67878197 0.67066928 0.66658691] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:32,154 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:32,195 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:32,231 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67114782 0.6462022  0.69340179 0.64576682 0.66908311 0.67439826] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:32,231 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:32,297 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:32,336 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67670808 0.64162008 0.6809056  0.66155923 0.65023001 0.68897703] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:32,337 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:32,404 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:32,437 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.73631146 0.62115147 0.66017942 0.67783847 0.64755741 0.65696166] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:32,438 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:32,513 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:32,551 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.73637105 0.63908007 0.62490445 0.65309657 0.68791657 0.65863129] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:32,551 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:32,608 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:32,647 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62752055 0.6648453  0.66951983 0.7108676  0.66789995 0.65934677] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:32,648 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:32,708 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:32,742 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62994152 0.68436686 0.65430511 0.69049051 0.68427232 0.65662368] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:32,742 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:32,811 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:32,848 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6165962  0.71016734 0.68087005 0.6536971  0.67496295 0.6637064 ] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:32,848 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:32,910 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:32,952 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.61573285 0.71625969 0.6544885  0.66932648 0.67287997 0.67131246] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:32,952 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:33,011 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:33,070 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.59587059 0.65051365 0.7202138  0.66732466 0.66574522 0.70033212] + [0.01859524 0.02085765 0.02032297 0.01919463 0.02102951 0.        ]
+2022-03-27 22:10:33,070 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:33,112 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:33,152 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66217701 0.65209585 0.70400852 0.64203385 0.66324393 0.67644088] + [0.03439313 0.00156811 0.03274358 0.0058891  0.02540608 0.        ]
+2022-03-27 22:10:33,153 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:33,217 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:33,256 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64963045 0.691073   0.70280944 0.65723031 0.64695802 0.65229871] + [0.01842852 0.0213498  0.01947669 0.01947507 0.02126992 0.        ]
+2022-03-27 22:10:33,257 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:33,315 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:33,357 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66265955 0.64522528 0.71595637 0.63291102 0.66826076 0.67498708] + [0.03549271 0.00011256 0.03486965 0.00454097 0.02498411 0.        ]
+2022-03-27 22:10:33,357 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:33,418 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:33,453 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.68292189 0.65190779 0.67074998 0.62212726 0.65936012 0.71293298] + [0.018053   0.02199396 0.01879045 0.0197387  0.0214239  0.        ]
+2022-03-27 22:10:33,453 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:33,529 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:33,575 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.7452739  0.63255442 0.68328766 0.60021289 0.65792511 0.68074606] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:33,575 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:33,619 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:33,666 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.73508216 0.64080708 0.64306703 0.63793971 0.68257779 0.66052622] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:33,666 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:33,724 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:33,765 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66957345 0.70757431 0.67029356 0.67753521 0.64991406 0.62510944] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:33,766 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:33,821 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:33,862 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64032688 0.70341255 0.65754    0.66846825 0.68131469 0.6489376 ] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:33,862 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:33,928 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:33,974 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.61470338 0.6609084  0.67171003 0.72021486 0.66835941 0.66410391] + [0.01942326 0.01952316 0.02205524 0.01850927 0.02048908 0.        ]
+2022-03-27 22:10:33,974 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:34,039 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:34,089 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.63493878 0.68981615 0.64861421 0.6878484  0.67510172 0.66368083] + [0.00452481 0.03718941 0.00188969 0.02800533 0.02839076 0.        ]
+2022-03-27 22:10:34,089 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:34,141 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:34,190 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.61099064 0.64338741 0.65385449 0.70835606 0.65586987 0.7275416 ] + [0.01942326 0.01952316 0.02205524 0.01850927 0.02048908 0.        ]
+2022-03-27 22:10:34,191 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:34,244 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:34,295 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.58071759 0.62858839 0.66638246 0.7801609  0.65352067 0.69062999] + [0.01942326 0.01952316 0.02205524 0.01850927 0.02048908 0.        ]
+2022-03-27 22:10:34,296 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:34,337 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:34,378 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62613111 0.61589708 0.65250201 0.76038834 0.68703652 0.65804501] + [0.00452481 0.03718941 0.00188969 0.02800533 0.02839076 0.        ]
+2022-03-27 22:10:34,379 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:34,438 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:34,477 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.63398845 0.65016868 0.75370736 0.64817166 0.65393755 0.66002624] + [0.01699642 0.02316758 0.01844924 0.02000845 0.02137831 0.        ]
+2022-03-27 22:10:34,477 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:34,542 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:34,585 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65234412 0.64650288 0.73388256 0.63038157 0.67938709 0.65750182] + [0.02845327 0.00692709 0.03514294 0.00443155 0.02504515 0.        ]
+2022-03-27 22:10:34,585 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:34,642 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:34,701 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67216253 0.69907198 0.6764111  0.6579844  0.66180304 0.632567  ] + [0.01600748 0.02442829 0.01758116 0.02043693 0.02154613 0.        ]
+2022-03-27 22:10:34,701 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:34,743 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:34,790 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64000257 0.70845311 0.64932089 0.66456393 0.67213151 0.66552797] + [0.00452481 0.03718941 0.00188969 0.02800533 0.02839076 0.        ]
+2022-03-27 22:10:34,790 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:34,848 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:34,902 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64676417 0.67506898 0.6753031  0.66181467 0.65571837 0.68533067] + [0.01192853 0.02982511 0.01350763 0.02235091 0.0223878  0.        ]
+2022-03-27 22:10:34,903 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:34,949 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:35,008 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.63018533 0.65875919 0.63634338 0.69843022 0.67806668 0.69821519] + [0.00680368 0.0261177  0.00711181 0.03551729 0.02444951 0.        ]
+2022-03-27 22:10:35,008 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:35,046 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:35,103 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65468833 0.64768816 0.67545415 0.67062229 0.65452423 0.69702284] + [0.01624752 0.01802192 0.03107599 0.01540886 0.01924571 0.        ]
+2022-03-27 22:10:35,104 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:35,149 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:35,191 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.71185479 0.61733822 0.64415246 0.65295317 0.68339762 0.69030382] + [3.38743888e-02 1.46916995e-04 4.07732353e-02 2.02377487e-05
+ 2.51852274e-02 0.00000000e+00]
+2022-03-27 22:10:35,192 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:35,246 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:35,279 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66225312 0.64890464 0.65193026 0.67232165 0.65358842 0.71100182] + [0.01760643 0.02251485 0.01860726 0.01986222 0.02140924 0.        ]
+2022-03-27 22:10:35,280 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:35,348 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:35,379 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.70118172 0.61099765 0.62750505 0.72672304 0.6499906  0.68360187] + [0.01760643 0.02251485 0.01860726 0.01986222 0.02140924 0.        ]
+2022-03-27 22:10:35,379 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:35,445 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:35,469 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.63512838 0.63744782 0.64248303 0.74655164 0.68605487 0.65233426] + [0.00426746 0.0374822  0.00269993 0.02772369 0.02782671 0.        ]
+2022-03-27 22:10:35,469 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:35,546 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:35,567 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67982729 0.64622145 0.70212249 0.66845392 0.65499534 0.64837953] + [0.01678    0.02341072 0.01832637 0.02008359 0.02139932 0.        ]
+2022-03-27 22:10:35,567 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:35,647 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:35,665 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67183281 0.64442178 0.69613951 0.6426387  0.68424604 0.6607212 ] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:35,665 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:35,749 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:35,768 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69219448 0.68343057 0.66684109 0.64159039 0.66331204 0.65263145] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:35,769 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:35,851 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:35,869 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67967259 0.641333   0.70032553 0.63625591 0.67179763 0.67061529] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:35,869 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:35,953 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:35,976 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66755539 0.66277189 0.66872467 0.64292333 0.65206776 0.70595699] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:35,976 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:36,058 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:36,087 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.7302622  0.69651917 0.6319053  0.60926128 0.65023607 0.68181599] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:36,088 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:36,157 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:36,187 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.74891307 0.64037538 0.62882197 0.63307307 0.68428013 0.6645364 ] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:36,187 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:36,258 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:36,279 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65692789 0.70282117 0.65299103 0.67482189 0.65524308 0.65719486] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:36,279 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:36,358 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:36,378 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62437379 0.72376808 0.65628172 0.660594   0.6745458  0.66043664] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:36,378 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:36,460 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:36,483 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6580136  0.67001596 0.69218107 0.68212754 0.66096723 0.63669463] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:36,483 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:36,567 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:36,598 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67435937 0.6239509  0.71337885 0.64432916 0.66978753 0.67419415] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:36,599 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:36,664 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:36,699 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64562351 0.64314736 0.69678323 0.67037833 0.65302848 0.69103915] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:36,699 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:36,764 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:36,784 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67800632 0.63146737 0.70611991 0.63911594 0.66403906 0.68125134] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:36,785 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:36,867 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:36,894 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6849929  0.63531104 0.68733937 0.62530365 0.65342932 0.71362369] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:36,894 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:36,970 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:36,989 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.73075158 0.60292981 0.70428669 0.63058432 0.6512637  0.68018385] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:36,989 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:37,080 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:37,102 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.74488516 0.61826759 0.64025935 0.65237905 0.6850531  0.65915576] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:37,102 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:37,170 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:37,187 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66387601 0.64193787 0.66770696 0.70427073 0.65559102 0.66661743] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:37,187 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:37,272 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:37,290 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.63157565 0.66983623 0.65766056 0.70486798 0.68085108 0.65520848] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:37,290 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:37,373 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:37,391 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65468357 0.68048978 0.70062516 0.66329208 0.66286486 0.63804451] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:37,392 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:37,476 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:37,499 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.68314143 0.64529702 0.70229718 0.63177662 0.67007027 0.66741744] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:37,499 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:37,577 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:37,594 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66281904 0.66533385 0.68855116 0.64001805 0.65090966 0.69236822] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:37,595 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:37,678 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:37,701 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.7097743  0.70890319 0.66050952 0.59969505 0.64764278 0.6734752 ] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:37,701 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:37,782 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:37,812 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.7467101  0.64111094 0.63531307 0.63623621 0.6824828  0.65814686] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:37,812 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:37,884 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:37,910 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67039162 0.67713558 0.65658729 0.68339241 0.65475835 0.65773477] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:37,910 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:37,983 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:38,001 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62787592 0.66687942 0.6419426  0.70906615 0.68076035 0.67347555] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:38,001 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:38,083 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:38,101 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.61628785 0.697234   0.6829314  0.6730347  0.67487425 0.65563781] + [0.01624752 0.01802192 0.03107599 0.01540886 0.01924571 0.        ]
+2022-03-27 22:10:38,102 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:38,185 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:38,202 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62005981 0.68042653 0.64358122 0.71176973 0.67377238 0.67039036] + [0.00292056 0.03094361 0.00251017 0.03992108 0.02370459 0.        ]
+2022-03-27 22:10:38,203 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:38,291 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:38,309 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6079866  0.68589724 0.65827007 0.67263158 0.65925577 0.71595871] + [0.01624752 0.01802192 0.03107599 0.01540886 0.01924571 0.        ]
+2022-03-27 22:10:38,309 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:38,389 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:38,407 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.60971577 0.74000113 0.66411563 0.64382687 0.65864189 0.68369874] + [0.01624752 0.01802192 0.03107599 0.01540886 0.01924571 0.        ]
+2022-03-27 22:10:38,408 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:38,491 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:38,522 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.61635402 0.747094   0.63872555 0.63745605 0.68479145 0.675579  ] + [0.00292056 0.03094361 0.00251017 0.03992108 0.02370459 0.        ]
+2022-03-27 22:10:38,522 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:38,592 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:38,610 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6703024  0.65629883 0.7174131  0.63566437 0.65487972 0.66544153] + [0.01568667 0.01647447 0.02269916 0.02475976 0.02037993 0.        ]
+2022-03-27 22:10:38,610 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:38,693 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:38,712 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65398022 0.63234245 0.73367786 0.64393378 0.66672504 0.66934068] + [0.03042685 0.00192646 0.02955787 0.01184769 0.02624113 0.        ]
+2022-03-27 22:10:38,712 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:38,798 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:38,816 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.68077837 0.65196263 0.6708788  0.70382665 0.66665639 0.62589715] + [0.01340195 0.02076497 0.013675   0.03295695 0.01920113 0.        ]
+2022-03-27 22:10:38,816 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:38,896 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:38,915 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62549611 0.66679249 0.65229162 0.71388355 0.66955968 0.67197666] + [ 0.00495928  0.02937976 -0.00260909  0.04498797  0.02328207  0.        ]
+2022-03-27 22:10:38,915 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:38,998 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:39,017 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65379013 0.67209141 0.6655399  0.65789934 0.65200407 0.69867512] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:39,017 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:39,101 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:39,129 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69961943 0.71730133 0.62461188 0.63526145 0.6490067  0.67419917] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:39,129 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:39,201 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:39,223 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.63169324 0.76895154 0.62747734 0.61275555 0.6867048  0.67241751] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:39,223 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:39,303 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:39,322 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67964776 0.67269873 0.70221207 0.62819559 0.65289932 0.66434656] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:39,323 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:39,407 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:39,432 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65703049 0.64387635 0.72104164 0.63728763 0.6739783  0.66678562] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:39,432 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:39,513 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:39,533 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67946685 0.64946009 0.7011424  0.63812778 0.67295882 0.658844  ] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:39,533 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:39,608 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:39,626 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69642879 0.64120691 0.6908595  0.62701558 0.67361278 0.67087651] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:39,626 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:39,709 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:39,727 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66167975 0.64929626 0.6979332  0.61869828 0.65850799 0.71388456] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:39,727 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:39,810 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:39,825 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.70127384 0.6630404  0.71265608 0.58345314 0.66131985 0.67825668] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:39,825 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:39,914 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:39,940 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62397469 0.64882452 0.76159014 0.60869206 0.68838501 0.66853359] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:39,940 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:40,012 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:40,030 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6507306  0.72971606 0.63282335 0.65446332 0.65640157 0.67586512] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:40,030 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:40,113 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:40,132 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64420091 0.70575561 0.65312667 0.66704708 0.68166545 0.64820436] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:40,132 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:40,215 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:40,237 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69911433 0.66085127 0.67150739 0.68472516 0.66078848 0.62301334] + [0.01500733 0.01774008 0.018884   0.0284341  0.0199345  0.        ]
+2022-03-27 22:10:40,237 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:40,317 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:40,339 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69912755 0.6379576  0.68293286 0.62952338 0.67537781 0.67508078] + [ 0.03009804 -0.00057045  0.03667676  0.00712841  0.02666724  0.        ]
+2022-03-27 22:10:40,339 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:40,418 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:40,443 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.63003234 0.67592471 0.69654962 0.65547287 0.6536835  0.68833689] + [0.01542679 0.01675324 0.02362898 0.02376485 0.02042614 0.        ]
+2022-03-27 22:10:40,443 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:40,528 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:40,556 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69750521 0.63761532 0.68285472 0.62538795 0.67121043 0.6854263 ] + [ 0.03009804 -0.00057045  0.03667676  0.00712841  0.02666724  0.        ]
+2022-03-27 22:10:40,556 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:40,621 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:40,647 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.63003234 0.67592471 0.69654962 0.65547287 0.6536835  0.68833689] + [0.01542679 0.01675324 0.02362898 0.02376485 0.02042614 0.        ]
+2022-03-27 22:10:40,647 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:40,723 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:40,745 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69750521 0.63761532 0.68285472 0.62538795 0.67121043 0.6854263 ] + [ 0.03009804 -0.00057045  0.03667676  0.00712841  0.02666724  0.        ]
+2022-03-27 22:10:40,745 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:40,833 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:40,863 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62787077 0.67360724 0.69855311 0.6568672  0.65397836 0.68912329] + [0.01542679 0.01675324 0.02362898 0.02376485 0.02042614 0.        ]
+2022-03-27 22:10:40,864 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:40,924 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:40,938 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69750521 0.63761532 0.68285472 0.62538795 0.67121043 0.6854263 ] + [ 0.03009804 -0.00057045  0.03667676  0.00712841  0.02666724  0.        ]
+2022-03-27 22:10:40,938 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:41,027 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:41,045 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62498252 0.67319008 0.70035031 0.65815004 0.65418472 0.68914231] + [0.01542679 0.01675324 0.02362898 0.02376485 0.02042614 0.        ]
+2022-03-27 22:10:41,046 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:41,128 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:41,146 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69750521 0.63761532 0.68285472 0.62538795 0.67121043 0.6854263 ] + [ 0.03009804 -0.00057045  0.03667676  0.00712841  0.02666724  0.        ]
+2022-03-27 22:10:41,146 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:41,231 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:41,250 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62656627 0.67539659 0.69913742 0.65595577 0.65382716 0.68911681] + [0.01542679 0.01675324 0.02362898 0.02376485 0.02042614 0.        ]
+2022-03-27 22:10:41,251 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:41,333 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:41,351 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69750521 0.63761532 0.68285472 0.62538795 0.67121043 0.6854263 ] + [ 0.03009804 -0.00057045  0.03667676  0.00712841  0.02666724  0.        ]
+2022-03-27 22:10:41,351 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:41,435 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:41,453 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62734088 0.67512495 0.70176037 0.65279442 0.6533675  0.68961191] + [0.01542679 0.01675324 0.02362898 0.02376485 0.02042614 0.        ]
+2022-03-27 22:10:41,453 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:41,536 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:41,553 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69750521 0.63761532 0.68285472 0.62538795 0.67121043 0.6854263 ] + [ 0.03009804 -0.00057045  0.03667676  0.00712841  0.02666724  0.        ]
+2022-03-27 22:10:41,553 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:41,638 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:41,655 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62734088 0.67512495 0.70176037 0.65279442 0.6533675  0.68961191] + [0.01542679 0.01675324 0.02362898 0.02376485 0.02042614 0.        ]
+2022-03-27 22:10:41,655 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:41,739 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:41,752 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69750521 0.63761532 0.68285472 0.62538795 0.67121043 0.6854263 ] + [ 0.03009804 -0.00057045  0.03667676  0.00712841  0.02666724  0.        ]
+2022-03-27 22:10:41,752 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:41,843 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:41,862 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62734088 0.67512495 0.70176037 0.65279442 0.6533675  0.68961191] + [0.01542679 0.01675324 0.02362898 0.02376485 0.02042614 0.        ]
+2022-03-27 22:10:41,862 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:41,942 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:41,959 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69750521 0.63761532 0.68285472 0.62538795 0.67121043 0.6854263 ] + [ 0.03009804 -0.00057045  0.03667676  0.00712841  0.02666724  0.        ]
+2022-03-27 22:10:41,960 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:42,043 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:42,063 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62734088 0.67512495 0.70176037 0.65279442 0.6533675  0.68961191] + [0.01542679 0.01675324 0.02362898 0.02376485 0.02042614 0.        ]
+2022-03-27 22:10:42,063 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:42,145 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:42,164 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69750521 0.63761532 0.68285472 0.62538795 0.67121043 0.6854263 ] + [ 0.03009804 -0.00057045  0.03667676  0.00712841  0.02666724  0.        ]
+2022-03-27 22:10:42,165 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:42,249 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:42,273 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62734088 0.67512495 0.70176037 0.65279442 0.6533675  0.68961191] + [0.01542679 0.01675324 0.02362898 0.02376485 0.02042614 0.        ]
+2022-03-27 22:10:42,273 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:42,348 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:42,366 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69750521 0.63761532 0.68285472 0.62538795 0.67121043 0.6854263 ] + [ 0.03009804 -0.00057045  0.03667676  0.00712841  0.02666724  0.        ]
+2022-03-27 22:10:42,366 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:42,450 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:42,470 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62529079 0.67288322 0.70367779 0.65443173 0.6537295  0.68998694] + [0.01542679 0.01675324 0.02362898 0.02376485 0.02042614 0.        ]
+2022-03-27 22:10:42,470 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:42,550 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:42,569 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69750521 0.63761532 0.68285472 0.62538795 0.67121043 0.6854263 ] + [ 0.03009804 -0.00057045  0.03667676  0.00712841  0.02666724  0.        ]
+2022-03-27 22:10:42,569 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:42,652 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:42,672 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62541281 0.67498749 0.70444107 0.65261468 0.65450417 0.68803982] + [0.01542679 0.01675324 0.02362898 0.02376485 0.02042614 0.        ]
+2022-03-27 22:10:42,672 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:42,755 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:42,772 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69649173 0.63740147 0.6849319  0.62464915 0.67160505 0.68492066] + [ 0.03009804 -0.00057045  0.03667676  0.00712841  0.02666724  0.        ]
+2022-03-27 22:10:42,773 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:42,858 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:42,888 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.625619   0.67393672 0.70105515 0.65611483 0.65439648 0.68887776] + [0.01542679 0.01675324 0.02362898 0.02376485 0.02042614 0.        ]
+2022-03-27 22:10:42,888 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:42,966 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:42,989 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69598412 0.63335931 0.68542869 0.62839041 0.67156724 0.6852702 ] + [ 0.03009804 -0.00057045  0.03667676  0.00712841  0.02666724  0.        ]
+2022-03-27 22:10:42,990 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:43,061 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:43,082 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62917098 0.68083103 0.69844793 0.64641557 0.65380176 0.6913327 ] + [0.01542679 0.01675324 0.02362898 0.02376485 0.02042614 0.        ]
+2022-03-27 22:10:43,082 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:43,164 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:43,193 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69448892 0.63361556 0.68690017 0.62748661 0.67176655 0.68574218] + [ 0.03009804 -0.00057045  0.03667676  0.00712841  0.02666724  0.        ]
+2022-03-27 22:10:43,193 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:43,265 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:43,295 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62917098 0.68083103 0.69844793 0.64641557 0.65380176 0.6913327 ] + [0.01542679 0.01675324 0.02362898 0.02376485 0.02042614 0.        ]
+2022-03-27 22:10:43,295 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:43,368 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:43,389 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6900083  0.64380276 0.68536057 0.62369036 0.67238317 0.68475484] + [ 0.03009804 -0.00057045  0.03667676  0.00712841  0.02666724  0.        ]
+2022-03-27 22:10:43,390 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:43,466 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:43,499 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.68275005 0.66171307 0.66471698 0.66529829 0.65033591 0.67518574] + [0.01500733 0.01774008 0.018884   0.0284341  0.0199345  0.        ]
+2022-03-27 22:10:43,499 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:43,565 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:43,583 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69546008 0.63817927 0.68449171 0.62408721 0.6715752  0.68620654] + [ 0.03009804 -0.00057045  0.03667676  0.00712841  0.02666724  0.        ]
+2022-03-27 22:10:43,583 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:43,667 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:43,686 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62737699 0.68157426 0.69933191 0.65051766 0.65418189 0.6870173 ] + [0.01542679 0.01675324 0.02362898 0.02376485 0.02042614 0.        ]
+2022-03-27 22:10:43,687 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:43,766 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:43,783 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69680471 0.63827171 0.68316185 0.62450653 0.67130859 0.68594662] + [ 0.03009804 -0.00057045  0.03667676  0.00712841  0.02666724  0.        ]
+2022-03-27 22:10:43,783 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:43,873 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:43,904 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6207456  0.66676824 0.70194368 0.66545378 0.65417168 0.69091693] + [0.01542679 0.01675324 0.02362898 0.02376485 0.02042614 0.        ]
+2022-03-27 22:10:43,904 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:43,980 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:44,031 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69200629 0.63492694 0.68718243 0.62877395 0.67177939 0.68533098] + [ 0.03009804 -0.00057045  0.03667676  0.00712841  0.02666724  0.        ]
+2022-03-27 22:10:44,032 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:44,075 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:44,103 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67510289 0.6582347  0.67332343 0.66871887 0.65029672 0.67432339] + [0.01500733 0.01774008 0.018884   0.0284341  0.0199345  0.        ]
+2022-03-27 22:10:44,103 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:44,173 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:44,196 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62733071 0.67221798 0.65346214 0.70533018 0.66871984 0.67293918] + [0.00680368 0.0261177  0.00711181 0.03551729 0.02444951 0.        ]
+2022-03-27 22:10:44,196 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:44,275 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:44,294 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65930242 0.65976737 0.69263768 0.64799462 0.65612736 0.6841706 ] + [0.01624752 0.01802192 0.03107599 0.01540886 0.01924571 0.        ]
+2022-03-27 22:10:44,295 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:44,374 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:44,390 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.71584463 0.64161503 0.63299602 0.63575718 0.67277655 0.70101053] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:44,390 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:44,478 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:44,520 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66104431 0.66834409 0.67373481 0.6445839  0.65345915 0.69883376] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:44,521 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:44,577 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:44,602 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.71216943 0.7152646  0.63235622 0.6166818  0.64940477 0.67412322] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:44,602 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:44,680 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:44,709 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.63820228 0.74972083 0.64295871 0.62386662 0.68485471 0.66039684] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:44,709 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:44,780 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:44,804 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.7108037  0.67016055 0.68102831 0.63049    0.65168325 0.65583424] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:44,805 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:44,882 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:44,901 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.71260098 0.63837804 0.66948538 0.63398211 0.67852788 0.66702553] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:44,901 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:44,984 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:45,005 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.63237461 0.68442174 0.71435029 0.67193649 0.66256866 0.63434822] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:45,005 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:45,088 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:45,134 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.68939682 0.64149291 0.69812153 0.62391962 0.67184598 0.67522313] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:45,134 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:45,193 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:45,231 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66827547 0.67576133 0.67814876 0.65344895 0.65041197 0.6739535 ] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:45,232 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:45,295 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:45,373 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.68725078 0.64446186 0.68582302 0.63465249 0.66341579 0.68439606] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:45,374 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:45,411 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:45,459 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67255719 0.67452354 0.67314554 0.65482812 0.65079788 0.67414766] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:45,460 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:45,508 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:45,554 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.63225312 0.70766356 0.65426147 0.67138205 0.66165876 0.67278099] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:45,554 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:45,600 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:45,627 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62320993 0.68351303 0.63220614 0.68978997 0.65211607 0.71916488] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:45,627 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:45,710 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:45,742 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62038808 0.6966937  0.60093901 0.74728454 0.65503874 0.67965598] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:45,743 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:45,802 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:45,822 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62518749 0.62735193 0.65753263 0.74707797 0.67668681 0.66616319] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:45,822 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:45,905 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:45,929 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.71308167 0.63861183 0.67246518 0.66817395 0.6518035  0.65586385] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:45,929 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:46,029 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:46,085 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.71742666 0.64599957 0.66767231 0.62927725 0.67256786 0.66705637] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:46,086 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:46,120 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:46,141 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6422845  0.70189823 0.70112982 0.64492283 0.66836497 0.64139966] + [0.01859524 0.02085765 0.02032297 0.01919463 0.02102951 0.        ]
+2022-03-27 22:10:46,141 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:46,212 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:46,241 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62207561 0.69950075 0.64902099 0.68604859 0.66875679 0.67459733] + [0.00204137 0.03431189 0.00866947 0.02907815 0.02589911 0.        ]
+2022-03-27 22:10:46,241 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:46,314 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:46,336 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64729158 0.68317142 0.68360659 0.65346735 0.65192973 0.68053325] + [0.01624752 0.01802192 0.03107599 0.01540886 0.01924571 0.        ]
+2022-03-27 22:10:46,336 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:46,419 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:46,447 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69111502 0.64893116 0.67797309 0.63401245 0.66793251 0.6800357 ] + [0.02680147 0.00692534 0.03502525 0.00631583 0.02493211 0.        ]
+2022-03-27 22:10:46,447 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:46,521 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:46,540 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64529586 0.68734919 0.6851242  0.64980976 0.6513475  0.68107346] + [0.01624752 0.01802192 0.03107599 0.01540886 0.01924571 0.        ]
+2022-03-27 22:10:46,540 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:46,621 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:46,651 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69345442 0.64943325 0.67515712 0.63379978 0.66789847 0.68025703] + [0.02680147 0.00692534 0.03502525 0.00631583 0.02493211 0.        ]
+2022-03-27 22:10:46,651 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:46,723 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:46,752 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64587663 0.68807019 0.68391507 0.65006081 0.65173902 0.68033837] + [0.01624752 0.01802192 0.03107599 0.01540886 0.01924571 0.        ]
+2022-03-27 22:10:46,752 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:46,822 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:46,837 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6923672  0.6500421  0.67633706 0.63234817 0.66861835 0.68028718] + [0.02680147 0.00692534 0.03502525 0.00631583 0.02493211 0.        ]
+2022-03-27 22:10:46,837 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:46,925 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:46,953 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64807779 0.68764711 0.68246669 0.6497589  0.65166132 0.68038821] + [0.01624752 0.01802192 0.03107599 0.01540886 0.01924571 0.        ]
+2022-03-27 22:10:46,953 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:47,026 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:47,052 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69359633 0.6498401  0.67472885 0.63369962 0.66792759 0.68020758] + [0.02680147 0.00692534 0.03502525 0.00631583 0.02493211 0.        ]
+2022-03-27 22:10:47,052 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:47,128 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:47,155 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6517596  0.68854074 0.67902371 0.64869849 0.65194317 0.68003425] + [0.01624752 0.01802192 0.03107599 0.01540886 0.01924571 0.        ]
+2022-03-27 22:10:47,155 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:47,228 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:47,249 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69466933 0.65321344 0.67192046 0.63039152 0.66871284 0.68109238] + [0.02680147 0.00692534 0.03502525 0.00631583 0.02493211 0.        ]
+2022-03-27 22:10:47,249 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:47,329 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:47,357 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64972768 0.69196232 0.68037039 0.6453509  0.6520653  0.68052341] + [0.01624752 0.01802192 0.03107599 0.01540886 0.01924571 0.        ]
+2022-03-27 22:10:47,357 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:47,431 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:47,457 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69517701 0.652015   0.67078673 0.63270397 0.66991234 0.6794049 ] + [0.02680147 0.00692534 0.03502525 0.00631583 0.02493211 0.        ]
+2022-03-27 22:10:47,457 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:47,533 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:47,558 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65161594 0.69573492 0.6768884  0.64868659 0.65189371 0.67518045] + [0.01624752 0.01802192 0.03107599 0.01540886 0.01924571 0.        ]
+2022-03-27 22:10:47,558 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:47,633 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:47,649 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.63856051 0.70991537 0.64204071 0.67060728 0.66270646 0.67616974] + [0.00170398 0.0321644  0.00205313 0.04051992 0.02355858 0.        ]
+2022-03-27 22:10:47,649 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:47,733 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:47,751 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62392094 0.68444226 0.63181666 0.68713159 0.65457983 0.71810874] + [0.01542679 0.01675324 0.02362898 0.02376485 0.02042614 0.        ]
+2022-03-27 22:10:47,751 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:47,838 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:47,863 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.60779643 0.7280574  0.60673669 0.714504   0.65816388 0.68474165] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:47,863 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:47,937 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:47,955 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64006648 0.75483645 0.6278566  0.6223784  0.67987809 0.67498397] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:47,955 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:48,040 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:48,066 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69330416 0.68678106 0.67581499 0.63742968 0.65275038 0.65391975] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:48,066 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:48,138 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:48,155 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.70416035 0.65043187 0.67427566 0.63681307 0.67442078 0.65989827] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:48,155 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:48,244 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:48,263 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67230212 0.62931252 0.69065166 0.68884994 0.67354364 0.64534019] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:48,263 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:48,344 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:48,370 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.70239485 0.64976892 0.68980734 0.62759569 0.66660444 0.66382879] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:48,370 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:48,446 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:48,471 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67763669 0.61540023 0.670086   0.67581446 0.65821953 0.70284305] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:48,472 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:48,545 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:48,563 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.70831966 0.60097825 0.68456674 0.67756803 0.65766694 0.67090041] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:48,563 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:48,647 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:48,666 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.75881579 0.62509819 0.61913379 0.64363328 0.68044571 0.67287316] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:48,667 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:48,750 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:48,777 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.68557786 0.66028234 0.63368507 0.69448446 0.65734894 0.66862134] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:48,777 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:48,851 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:48,877 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64006407 0.6613076  0.63847564 0.71685474 0.67449529 0.66880262] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:48,877 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:48,950 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:48,967 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.68168513 0.68847157 0.66739912 0.66348584 0.66971343 0.62924493] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:48,968 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:49,054 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:49,080 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.63825504 0.67766251 0.62653506 0.71190615 0.67305934 0.67258187] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:49,081 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:49,155 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:49,181 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67800768 0.65424389 0.65180459 0.67378353 0.65511689 0.6870434 ] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:49,181 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:49,256 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:49,285 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69106251 0.675564   0.64822673 0.66170619 0.65106372 0.67237679] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:49,285 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:49,357 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:49,384 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.76431532 0.63537261 0.5998733  0.645604   0.68431972 0.67051514] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:49,384 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:49,458 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:49,475 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.70233395 0.69153504 0.5938875  0.68345431 0.65612084 0.67266828] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:49,475 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:49,557 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:49,576 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.7023475  0.64221354 0.6809674  0.63062331 0.67459098 0.66925724] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:49,577 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:49,661 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:49,688 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.63514636 0.70479842 0.61421736 0.72511559 0.66115136 0.65957095] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:49,689 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:49,762 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:49,788 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65086555 0.69175509 0.62800416 0.69656704 0.66878954 0.66401862] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:49,788 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:49,863 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:49,890 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67645846 0.68918458 0.61890069 0.66059608 0.65454341 0.70031669] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:49,890 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:49,964 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:49,987 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.63724731 0.68732778 0.63245682 0.72310247 0.65228421 0.66758144] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:49,988 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:50,065 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:50,093 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64872893 0.62665394 0.63468703 0.75015559 0.6781388  0.66163577] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:50,093 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:50,167 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:50,193 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.68182615 0.64365383 0.70537516 0.65924173 0.65382269 0.6560804 ] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:50,193 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:50,268 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:50,294 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67364945 0.63978248 0.70502625 0.63409946 0.67876523 0.66867709] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:50,294 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:50,371 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:50,397 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.70874376 0.68840869 0.63330788 0.66200907 0.66978358 0.63774712] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:50,397 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:50,471 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:50,499 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.7058465  0.63041521 0.68627324 0.63092263 0.67091811 0.67562434] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:50,499 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:50,572 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:50,595 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.68114424 0.67162679 0.65624037 0.65363808 0.65720416 0.6801464 ] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:50,595 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:50,670 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:50,684 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.68509536 0.63961901 0.68151551 0.63437974 0.66636854 0.69302186] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:50,684 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:50,773 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:50,798 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.70580331 0.63419807 0.691207   0.62796684 0.6632504  0.67757435] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:50,798 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:50,876 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:50,904 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69595467 0.72649899 0.59932337 0.61797501 0.67816132 0.68208672] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:50,904 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:50,976 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:51,001 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64259426 0.69320242 0.63829273 0.67699243 0.67470563 0.67421256] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:51,001 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:51,078 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:51,104 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65336348 0.63025881 0.66991092 0.67233191 0.6813162  0.69281871] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:51,104 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:51,179 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:51,206 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66459667 0.64044079 0.67345855 0.67382193 0.67475232 0.67292975] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:51,206 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action WAIT.
+2022-03-27 22:10:51,282 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:51,308 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65662351 0.63099828 0.6771022  0.66932462 0.67602559 0.68992579] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:51,309 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:51,382 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:51,408 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67806469 0.63926218 0.60558746 0.68692896 0.67076615 0.7193906 ] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:51,409 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:51,483 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:51,504 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.72858596 0.61151746 0.59263577 0.73334376 0.66679059 0.66712644] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:51,505 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:51,585 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:51,612 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6567411  0.61721554 0.6304612  0.74204391 0.68037391 0.6731643 ] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:51,612 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:51,687 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:51,715 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.691263   0.6698197  0.68961401 0.59929108 0.67354286 0.6764694 ] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:51,715 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:51,790 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:51,815 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6794398  0.68158351 0.70684655 0.59863957 0.66170697 0.67178365] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:51,815 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:51,891 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:51,918 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.60646912 0.69141455 0.68837088 0.63717198 0.70128013 0.67529336] + [0.0295446  0.00787634 0.03413077 0.00151372 0.02693458 0.        ]
+2022-03-27 22:10:51,918 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action WAIT.
+2022-03-27 22:10:51,992 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:52,010 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69186505 0.65759167 0.67861275 0.62461656 0.66850755 0.67880649] + [0.0295446  0.00787634 0.03413077 0.00151372 0.02693458 0.        ]
+2022-03-27 22:10:52,010 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:52,094 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:52,122 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64815573 0.6856232  0.66859299 0.64695727 0.66736625 0.68330462] + [0.01192853 0.02982511 0.01350763 0.02235091 0.0223878  0.        ]
+2022-03-27 22:10:52,122 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:52,195 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:52,221 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64873402 0.71402633 0.63034935 0.65147954 0.67019195 0.68521885] + [0.00307279 0.03819928 0.00546521 0.02771308 0.02554965 0.        ]
+2022-03-27 22:10:52,222 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:52,293 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:52,310 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64468627 0.69956214 0.67144051 0.6410512  0.66752622 0.67573373] + [0.01192853 0.02982511 0.01350763 0.02235091 0.0223878  0.        ]
+2022-03-27 22:10:52,310 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:52,397 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:52,423 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65074588 0.70726206 0.63470485 0.66008502 0.66411645 0.68308583] + [0.00307279 0.03819928 0.00546521 0.02771308 0.02554965 0.        ]
+2022-03-27 22:10:52,424 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:52,504 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:52,528 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64964131 0.65029555 0.61194521 0.69035366 0.6712776  0.72648666] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:52,528 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:52,599 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:52,625 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67031797 0.63406709 0.59980057 0.75962722 0.66215365 0.6740335 ] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:52,625 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:52,700 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:52,715 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65118935 0.61512468 0.62708003 0.75672902 0.68172316 0.6681538 ] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:52,716 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:52,800 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:52,820 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6578781  0.66930591 0.68757047 0.65994529 0.65945854 0.66584177] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:52,821 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:52,902 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:52,929 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65982402 0.67095722 0.67630358 0.63072079 0.68527188 0.67692245] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:52,929 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action WAIT.
+2022-03-27 22:10:53,004 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:53,031 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.60186214 0.68786738 0.69168725 0.63935768 0.70599069 0.67323486] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:53,031 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action WAIT.
+2022-03-27 22:10:53,105 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:53,133 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.68670956 0.65306268 0.68084681 0.63104744 0.67161047 0.67672307] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:53,133 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:53,207 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:53,228 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64787999 0.66979268 0.66044164 0.6660598  0.66847722 0.6873487 ] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:53,228 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:53,306 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:53,335 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64534602 0.68503329 0.6559768  0.69289004 0.65971383 0.66104006] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:53,335 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:53,406 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:53,434 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6579436  0.62630977 0.61931915 0.74421066 0.6856732  0.66654361] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:53,434 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:53,511 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:53,533 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65656185 0.64514627 0.67187877 0.69490267 0.66269782 0.66881268] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:53,533 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:53,607 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:53,626 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65739944 0.66376648 0.62484687 0.70902804 0.67385304 0.67110612] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:53,626 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:53,712 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:53,740 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65099963 0.62848769 0.71144332 0.68690373 0.67522019 0.64694545] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:53,740 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:53,812 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:53,834 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.68656998 0.64823315 0.67954839 0.64017128 0.67158989 0.67388727] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:53,834 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:53,912 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:53,932 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.63949295 0.66409265 0.67015362 0.67978861 0.6649732  0.68149896] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:53,932 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:54,014 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:54,032 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64805253 0.68610283 0.6632907  0.69032954 0.65879438 0.65343005] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:54,032 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:54,116 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:54,135 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65588674 0.62521554 0.62503696 0.74486639 0.68362323 0.66537114] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:54,136 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:54,215 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:54,233 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.68124892 0.6413946  0.60402509 0.72256555 0.66888429 0.68188158] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:54,234 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:54,319 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:54,347 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66808921 0.63748967 0.6325311  0.7150537  0.67508653 0.67174979] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:54,347 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:54,423 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:54,450 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67057894 0.62942939 0.72328998 0.67252092 0.66843072 0.63575009] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:54,450 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:54,521 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:54,536 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.68192313 0.63565817 0.67160887 0.66219435 0.67382848 0.67478702] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:54,536 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:54,624 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:54,643 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65745538 0.68587924 0.67856659 0.65288418 0.66075836 0.66445629] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:54,643 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:54,729 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:54,778 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65917223 0.67567239 0.63410044 0.67556182 0.66779503 0.68769818] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:54,778 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:54,828 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:54,845 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66026217 0.67237764 0.6210224  0.71065649 0.66502786 0.67065341] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:54,845 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:54,925 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:54,945 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67037941 0.62607132 0.70531896 0.68824391 0.66944297 0.64054342] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:54,945 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:55,026 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:55,048 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67159887 0.63329959 0.68456263 0.66228169 0.67098629 0.67727095] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:55,048 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:55,131 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:55,152 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67715094 0.67195184 0.66999122 0.65747143 0.66984266 0.6535919 ] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:55,153 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:55,228 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:55,245 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.61316916 0.65949481 0.68257262 0.66493391 0.70055264 0.67927688] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:55,245 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action WAIT.
+2022-03-27 22:10:55,330 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:55,360 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.68192313 0.63565817 0.67160887 0.66219435 0.67382848 0.67478702] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:55,360 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:55,431 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:55,452 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65692138 0.68013664 0.67659487 0.65932537 0.66212255 0.6648992 ] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:55,453 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:55,533 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:55,563 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65589496 0.67214145 0.63465452 0.67737714 0.67016101 0.68977093] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:55,563 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:55,634 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:55,663 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65905251 0.66303389 0.61799353 0.71226024 0.6696362  0.67802369] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:55,663 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:55,736 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:55,762 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67277893 0.62272815 0.69907035 0.6920788  0.67059867 0.64274513] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:55,762 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:55,841 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:55,868 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67084249 0.63020343 0.68316836 0.66408036 0.67246203 0.67924335] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:55,868 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:55,937 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:55,966 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67645579 0.66790792 0.67022393 0.66056988 0.67132835 0.65351419] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:55,966 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:56,039 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:56,070 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.61301096 0.65796105 0.68094037 0.66689721 0.70149449 0.67969594] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:56,071 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action WAIT.
+2022-03-27 22:10:56,141 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:56,180 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.68163755 0.63294856 0.66862099 0.66399514 0.67752067 0.67527715] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:56,180 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:56,244 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:56,281 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65826174 0.68376175 0.67753036 0.65270809 0.66200371 0.66573443] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:56,282 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:56,348 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:56,387 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66585563 0.67482854 0.62721054 0.67076955 0.67124813 0.69008754] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:56,388 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:56,451 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:56,482 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66047775 0.67477292 0.62118553 0.70192869 0.66775877 0.67387637] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:56,482 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:56,544 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:56,564 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67273953 0.62666947 0.70114065 0.68529172 0.66973416 0.64442455] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:56,564 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:56,644 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:56,671 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67375499 0.63466184 0.67952601 0.65660182 0.6743368  0.68111857] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:56,671 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:56,752 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:56,809 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67324074 0.63586578 0.67839741 0.66213064 0.67404801 0.67631745] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:56,810 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:56,860 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:56,939 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69605693 0.67512872 0.66077953 0.65519834 0.67041291 0.64242353] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:56,939 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:56,959 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:56,993 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.68235045 0.63870759 0.66683764 0.66219671 0.67676509 0.67314253] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:56,993 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:57,062 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:57,109 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65826174 0.68376175 0.67753036 0.65270809 0.66200371 0.66573443] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:57,109 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:57,155 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:57,188 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66186707 0.65954164 0.63855172 0.67643222 0.67380207 0.68980529] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:57,188 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:57,256 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:57,285 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.68053728 0.64827246 0.60933968 0.72360098 0.67389883 0.66435076] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:57,286 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:57,365 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:57,439 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65870345 0.6290173  0.71349269 0.68484715 0.66800261 0.64593678] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:57,440 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:57,481 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:57,551 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67937882 0.62997076 0.6633798  0.66721024 0.68157035 0.67849003] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:57,551 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action WAIT.
+2022-03-27 22:10:57,577 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:57,613 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69185735 0.66942805 0.60615301 0.65863775 0.69881215 0.67511167] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:57,613 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action WAIT.
+2022-03-27 22:10:57,684 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:57,761 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.61550664 0.6653116  0.67875416 0.65986991 0.70298629 0.67757145] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:57,762 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action WAIT.
+2022-03-27 22:10:57,789 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:57,817 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.68678225 0.63993545 0.66627549 0.65563619 0.67512345 0.67624722] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:57,817 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:57,898 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:57,973 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66728299 0.67581937 0.66741811 0.65631425 0.6634146  0.66975065] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:57,974 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:57,990 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:58,045 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66299018 0.67441749 0.63071153 0.67683258 0.66851916 0.68652907] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:58,047 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:58,098 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:58,167 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66030512 0.67718487 0.62086083 0.70412862 0.6663356  0.67118501] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:58,167 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:58,198 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:58,229 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6808544  0.61733658 0.69357767 0.69571615 0.67111563 0.64139957] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:58,229 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:10:58,306 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:58,376 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.68177388 0.62033512 0.69458479 0.69356956 0.67127327 0.63846336] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:58,377 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:10:58,400 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:58,440 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6833632  0.6308731  0.66777833 0.65866748 0.67415445 0.68516338] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:58,440 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:58,507 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:58,579 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.62917415 0.67370646 0.60783055 0.686663   0.71662475 0.68600106] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:58,579 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action WAIT.
+2022-03-27 22:10:58,599 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:58,620 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.74364923 0.62347429 0.59909913 0.66682999 0.68962357 0.67732381] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:58,621 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:10:58,708 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:58,758 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67258464 0.68569001 0.64805999 0.65620324 0.6557695  0.68169272] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:58,758 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:58,812 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:58,870 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6668514  0.67915525 0.63885447 0.66439251 0.67047439 0.68027198] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:58,870 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:58,905 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:58,939 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67220328 0.70051725 0.66630744 0.61470588 0.68969284 0.65657333] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:58,940 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:59,001 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:59,039 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6737017  0.69882814 0.68287802 0.60755746 0.67217348 0.66486127] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:59,039 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:59,104 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:59,127 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65625016 0.7123238  0.61633381 0.67245016 0.67349438 0.66914773] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:59,127 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:59,204 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:59,222 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65055043 0.68688739 0.66755726 0.65908599 0.66868308 0.66723581] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:59,222 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:59,314 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:59,332 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.68654645 0.71051882 0.6267922  0.62980718 0.6827876  0.66354772] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:59,333 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:59,415 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:59,436 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64705956 0.6758222  0.66851989 0.67552534 0.67135216 0.66172079] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:59,436 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:59,515 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:59,548 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65186353 0.68732034 0.62534592 0.68174688 0.67032694 0.68339638] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:59,548 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:59,611 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:59,635 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64628658 0.67639674 0.66454909 0.65900453 0.66725098 0.6865121 ] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:59,635 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:10:59,711 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:59,734 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6416602  0.6937135  0.66277053 0.68307109 0.65924505 0.65953962] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:59,734 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:59,816 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:59,844 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66475714 0.75511614 0.61043677 0.61297787 0.68546176 0.6712503 ] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:59,844 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:10:59,917 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:10:59,950 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6573944  0.70442178 0.68523272 0.6342456  0.66172311 0.65698235] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:10:59,950 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:11:00,024 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:00,057 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65526484 0.70451912 0.6193545  0.67318846 0.673458   0.67421515] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:00,058 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:11:00,116 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:00,146 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69374046 0.7183488  0.63520889 0.60279956 0.67398744 0.67591477] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:00,146 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:11:00,217 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:00,245 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65237648 0.68287994 0.64188273 0.67271689 0.67377853 0.67636544] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:00,245 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:11:00,330 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:00,399 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64991952 0.65770379 0.68351886 0.68221141 0.66073925 0.66590724] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:00,399 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:11:00,424 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:00,466 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67647224 0.66012905 0.67189478 0.63544559 0.66988736 0.68617095] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:00,466 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:11:00,516 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:00,535 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.70578946 0.66536698 0.6747314  0.6179646  0.66655877 0.66958873] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:00,535 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:11:00,619 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:00,651 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69257548 0.67208405 0.62281609 0.70724927 0.66943811 0.63583699] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:00,652 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:11:00,729 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:00,781 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65254829 0.67104508 0.638095   0.6878637  0.67132905 0.67911886] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:00,781 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:11:00,829 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:00,865 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.6679644  0.68245302 0.60472881 0.68460733 0.68181963 0.67842683] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:00,865 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:11:00,924 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:00,941 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65318108 0.68282027 0.63189822 0.68059359 0.67941283 0.67209401] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:00,942 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:11:01,024 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:01,076 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.68746995 0.72841813 0.60591233 0.62652906 0.67042691 0.68124365] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:01,077 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:11:01,136 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:01,206 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65321041 0.70723815 0.63391891 0.64419911 0.67017221 0.69126123] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:01,207 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:11:01,234 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:01,285 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65125633 0.67018381 0.68368444 0.66586376 0.65969477 0.66931694] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:01,286 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:11:01,325 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:01,353 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67352066 0.66180844 0.67701339 0.63185942 0.67070367 0.68509443] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:01,353 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:11:01,440 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:01,485 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66923529 0.66442522 0.67763891 0.63367421 0.68237268 0.67265364] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:01,486 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action WAIT.
+2022-03-27 22:11:01,528 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:01,556 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.70578946 0.66536698 0.6747314  0.6179646  0.66655877 0.66958873] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:01,556 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action UP.
+2022-03-27 22:11:01,640 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:01,709 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.69373521 0.67699903 0.62176733 0.70027113 0.66986588 0.63736136] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:01,710 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:11:01,738 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:01,789 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65580261 0.66921844 0.63641798 0.68936956 0.67259112 0.67660031] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:01,789 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:11:01,832 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:01,872 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.67327157 0.6964451  0.60242543 0.68078872 0.67733601 0.66973315] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:01,872 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:11:01,929 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:01,967 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65460743 0.68123696 0.63821709 0.67104239 0.67628759 0.67860857] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:01,967 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:11:02,040 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:02,085 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65080611 0.65462357 0.67828078 0.68186346 0.66301155 0.67141445] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:02,086 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action LEFT.
+2022-03-27 22:11:02,139 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:02,205 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.65112822 0.66932803 0.64035619 0.67812824 0.66979587 0.69126347] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:02,206 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action BOMB.
+2022-03-27 22:11:02,236 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:02,272 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64770704 0.69588169 0.63096947 0.6812864  0.6695419  0.6746136 ] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:02,272 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:11:02,342 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:02,400 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.64988331 0.69539318 0.63106271 0.68223805 0.66835925 0.67306361] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:02,401 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action RIGHT.
+2022-03-27 22:11:02,436 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:02,481 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66585512 0.69137758 0.70771086 0.60998536 0.67135571 0.65371537] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:02,482 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
+2022-03-27 22:11:02,537 [ac9x9_1_superior_gen2_code] INFO: Predicting Action
+2022-03-27 22:11:02,580 [ac9x9_1_superior_gen2_code] DEBUG: Using argmax policy [0.66811197 0.68643795 0.69917095 0.62152238 0.67053551 0.65422119] + [0. 0. 0. 0. 0. 0.]
+2022-03-27 22:11:02,581 [ac9x9_1_superior_gen2_code] DEBUG: Choosing action DOWN.
