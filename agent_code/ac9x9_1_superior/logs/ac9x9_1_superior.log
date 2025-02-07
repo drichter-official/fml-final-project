@@ -1,0 +1,1799 @@
+2022-03-26 11:20:58,509 [ac9x9_1_superior_code] DEBUG: Successfully entered setup code
+2022-03-26 11:20:58,509 [ac9x9_1_superior_code] DEBUG: Successfully entered setup code
+2022-03-26 11:20:58,509 [ac9x9_1_superior_code] INFO: Loading model.
+2022-03-26 11:21:00,102 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:00,108 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.49192  43.931767 59.028885 54.880817 55.089493 55.364452]
+2022-03-26 11:21:00,108 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:00,152 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:00,157 [ac9x9_1_superior_code] DEBUG: Using argmax policy[55.661846 49.62956  53.949497 53.053253 56.514458 57.85904 ]
+2022-03-26 11:21:00,157 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:00,255 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:00,261 [ac9x9_1_superior_code] DEBUG: Using argmax policy[59.9435   52.359074 40.026035 41.262714 53.40016  54.648285]
+2022-03-26 11:21:00,262 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:00,355 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:00,359 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.11579  46.642597 54.072964 61.625546 54.80548  52.92948 ]
+2022-03-26 11:21:00,360 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:00,480 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:00,487 [ac9x9_1_superior_code] DEBUG: Using argmax policy[60.333015 60.239952 46.39324  61.25093  59.796783 61.090027]
+2022-03-26 11:21:00,487 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:00,578 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:00,591 [ac9x9_1_superior_code] DEBUG: Using argmax policy[60.333015 60.239952 46.39324  61.25093  59.796783 61.090027]
+2022-03-26 11:21:00,591 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:00,668 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:00,671 [ac9x9_1_superior_code] DEBUG: Using argmax policy[57.532463 23.705236 59.2735   58.162994 60.986507 56.27604 ]
+2022-03-26 11:21:00,671 [ac9x9_1_superior_code] DEBUG: Choosing action WAIT.
+2022-03-26 11:21:00,784 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:00,791 [ac9x9_1_superior_code] DEBUG: Using argmax policy[57.51452  62.367413 46.59598  58.03192  58.98712  59.132908]
+2022-03-26 11:21:00,791 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:00,872 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:00,879 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.638683 38.30882  67.267204 62.381    61.481026 61.12105 ]
+2022-03-26 11:21:00,879 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:00,974 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:00,980 [ac9x9_1_superior_code] DEBUG: Using argmax policy[62.61565  59.6903   69.02308  62.955395 65.058174 64.807434]
+2022-03-26 11:21:00,980 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:01,074 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:01,087 [ac9x9_1_superior_code] DEBUG: Using argmax policy[60.01265  53.251133 65.98849  55.853336 63.488277 64.18158 ]
+2022-03-26 11:21:01,087 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:01,171 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:01,175 [ac9x9_1_superior_code] DEBUG: Using argmax policy[61.326088 54.590164 62.882927 55.13617  61.24243  60.969784]
+2022-03-26 11:21:01,176 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:01,264 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:01,267 [ac9x9_1_superior_code] DEBUG: Using argmax policy[59.876614 51.102856 55.10852  44.489803 58.98081  64.33516 ]
+2022-03-26 11:21:01,267 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:01,374 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:01,380 [ac9x9_1_superior_code] DEBUG: Using argmax policy[65.45636  48.710503 28.624546  7.945159 49.814663 53.463844]
+2022-03-26 11:21:01,380 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:01,477 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:01,480 [ac9x9_1_superior_code] DEBUG: Using argmax policy[64.77325 54.47148 41.2261  34.28232 54.47231 52.86934]
+2022-03-26 11:21:01,480 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:01,591 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:01,596 [ac9x9_1_superior_code] DEBUG: Using argmax policy[61.514606 49.677513 57.979362 51.198383 53.810406 55.007896]
+2022-03-26 11:21:01,596 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:01,707 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:01,715 [ac9x9_1_superior_code] DEBUG: Using argmax policy[61.14245  60.592915 53.004574 51.61529  54.299522 51.960968]
+2022-03-26 11:21:01,716 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:01,771 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:01,776 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.652496 38.95182  39.86417  55.31841  45.991695 45.67712 ]
+2022-03-26 11:21:01,776 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:01,874 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:01,881 [ac9x9_1_superior_code] DEBUG: Using argmax policy[55.445107 59.479027 44.512886 55.958046 56.46425  56.45058 ]
+2022-03-26 11:21:01,881 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:01,976 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:01,982 [ac9x9_1_superior_code] DEBUG: Using argmax policy[44.921547 36.134506 60.378628 55.951157 55.41515  54.691566]
+2022-03-26 11:21:01,982 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:02,071 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:02,085 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.106724 52.69407  61.62539  54.64157  58.23265  57.923965]
+2022-03-26 11:21:02,085 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:02,173 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:02,179 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.10611  46.654972 64.42867  55.027527 61.553684 62.199123]
+2022-03-26 11:21:02,181 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:02,301 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:02,308 [ac9x9_1_superior_code] DEBUG: Using argmax policy[60.529854 55.499004 62.372566 57.24748  61.580673 61.69583 ]
+2022-03-26 11:21:02,308 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:02,382 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:02,388 [ac9x9_1_superior_code] DEBUG: Using argmax policy[60.40591  42.036346 59.611427 65.23746  59.184666 58.677143]
+2022-03-26 11:21:02,389 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:02,479 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:02,488 [ac9x9_1_superior_code] DEBUG: Using argmax policy[59.20392  62.244377 56.587975 68.32023  62.23845  63.22099 ]
+2022-03-26 11:21:02,488 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:02,583 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:02,588 [ac9x9_1_superior_code] DEBUG: Using argmax policy[58.949768 64.029755 59.387646 60.376457 65.605774 68.16616 ]
+2022-03-26 11:21:02,589 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:02,700 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:02,707 [ac9x9_1_superior_code] DEBUG: Using argmax policy[52.94267  72.34701  13.27406  10.642293 50.04479  47.092636]
+2022-03-26 11:21:02,707 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:02,784 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:02,798 [ac9x9_1_superior_code] DEBUG: Using argmax policy[58.627598 69.028534 39.804005 60.476345 59.733402 57.452885]
+2022-03-26 11:21:02,798 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:02,877 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:02,880 [ac9x9_1_superior_code] DEBUG: Using argmax policy[67.436195 42.325073 60.984257 66.22423  56.605907 56.540676]
+2022-03-26 11:21:02,880 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:02,979 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:02,982 [ac9x9_1_superior_code] DEBUG: Using argmax policy[67.90933  62.715034 44.127617 55.15339  68.03526  65.37632 ]
+2022-03-26 11:21:02,982 [ac9x9_1_superior_code] DEBUG: Choosing action WAIT.
+2022-03-26 11:21:03,117 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:03,127 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.026276 51.808846 28.111134 49.10178  55.398838 52.4599  ]
+2022-03-26 11:21:03,128 [ac9x9_1_superior_code] DEBUG: Choosing action WAIT.
+2022-03-26 11:21:03,203 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:03,213 [ac9x9_1_superior_code] DEBUG: Using argmax policy[52.318672 48.718887 55.780857 47.551746 52.244896 51.797302]
+2022-03-26 11:21:03,213 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:03,296 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:03,303 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.646343 34.179638 54.842754 62.71878  54.105957 52.28784 ]
+2022-03-26 11:21:03,303 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:03,402 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:03,412 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.249203 54.795784 47.042747 64.8971   55.39124  55.877876]
+2022-03-26 11:21:03,412 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:03,507 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:03,513 [ac9x9_1_superior_code] DEBUG: Using argmax policy[62.59855  59.253235 62.856052 66.285995 60.952488 60.9888  ]
+2022-03-26 11:21:03,513 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:03,583 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:03,586 [ac9x9_1_superior_code] DEBUG: Using argmax policy[59.04043  63.45756  52.97594  68.60548  61.904697 62.963287]
+2022-03-26 11:21:03,587 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:03,692 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:03,696 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.879005 58.42179  57.815086 58.390038 60.03488  61.783318]
+2022-03-26 11:21:03,696 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:03,799 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:03,804 [ac9x9_1_superior_code] DEBUG: Using argmax policy[45.684303 66.216194 24.785244 16.52182  45.60117  42.08766 ]
+2022-03-26 11:21:03,804 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:03,899 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:03,903 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.994427 67.831764 32.2408   50.577118 53.652    51.634563]
+2022-03-26 11:21:03,903 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:03,991 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:03,994 [ac9x9_1_superior_code] DEBUG: Using argmax policy[64.6342   62.915966 64.08923  61.225197 55.108524 53.551388]
+2022-03-26 11:21:03,994 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:04,113 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:04,119 [ac9x9_1_superior_code] DEBUG: Using argmax policy[63.04933  58.022324 50.72382  48.396862 62.59178  61.503555]
+2022-03-26 11:21:04,120 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:04,232 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:04,240 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.613052 40.851326 57.265778 53.13943  53.83851  54.879433]
+2022-03-26 11:21:04,241 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:04,311 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:04,316 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.37566  46.476803 55.220745 50.771732 52.747803 54.68195 ]
+2022-03-26 11:21:04,316 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:04,415 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:04,421 [ac9x9_1_superior_code] DEBUG: Using argmax policy[52.742287 46.59117  54.159233 56.572666 49.647717 49.59816 ]
+2022-03-26 11:21:04,421 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:04,527 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:04,533 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.06959 54.88894 47.78583 59.84553 53.90963 55.39726]
+2022-03-26 11:21:04,533 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:04,611 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:04,617 [ac9x9_1_superior_code] DEBUG: Using argmax policy[59.367695 55.156017 61.32168  63.834366 58.041824 58.361626]
+2022-03-26 11:21:04,618 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:04,713 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:04,725 [ac9x9_1_superior_code] DEBUG: Using argmax policy[58.262012 64.0189   55.90362  65.670746 62.312458 63.511486]
+2022-03-26 11:21:04,726 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:04,818 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:04,831 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.985226 61.626427 52.619278 55.434105 62.7081   65.43215 ]
+2022-03-26 11:21:04,831 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:04,916 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:04,923 [ac9x9_1_superior_code] DEBUG: Using argmax policy[45.414867  69.04769    6.4730062  2.1154237 44.122154  41.0264   ]
+2022-03-26 11:21:04,924 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:05,002 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:05,014 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.870644 71.85553  35.009857 54.67232  57.388493 55.01033 ]
+2022-03-26 11:21:05,015 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:05,121 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:05,128 [ac9x9_1_superior_code] DEBUG: Using argmax policy[68.873405 57.504147 64.63163  64.35965  54.144676 52.985344]
+2022-03-26 11:21:05,129 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:05,218 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:05,226 [ac9x9_1_superior_code] DEBUG: Using argmax policy[70.16443  61.845848 50.051556 52.915043 68.405174 66.4557  ]
+2022-03-26 11:21:05,226 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:05,321 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:05,332 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.876396 45.165695 60.944714 54.986435 53.91243  53.112576]
+2022-03-26 11:21:05,333 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:05,404 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:05,411 [ac9x9_1_superior_code] DEBUG: Using argmax policy[59.602917 53.817425 66.3345   57.11134  59.76721  61.89316 ]
+2022-03-26 11:21:05,411 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:05,508 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:05,517 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.937386 50.150208 57.02816  59.833927 53.391647 53.386955]
+2022-03-26 11:21:05,517 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:05,612 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:05,624 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.716103 60.728012 43.85669  58.626873 56.030045 56.557095]
+2022-03-26 11:21:05,624 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:05,711 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:05,723 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.786724 50.21695  56.97558  59.479156 53.279846 53.34262 ]
+2022-03-26 11:21:05,723 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:05,811 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:05,825 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.716103 60.728012 43.85669  58.626873 56.030045 56.557095]
+2022-03-26 11:21:05,826 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:05,911 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:05,924 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.786724 50.21695  56.97558  59.479156 53.279846 53.34262 ]
+2022-03-26 11:21:05,924 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:06,013 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:06,024 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.716103 60.728012 43.85669  58.626873 56.030045 56.557095]
+2022-03-26 11:21:06,024 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:06,105 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:06,112 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.786724 50.21695  56.97558  59.479156 53.279846 53.34262 ]
+2022-03-26 11:21:06,112 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:06,208 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:06,222 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.716103 60.728012 43.85669  58.626873 56.030045 56.557095]
+2022-03-26 11:21:06,222 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:06,318 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:06,333 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.786724 50.21695  56.97558  59.479156 53.279846 53.34262 ]
+2022-03-26 11:21:06,334 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:06,417 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:06,430 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.716103 60.728012 43.85669  58.626873 56.030045 56.557095]
+2022-03-26 11:21:06,431 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:06,517 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:06,530 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.786724 50.21695  56.97558  59.479156 53.279846 53.34262 ]
+2022-03-26 11:21:06,531 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:06,619 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:06,632 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.716103 60.728012 43.85669  58.626873 56.030045 56.557095]
+2022-03-26 11:21:06,633 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:06,720 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:06,733 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.786724 50.21695  56.97558  59.479156 53.279846 53.34262 ]
+2022-03-26 11:21:06,734 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:06,822 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:06,833 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.716103 60.728012 43.85669  58.626873 56.030045 56.557095]
+2022-03-26 11:21:06,834 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:06,922 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:06,935 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.786724 50.21695  56.97558  59.479156 53.279846 53.34262 ]
+2022-03-26 11:21:06,935 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:07,023 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:07,037 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.716103 60.728012 43.85669  58.626873 56.030045 56.557095]
+2022-03-26 11:21:07,037 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:07,124 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:07,135 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.786724 50.21695  56.97558  59.479156 53.279846 53.34262 ]
+2022-03-26 11:21:07,135 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:07,224 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:07,236 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.716103 60.728012 43.85669  58.626873 56.030045 56.557095]
+2022-03-26 11:21:07,237 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:07,326 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:07,339 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.786724 50.21695  56.97558  59.479156 53.279846 53.34262 ]
+2022-03-26 11:21:07,339 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:07,418 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:07,426 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.716103 60.728012 43.85669  58.626873 56.030045 56.557095]
+2022-03-26 11:21:07,426 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:07,527 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:07,540 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.786724 50.21695  56.97558  59.479156 53.279846 53.34262 ]
+2022-03-26 11:21:07,541 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:07,629 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:07,642 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.716103 60.728012 43.85669  58.626873 56.030045 56.557095]
+2022-03-26 11:21:07,642 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:07,729 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:07,743 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.786724 50.21695  56.97558  59.479156 53.279846 53.34262 ]
+2022-03-26 11:21:07,743 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:07,830 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:07,843 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.716103 60.728012 43.85669  58.626873 56.030045 56.557095]
+2022-03-26 11:21:07,844 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:07,932 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:07,944 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.786724 50.21695  56.97558  59.479156 53.279846 53.34262 ]
+2022-03-26 11:21:07,945 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:08,026 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:08,036 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.716103 60.728012 43.85669  58.626873 56.030045 56.557095]
+2022-03-26 11:21:08,037 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:08,135 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:08,148 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.786724 50.21695  56.97558  59.479156 53.279846 53.34262 ]
+2022-03-26 11:21:08,149 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:08,235 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:08,245 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.716103 60.728012 43.85669  58.626873 56.030045 56.557095]
+2022-03-26 11:21:08,246 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:11,419 [ac9x9_1_superior_code] INFO: Starting Episode 2
+2022-03-26 11:21:11,419 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:11,427 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.526875 46.82142  56.4812   53.536667 55.371635 56.3507  ]
+2022-03-26 11:21:11,427 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:11,482 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:11,486 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.206383 48.60482  45.53758  48.644203 54.384342 56.655136]
+2022-03-26 11:21:11,486 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:11,592 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:11,597 [ac9x9_1_superior_code] DEBUG: Using argmax policy[57.829456 47.218826 37.290047 26.736464 48.920967 50.76732 ]
+2022-03-26 11:21:11,598 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:11,703 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:11,709 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.48745  47.783722 51.184    58.856243 53.142868 51.27807 ]
+2022-03-26 11:21:11,709 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:11,793 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:11,798 [ac9x9_1_superior_code] DEBUG: Using argmax policy[59.17536  57.54255  45.589455 60.056858 58.27652  59.486614]
+2022-03-26 11:21:11,798 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:11,899 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:11,904 [ac9x9_1_superior_code] DEBUG: Using argmax policy[59.17536  57.54255  45.589455 60.056858 58.27652  59.486614]
+2022-03-26 11:21:11,904 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:12,004 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:12,010 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.93639  17.322172 57.687466 60.383392 59.23     54.323406]
+2022-03-26 11:21:12,010 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:12,085 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:12,089 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.83897  59.552277 49.15605  58.8025   58.099792 58.319557]
+2022-03-26 11:21:12,089 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:12,211 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:12,218 [ac9x9_1_superior_code] DEBUG: Using argmax policy[45.918377 38.615997 61.85101  56.706356 56.39046  55.99815 ]
+2022-03-26 11:21:12,218 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:12,291 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:12,296 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.25626  52.29814  62.949837 55.349216 59.2984   59.345318]
+2022-03-26 11:21:12,296 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:12,400 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:12,406 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.977135 46.211597 62.971153 57.897434 60.826427 60.686855]
+2022-03-26 11:21:12,407 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:12,518 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:12,526 [ac9x9_1_superior_code] DEBUG: Using argmax policy[59.206913 51.665386 64.75844  57.55409  61.394493 61.61374 ]
+2022-03-26 11:21:12,526 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:12,580 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:12,584 [ac9x9_1_superior_code] DEBUG: Using argmax policy[60.75629  48.87494  64.202324 60.851395 63.482433 63.511402]
+2022-03-26 11:21:12,585 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:12,683 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:12,689 [ac9x9_1_superior_code] DEBUG: Using argmax policy[61.89298  54.553864 64.19875  55.67074  62.057846 61.50543 ]
+2022-03-26 11:21:12,689 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:12,780 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:12,782 [ac9x9_1_superior_code] DEBUG: Using argmax policy[59.33141  48.398926 61.135498 55.93824  60.285088 61.967167]
+2022-03-26 11:21:12,782 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:12,895 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:12,899 [ac9x9_1_superior_code] DEBUG: Using argmax policy[60.88275  39.097023 53.163654 21.772568 45.69554  46.633236]
+2022-03-26 11:21:12,900 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:12,985 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:12,990 [ac9x9_1_superior_code] DEBUG: Using argmax policy[64.90171  52.52063  53.10166  38.738987 57.013756 56.80606 ]
+2022-03-26 11:21:12,990 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:13,088 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:13,094 [ac9x9_1_superior_code] DEBUG: Using argmax policy[64.691246 46.86862  58.633263 62.83658  56.96704  57.6247  ]
+2022-03-26 11:21:13,094 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:13,199 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:13,203 [ac9x9_1_superior_code] DEBUG: Using argmax policy[61.6414   55.217915 62.93442  47.24824  56.082947 55.926014]
+2022-03-26 11:21:13,203 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:16,832 [ac9x9_1_superior_code] INFO: Starting Episode 3
+2022-03-26 11:21:16,832 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:16,835 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.855022 41.480457 61.764027 56.504745 57.10212  56.78807 ]
+2022-03-26 11:21:16,835 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:16,931 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:16,935 [ac9x9_1_superior_code] DEBUG: Using argmax policy[55.65366  52.66668  60.606823 53.605755 57.076965 57.33432 ]
+2022-03-26 11:21:16,935 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:17,042 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:17,048 [ac9x9_1_superior_code] DEBUG: Using argmax policy[55.405087 47.12889  50.51275  51.213703 53.906834 58.661835]
+2022-03-26 11:21:17,048 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:17,134 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:17,138 [ac9x9_1_superior_code] DEBUG: Using argmax policy[62.382427  44.315483  31.35459    0.6708523 40.12243   43.956524 ]
+2022-03-26 11:21:17,138 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:17,267 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:17,273 [ac9x9_1_superior_code] DEBUG: Using argmax policy[62.40929 53.30138 41.58109 42.08341 53.76573 53.56426]
+2022-03-26 11:21:17,273 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:17,339 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:17,341 [ac9x9_1_superior_code] DEBUG: Using argmax policy[49.369656 44.694584 57.61128  62.146065 54.575325 52.31657 ]
+2022-03-26 11:21:17,342 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:17,438 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:17,441 [ac9x9_1_superior_code] DEBUG: Using argmax policy[59.657993 62.258656 67.24014  66.900215 65.8945   66.89898 ]
+2022-03-26 11:21:17,441 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:17,543 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:17,546 [ac9x9_1_superior_code] DEBUG: Using argmax policy[49.923462 21.469595 56.589237 52.92685  55.416534 52.152176]
+2022-03-26 11:21:17,546 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:17,631 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:17,633 [ac9x9_1_superior_code] DEBUG: Using argmax policy[50.84857  55.387012 44.156536 52.28065  52.11519  51.933887]
+2022-03-26 11:21:17,633 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:17,742 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:17,746 [ac9x9_1_superior_code] DEBUG: Using argmax policy[40.695515 33.235966 54.296623 49.705063 49.802696 49.71782 ]
+2022-03-26 11:21:17,746 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:17,836 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:17,840 [ac9x9_1_superior_code] DEBUG: Using argmax policy[49.10208  46.662483 53.75383  48.226162 51.344807 51.54741 ]
+2022-03-26 11:21:17,840 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:17,944 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:17,949 [ac9x9_1_superior_code] DEBUG: Using argmax policy[50.405098 36.875507 56.596424 55.95956  52.923264 51.8937  ]
+2022-03-26 11:21:17,949 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:18,041 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:18,044 [ac9x9_1_superior_code] DEBUG: Using argmax policy[52.67605  50.303658 56.33995  48.188976 53.62228  54.054543]
+2022-03-26 11:21:18,044 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:18,148 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:18,151 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.845142 47.368797 55.501236 53.7922   54.741756 56.32507 ]
+2022-03-26 11:21:18,151 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:18,236 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:18,239 [ac9x9_1_superior_code] DEBUG: Using argmax policy[57.282246 39.882015 47.285797 26.617687 42.200703 42.76403 ]
+2022-03-26 11:21:18,239 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:18,341 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:18,343 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.27717  48.527225 42.427776 31.136877 48.814575 49.13624 ]
+2022-03-26 11:21:18,343 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:18,453 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:18,460 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.60693  34.75994  51.80075  58.91006  47.862446 47.6024  ]
+2022-03-26 11:21:18,461 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:18,574 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:18,580 [ac9x9_1_superior_code] DEBUG: Using argmax policy[52.041073 51.719894 46.87771  63.571255 53.933334 53.73451 ]
+2022-03-26 11:21:18,580 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:18,660 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:18,666 [ac9x9_1_superior_code] DEBUG: Using argmax policy[50.301697 54.4391   54.670586 56.759186 53.70291  54.601334]
+2022-03-26 11:21:18,666 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:18,742 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:18,744 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.48868  56.302082 43.93408  54.41315  53.15104  53.956093]
+2022-03-26 11:21:18,744 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:18,858 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:18,861 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.019695 52.111893 50.743843 51.784863 55.164665 57.48926 ]
+2022-03-26 11:21:18,861 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:18,939 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:18,942 [ac9x9_1_superior_code] DEBUG: Using argmax policy[43.190105 55.657093 45.86849  33.212837 47.534184 47.348694]
+2022-03-26 11:21:18,942 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:19,041 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:19,044 [ac9x9_1_superior_code] DEBUG: Using argmax policy[45.94715  56.228355 24.336739 48.038055 47.79819  45.289547]
+2022-03-26 11:21:19,044 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:19,152 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:19,156 [ac9x9_1_superior_code] DEBUG: Using argmax policy[49.320446 34.05773  55.293095 50.370033 47.16011  45.661716]
+2022-03-26 11:21:19,156 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:19,244 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:19,247 [ac9x9_1_superior_code] DEBUG: Using argmax policy[52.093655 48.647987 56.815952 51.961075 54.55866  54.676186]
+2022-03-26 11:21:19,247 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:19,362 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:19,367 [ac9x9_1_superior_code] DEBUG: Using argmax policy[40.492496 29.652514 50.787853 47.983143 45.02383  43.670887]
+2022-03-26 11:21:19,367 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:19,462 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:19,465 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.251995 43.31881  51.546574 42.672943 47.605232 47.828163]
+2022-03-26 11:21:19,465 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:19,557 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:19,559 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.656292 40.677944 57.85315  53.73977  54.268394 53.976353]
+2022-03-26 11:21:19,559 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:19,660 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:19,662 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.143524 50.6997   58.998215 50.062046 55.96642  56.359608]
+2022-03-26 11:21:19,662 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:19,758 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:19,760 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.181828 43.11356  47.730503 35.910526 51.47057  57.33715 ]
+2022-03-26 11:21:19,760 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:19,870 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:19,877 [ac9x9_1_superior_code] DEBUG: Using argmax policy[60.044014  42.886185  24.807808  -7.9798927 40.612255  45.02115  ]
+2022-03-26 11:21:19,877 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:19,963 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:19,966 [ac9x9_1_superior_code] DEBUG: Using argmax policy[62.28905  54.24034  36.865425 26.028172 50.71306  51.270226]
+2022-03-26 11:21:19,966 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:20,050 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:20,053 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.693943 43.363037 51.850147 58.855965 48.722435 46.644985]
+2022-03-26 11:21:20,053 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:20,156 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:20,160 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.309513 54.74615  50.45079  62.14744  55.9372   56.460815]
+2022-03-26 11:21:20,160 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:20,267 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:20,269 [ac9x9_1_superior_code] DEBUG: Using argmax policy[57.23376  53.757397 53.91009  49.994736 55.66296  58.033096]
+2022-03-26 11:21:20,269 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:20,368 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:20,370 [ac9x9_1_superior_code] DEBUG: Using argmax policy[55.300774 51.98442  48.73163  45.071472 54.36997  58.28016 ]
+2022-03-26 11:21:20,370 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:20,466 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:20,470 [ac9x9_1_superior_code] DEBUG: Using argmax policy[52.19061  49.10155  51.2748   47.065735 53.79977  56.57522 ]
+2022-03-26 11:21:20,471 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:20,559 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:20,561 [ac9x9_1_superior_code] DEBUG: Using argmax policy[60.377766 51.24519  35.007458 10.27081  46.81644  49.923878]
+2022-03-26 11:21:20,561 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:20,672 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:20,674 [ac9x9_1_superior_code] DEBUG: Using argmax policy[61.42344  45.764355 41.118095 26.151318 46.687862 46.391853]
+2022-03-26 11:21:20,674 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:20,771 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:20,774 [ac9x9_1_superior_code] DEBUG: Using argmax policy[57.786823 44.852116 52.06969  64.06659  50.11222  50.460373]
+2022-03-26 11:21:20,774 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:20,861 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:20,864 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.44325  52.225754 53.924435 64.54411  56.290592 57.281696]
+2022-03-26 11:21:20,864 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:20,974 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:20,977 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.793915 57.879784 59.59323  46.358032 59.786705 60.497753]
+2022-03-26 11:21:20,977 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:21,074 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:21,077 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.70619  55.762894 59.033195 45.182095 58.650715 59.590466]
+2022-03-26 11:21:21,077 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:21,166 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:21,169 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.338955 55.034374 57.846237 44.594532 58.753593 60.636654]
+2022-03-26 11:21:21,169 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:21,277 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:21,279 [ac9x9_1_superior_code] DEBUG: Using argmax policy[55.46031  58.860546 55.439568 -8.141541 45.792744 43.663097]
+2022-03-26 11:21:21,279 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:21,367 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:21,369 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.90683  53.181973 28.674406 47.676975 46.250042 45.376072]
+2022-03-26 11:21:21,370 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:21,481 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:21,484 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.651054 35.001534 43.150215 49.744225 41.45628  43.19555 ]
+2022-03-26 11:21:21,484 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:21,581 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:21,584 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.273537 41.55023  34.61853  34.6741   46.722843 46.687572]
+2022-03-26 11:21:21,584 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:21,686 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:21,690 [ac9x9_1_superior_code] DEBUG: Using argmax policy[37.03728  32.10304  38.457535 40.78921  35.99921  35.73074 ]
+2022-03-26 11:21:21,690 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:21,782 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:21,785 [ac9x9_1_superior_code] DEBUG: Using argmax policy[36.581814 38.859577 33.895374 45.150806 38.373703 39.262   ]
+2022-03-26 11:21:21,785 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:21,876 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:21,879 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.13435  44.12729  54.85328  53.01978  53.78654  54.353157]
+2022-03-26 11:21:21,879 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:21,991 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:21,993 [ac9x9_1_superior_code] DEBUG: Using argmax policy[50.952118 44.090984 55.473602 49.00697  53.143917 54.38764 ]
+2022-03-26 11:21:21,993 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:22,085 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:22,088 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.126316 44.546875 54.48928  58.769627 53.39231  53.044586]
+2022-03-26 11:21:22,088 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:22,186 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:22,189 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.229748 57.117245 51.90309  61.58804  56.882404 57.84252 ]
+2022-03-26 11:21:22,189 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:22,287 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:22,290 [ac9x9_1_superior_code] DEBUG: Using argmax policy[49.81096  55.848507 53.330055 49.975407 57.295612 59.73894 ]
+2022-03-26 11:21:22,290 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:22,394 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:22,396 [ac9x9_1_superior_code] DEBUG: Using argmax policy[44.446487  66.06115   22.138058   1.5339457 42.798233  40.707153 ]
+2022-03-26 11:21:22,396 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:22,493 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:22,496 [ac9x9_1_superior_code] DEBUG: Using argmax policy[49.125526 63.150127 27.067162 50.521343 51.396553 48.13304 ]
+2022-03-26 11:21:22,496 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:22,584 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:22,588 [ac9x9_1_superior_code] DEBUG: Using argmax policy[61.91938  41.77472  52.134827 55.983562 47.905262 48.51041 ]
+2022-03-26 11:21:22,588 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:22,684 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:22,688 [ac9x9_1_superior_code] DEBUG: Using argmax policy[59.710205 50.982967 40.581486 45.867435 57.430695 55.64747 ]
+2022-03-26 11:21:22,689 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:22,782 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:22,786 [ac9x9_1_superior_code] DEBUG: Using argmax policy[43.786816 40.035458 50.296997 48.835384 45.767784 45.632557]
+2022-03-26 11:21:22,786 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:22,894 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:22,897 [ac9x9_1_superior_code] DEBUG: Using argmax policy[39.31731  33.39828  44.313457 40.208813 42.250206 43.309185]
+2022-03-26 11:21:22,897 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:22,986 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:22,989 [ac9x9_1_superior_code] DEBUG: Using argmax policy[43.049976 32.92412  41.99595  49.27293  42.25705  41.836323]
+2022-03-26 11:21:22,990 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:23,096 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:23,098 [ac9x9_1_superior_code] DEBUG: Using argmax policy[43.339016 46.451935 40.358826 51.663013 45.492382 46.501892]
+2022-03-26 11:21:23,098 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:23,194 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:23,198 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.346664 47.11493  48.95849  48.822952 48.554848 49.194656]
+2022-03-26 11:21:23,198 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:23,296 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:23,299 [ac9x9_1_superior_code] DEBUG: Using argmax policy[42.73934  49.337555 41.325993 26.006496 39.183804 38.744797]
+2022-03-26 11:21:23,299 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:23,398 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:23,401 [ac9x9_1_superior_code] DEBUG: Using argmax policy[36.960808 48.931377 22.15742  42.886234 40.284653 38.41444 ]
+2022-03-26 11:21:23,401 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:23,489 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:23,491 [ac9x9_1_superior_code] DEBUG: Using argmax policy[44.594738 31.08991  40.76239  46.262897 38.06968  37.50084 ]
+2022-03-26 11:21:23,491 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:23,589 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:23,591 [ac9x9_1_superior_code] DEBUG: Using argmax policy[36.960808 48.931377 22.15742  42.886234 40.284653 38.41444 ]
+2022-03-26 11:21:23,591 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:33,011 [ac9x9_1_superior_code] INFO: Starting Episode 4
+2022-03-26 11:21:33,011 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:33,016 [ac9x9_1_superior_code] DEBUG: Using argmax policy[50.63137  50.1413   46.28103  33.929188 46.307777 47.454685]
+2022-03-26 11:21:33,016 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:33,106 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:33,111 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.07813  46.208534 48.908024 40.138027 48.279427 49.85324 ]
+2022-03-26 11:21:33,111 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:33,213 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:33,217 [ac9x9_1_superior_code] DEBUG: Using argmax policy[42.14198  46.103657 52.093254 35.22919  44.329933 44.731033]
+2022-03-26 11:21:33,217 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:33,310 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:33,314 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.72998  50.984875 47.75768  34.27268  39.44558  38.36949 ]
+2022-03-26 11:21:33,314 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:33,410 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:33,414 [ac9x9_1_superior_code] DEBUG: Using argmax policy[49.004925 47.667557 44.88784  49.996532 48.338795 48.944454]
+2022-03-26 11:21:33,415 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:33,539 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:33,545 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.72998  50.984875 47.75768  34.27268  39.44558  38.36949 ]
+2022-03-26 11:21:33,545 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:33,605 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:33,609 [ac9x9_1_superior_code] DEBUG: Using argmax policy[49.374428 46.555775 47.371284  8.758691 50.015884 49.52475 ]
+2022-03-26 11:21:33,609 [ac9x9_1_superior_code] DEBUG: Choosing action WAIT.
+2022-03-26 11:21:33,704 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:33,706 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.804653 46.478455 46.493553 50.503334 48.865116 50.613728]
+2022-03-26 11:21:33,708 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:33,838 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:33,844 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.03245  47.05316  47.78913  48.684963 50.25944  52.39796 ]
+2022-03-26 11:21:33,844 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:33,929 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:33,937 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.76633  44.852776 45.838818 53.773396 46.764465 48.42546 ]
+2022-03-26 11:21:33,937 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:34,013 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:34,019 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.796276 40.334637 42.527855 34.784992 41.34271  45.2487  ]
+2022-03-26 11:21:34,019 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:34,118 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:34,124 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.10832  45.02705  49.736614 27.147398 48.383556 49.60792 ]
+2022-03-26 11:21:34,124 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:34,210 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:34,212 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.29701  55.434242 54.162434 48.065197 51.85388  52.96618 ]
+2022-03-26 11:21:34,212 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:34,313 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:34,321 [ac9x9_1_superior_code] DEBUG: Using argmax policy[52.38907  51.42758  51.406933 54.012978 53.618717 54.806362]
+2022-03-26 11:21:34,321 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:34,443 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:34,450 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.129425 49.697105 50.0676   53.732132 52.20879  53.318737]
+2022-03-26 11:21:34,450 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:34,540 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:34,548 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.693638 52.062286 51.119186 45.89382  50.92578  52.732204]
+2022-03-26 11:21:34,548 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:34,650 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:34,660 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.41577  46.494473 51.681118 39.712425 41.47632  40.123585]
+2022-03-26 11:21:34,664 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:34,738 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:34,743 [ac9x9_1_superior_code] DEBUG: Using argmax policy[35.70366  43.98128  57.331642 24.195555 36.835243 37.836723]
+2022-03-26 11:21:34,743 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:34,845 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:34,853 [ac9x9_1_superior_code] DEBUG: Using argmax policy[41.621586 62.148373 28.168522 32.05858  38.606483 33.882458]
+2022-03-26 11:21:34,854 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:34,944 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:34,950 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.1042   62.00259  33.89151  50.02118  57.301136 57.012043]
+2022-03-26 11:21:34,950 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:35,042 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:35,049 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.21585  53.803974 45.147415 45.007343 46.659695 50.514008]
+2022-03-26 11:21:35,049 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:35,139 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:35,151 [ac9x9_1_superior_code] DEBUG: Using argmax policy[58.148083 48.1036   51.30834  27.746014 49.4412   50.86679 ]
+2022-03-26 11:21:35,152 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:35,243 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:35,249 [ac9x9_1_superior_code] DEBUG: Using argmax policy[49.649487 52.742264 52.43989  48.62572  52.036785 52.753944]
+2022-03-26 11:21:35,249 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:35,345 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:35,351 [ac9x9_1_superior_code] DEBUG: Using argmax policy[40.72378  47.693295 53.126938 49.477608 48.916054 47.601994]
+2022-03-26 11:21:35,351 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:35,460 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:35,469 [ac9x9_1_superior_code] DEBUG: Using argmax policy[43.22093  44.899086 55.930763 34.17895  42.311764 42.99799 ]
+2022-03-26 11:21:35,470 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:35,546 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:35,553 [ac9x9_1_superior_code] DEBUG: Using argmax policy[55.715286 58.026554 42.92087  43.81931  39.697395 42.62249 ]
+2022-03-26 11:21:35,553 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:35,645 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:35,652 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.778282 64.601974 39.797287 52.65501  54.341835 53.67047 ]
+2022-03-26 11:21:35,652 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:35,757 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:35,763 [ac9x9_1_superior_code] DEBUG: Using argmax policy[49.04643  47.178215 47.560856 53.38486  49.78894  51.065956]
+2022-03-26 11:21:35,763 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:35,846 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:35,852 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.08488  53.863564 45.200497 49.902855 44.833157 46.142567]
+2022-03-26 11:21:35,852 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:35,946 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:35,959 [ac9x9_1_superior_code] DEBUG: Using argmax policy[50.160534 48.15222  51.532707 53.770096 55.063023 57.399063]
+2022-03-26 11:21:35,959 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:36,038 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:36,053 [ac9x9_1_superior_code] DEBUG: Using argmax policy[50.779327 39.690075 46.843536 59.585747 48.602146 50.253136]
+2022-03-26 11:21:36,054 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:36,147 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:36,153 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.82682  44.966278 41.34976  56.8282   40.75821  44.577682]
+2022-03-26 11:21:36,153 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:36,247 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:36,257 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.3644   42.359997 34.447422 37.38706  35.91023  42.981293]
+2022-03-26 11:21:36,259 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:36,352 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:36,361 [ac9x9_1_superior_code] DEBUG: Using argmax policy[55.010723  48.339367  30.41916   13.7003145 43.622635  44.128345 ]
+2022-03-26 11:21:36,361 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:36,449 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:36,457 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.985    48.877335 40.14988  42.25263  42.38366  46.67971 ]
+2022-03-26 11:21:36,457 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:36,552 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:36,563 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.51682  47.817734 50.991367 27.03099  46.17517  48.341766]
+2022-03-26 11:21:36,564 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:36,648 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:36,656 [ac9x9_1_superior_code] DEBUG: Using argmax policy[52.0533   52.365337 51.326256 39.055355 52.111942 53.187595]
+2022-03-26 11:21:36,656 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:36,746 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:36,753 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.132828 51.37879  53.27288  29.950735 45.414326 45.300297]
+2022-03-26 11:21:36,753 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:36,853 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:36,862 [ac9x9_1_superior_code] DEBUG: Using argmax policy[40.641685 42.044605 55.876637 27.642698 39.456238 39.745575]
+2022-03-26 11:21:36,862 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:36,939 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:36,946 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.661713 53.976242 41.41979  38.349434 33.222366 35.4376  ]
+2022-03-26 11:21:36,946 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:37,058 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:37,071 [ac9x9_1_superior_code] DEBUG: Using argmax policy[49.990307 57.815556 34.503407 48.000866 49.68717  48.62245 ]
+2022-03-26 11:21:37,071 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:37,144 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:37,151 [ac9x9_1_superior_code] DEBUG: Using argmax policy[55.214832 52.828907 45.008064 46.87548  46.645535 49.804955]
+2022-03-26 11:21:37,151 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:37,257 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:37,263 [ac9x9_1_superior_code] DEBUG: Using argmax policy[55.80953  48.255054 52.916885 32.665962 51.6269   51.896393]
+2022-03-26 11:21:37,264 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:37,362 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:37,374 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.220245 52.913975 54.553013 51.971935 54.953728 56.04557 ]
+2022-03-26 11:21:37,375 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:37,463 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:37,470 [ac9x9_1_superior_code] DEBUG: Using argmax policy[50.83584  42.81247  56.614082 52.43847  48.803658 47.400024]
+2022-03-26 11:21:37,471 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:37,556 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:37,563 [ac9x9_1_superior_code] DEBUG: Using argmax policy[40.678394 42.739754 55.271763 26.276825 40.704353 41.37359 ]
+2022-03-26 11:21:37,564 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:37,664 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:37,674 [ac9x9_1_superior_code] DEBUG: Using argmax policy[50.60232  55.30893  47.349735 44.381054 39.9876   40.000477]
+2022-03-26 11:21:37,674 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:37,763 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:37,771 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.18196  58.94803  40.811195 51.726177 53.48979  53.4713  ]
+2022-03-26 11:21:37,771 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:37,860 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:37,867 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.098057 45.11306  45.50071  49.14903  47.89362  48.940006]
+2022-03-26 11:21:37,868 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:37,968 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:37,976 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.05005  50.202286 42.947742 46.59281  46.956944 48.050564]
+2022-03-26 11:21:37,977 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:38,065 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:38,072 [ac9x9_1_superior_code] DEBUG: Using argmax policy[45.793163 44.471016 46.693325 46.46307  50.039463 51.53591 ]
+2022-03-26 11:21:38,073 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:38,167 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:38,179 [ac9x9_1_superior_code] DEBUG: Using argmax policy[42.435604 32.358498 42.10994  51.89999  43.28927  42.353127]
+2022-03-26 11:21:38,180 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:38,268 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:38,275 [ac9x9_1_superior_code] DEBUG: Using argmax policy[49.596806 42.268642 41.673824 52.755657 44.66435  48.843575]
+2022-03-26 11:21:38,276 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:38,356 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:38,367 [ac9x9_1_superior_code] DEBUG: Using argmax policy[57.004307 46.3505   40.369835 34.982838 38.27337  43.96959 ]
+2022-03-26 11:21:38,367 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:38,442 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:38,447 [ac9x9_1_superior_code] DEBUG: Using argmax policy[60.499443 51.32389  30.10759  18.993141 52.40238  53.161266]
+2022-03-26 11:21:38,448 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:38,562 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:38,573 [ac9x9_1_superior_code] DEBUG: Using argmax policy[57.976116 55.10236  48.616108 50.078037 51.089287 54.90324 ]
+2022-03-26 11:21:38,573 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:38,661 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:38,670 [ac9x9_1_superior_code] DEBUG: Using argmax policy[55.536808 50.589085 55.97396  41.456387 53.176167 54.098587]
+2022-03-26 11:21:38,670 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:38,760 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:38,773 [ac9x9_1_superior_code] DEBUG: Using argmax policy[55.331223 51.048645 46.77858  47.358097 49.982082 55.605408]
+2022-03-26 11:21:38,774 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:38,860 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:38,873 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.797737 51.356346 48.698296 34.138977 40.31146  41.683727]
+2022-03-26 11:21:38,873 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:38,960 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:38,974 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.74564  40.273067 28.226757 12.411092 37.1206   36.84328 ]
+2022-03-26 11:21:38,975 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:39,060 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:39,074 [ac9x9_1_superior_code] DEBUG: Using argmax policy[50.19298  48.41024  46.866833 49.84958  45.29961  45.657513]
+2022-03-26 11:21:39,075 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:39,163 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:39,174 [ac9x9_1_superior_code] DEBUG: Using argmax policy[44.212215 40.054188 47.82222  37.642593 44.851925 46.006165]
+2022-03-26 11:21:39,175 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:41,232 [ac9x9_1_superior_code] INFO: Starting Episode 5
+2022-03-26 11:21:41,232 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:41,243 [ac9x9_1_superior_code] DEBUG: Using argmax policy[41.57596  52.106934 53.133293 38.758728 47.512413 48.756783]
+2022-03-26 11:21:41,243 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:41,324 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:41,334 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.44508  47.37127  39.652493 37.72635  50.727943 52.99168 ]
+2022-03-26 11:21:41,334 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:41,398 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:41,401 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.463356 44.20546  22.889414 24.505642 45.669777 46.19426 ]
+2022-03-26 11:21:41,401 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:41,527 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:41,533 [ac9x9_1_superior_code] DEBUG: Using argmax policy[40.83394  58.4732   34.408443 43.04351  45.48022  43.17614 ]
+2022-03-26 11:21:41,534 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:41,603 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:41,607 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.409378 58.7607   46.37159  54.043064 53.351944 53.185776]
+2022-03-26 11:21:41,607 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:41,727 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:41,733 [ac9x9_1_superior_code] DEBUG: Using argmax policy[45.55266  48.244625 56.638695 54.13928  52.619724 53.358093]
+2022-03-26 11:21:41,734 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:41,807 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:41,812 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.935825 44.231342 53.22554  48.121975 50.226982 51.652878]
+2022-03-26 11:21:41,813 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:41,909 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:41,914 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.7433   45.047626 50.716198 46.823246 48.96139  49.33218 ]
+2022-03-26 11:21:41,914 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:42,023 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:42,029 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.4692   42.277294 48.78083  44.73213  48.26587  48.682247]
+2022-03-26 11:21:42,030 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:42,104 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:42,110 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.132084 44.551136 45.727467 44.179764 46.90454  47.56619 ]
+2022-03-26 11:21:42,110 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:42,216 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:42,223 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.4692   42.277294 48.78083  44.73213  48.26587  48.682247]
+2022-03-26 11:21:42,223 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:42,325 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:42,332 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.132084 44.551136 45.727467 44.179764 46.90454  47.56619 ]
+2022-03-26 11:21:42,332 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:42,422 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:42,429 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.4692   42.277294 48.78083  44.73213  48.26587  48.682247]
+2022-03-26 11:21:42,429 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:42,510 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:42,517 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.132084 44.551136 45.727467 44.179764 46.90454  47.56619 ]
+2022-03-26 11:21:42,517 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:42,621 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:42,625 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.4692   42.277294 48.78083  44.73213  48.26587  48.682247]
+2022-03-26 11:21:42,625 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:42,735 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:42,744 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.132084 44.551136 45.727467 44.179764 46.90454  47.56619 ]
+2022-03-26 11:21:42,745 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:42,822 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:42,833 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.4692   42.277294 48.78083  44.73213  48.26587  48.682247]
+2022-03-26 11:21:42,833 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:42,912 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:42,919 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.132084 44.551136 45.727467 44.179764 46.90454  47.56619 ]
+2022-03-26 11:21:42,920 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:43,024 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:43,031 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.4692   42.277294 48.78083  44.73213  48.26587  48.682247]
+2022-03-26 11:21:43,031 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:43,113 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:43,120 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.132084 44.551136 45.727467 44.179764 46.90454  47.56619 ]
+2022-03-26 11:21:43,121 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:43,224 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:43,230 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.4692   42.277294 48.78083  44.73213  48.26587  48.682247]
+2022-03-26 11:21:43,230 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:43,327 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:43,339 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.132084 44.551136 45.727467 44.179764 46.90454  47.56619 ]
+2022-03-26 11:21:43,340 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:43,433 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:43,441 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.4692   42.277294 48.78083  44.73213  48.26587  48.682247]
+2022-03-26 11:21:43,442 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:43,505 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:43,509 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.132084 44.551136 45.727467 44.179764 46.90454  47.56619 ]
+2022-03-26 11:21:43,509 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:43,632 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:43,644 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.4692   42.277294 48.78083  44.73213  48.26587  48.682247]
+2022-03-26 11:21:43,644 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:43,727 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:43,736 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.132084 44.551136 45.727467 44.179764 46.90454  47.56619 ]
+2022-03-26 11:21:43,736 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:43,828 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:43,835 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.4692   42.277294 48.78083  44.73213  48.26587  48.682247]
+2022-03-26 11:21:43,835 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:43,920 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:43,931 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.132084 44.551136 45.727467 44.179764 46.90454  47.56619 ]
+2022-03-26 11:21:43,932 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:44,021 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:44,033 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.4692   42.277294 48.78083  44.73213  48.26587  48.682247]
+2022-03-26 11:21:44,033 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:44,122 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:44,135 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.132084 44.551136 45.727467 44.179764 46.90454  47.56619 ]
+2022-03-26 11:21:44,135 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:44,220 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:44,231 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.4692   42.277294 48.78083  44.73213  48.26587  48.682247]
+2022-03-26 11:21:44,232 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:44,323 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:44,335 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.132084 44.551136 45.727467 44.179764 46.90454  47.56619 ]
+2022-03-26 11:21:44,335 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:44,410 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:44,415 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.4692   42.277294 48.78083  44.73213  48.26587  48.682247]
+2022-03-26 11:21:44,415 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:44,526 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:44,539 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.132084 44.551136 45.727467 44.179764 46.90454  47.56619 ]
+2022-03-26 11:21:44,539 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:44,630 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:44,638 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.4692   42.277294 48.78083  44.73213  48.26587  48.682247]
+2022-03-26 11:21:44,638 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:44,729 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:44,740 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.132084 44.551136 45.727467 44.179764 46.90454  47.56619 ]
+2022-03-26 11:21:44,740 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:44,828 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:44,842 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.4692   42.277294 48.78083  44.73213  48.26587  48.682247]
+2022-03-26 11:21:44,842 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:44,928 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:44,937 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.132084 44.551136 45.727467 44.179764 46.90454  47.56619 ]
+2022-03-26 11:21:44,937 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:45,033 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:45,046 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.4692   42.277294 48.78083  44.73213  48.26587  48.682247]
+2022-03-26 11:21:45,046 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:45,131 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:45,143 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.132084 44.551136 45.727467 44.179764 46.90454  47.56619 ]
+2022-03-26 11:21:45,144 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:45,232 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:45,245 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.4692   42.277294 48.78083  44.73213  48.26587  48.682247]
+2022-03-26 11:21:45,245 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:45,332 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:45,345 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.132084 44.551136 45.727467 44.179764 46.90454  47.56619 ]
+2022-03-26 11:21:45,345 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:45,435 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:45,446 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.4692   42.277294 48.78083  44.73213  48.26587  48.682247]
+2022-03-26 11:21:45,446 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:45,534 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:45,548 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.132084 44.551136 45.727467 44.179764 46.90454  47.56619 ]
+2022-03-26 11:21:45,549 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:45,634 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:45,647 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.4692   42.277294 48.78083  44.73213  48.26587  48.682247]
+2022-03-26 11:21:45,648 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:46,284 [ac9x9_1_superior_code] INFO: Starting Episode 6
+2022-03-26 11:21:46,285 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:46,291 [ac9x9_1_superior_code] DEBUG: Using argmax policy[50.512066 43.232197 43.796608 52.631428 47.052437 48.65608 ]
+2022-03-26 11:21:46,292 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:46,369 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:46,377 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.196415 52.040558 48.693275 49.196453 51.654385 52.499264]
+2022-03-26 11:21:46,377 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:46,461 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:46,465 [ac9x9_1_superior_code] DEBUG: Using argmax policy[45.667152 53.152294 22.930052 40.119713 43.031208 42.308365]
+2022-03-26 11:21:46,465 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:46,568 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:46,574 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.749508 49.0404   39.51513  42.632126 43.86619  43.96028 ]
+2022-03-26 11:21:46,574 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:46,689 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:46,701 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.736794 51.602936 56.64024  47.120327 53.05464  53.83758 ]
+2022-03-26 11:21:46,702 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:46,761 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:46,769 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.749508 49.0404   39.51513  42.632126 43.86619  43.96028 ]
+2022-03-26 11:21:46,769 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:46,874 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:46,881 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.75364   53.401443   3.1314144 52.506775  55.75153   54.128548 ]
+2022-03-26 11:21:46,881 [ac9x9_1_superior_code] DEBUG: Choosing action WAIT.
+2022-03-26 11:21:46,980 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:46,986 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.295834 53.186386 56.56743  49.030643 55.444206 56.56691 ]
+2022-03-26 11:21:46,986 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:47,058 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:47,063 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.24194  43.071632 44.219414 54.318428 47.34155  49.96908 ]
+2022-03-26 11:21:47,063 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:47,189 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:47,195 [ac9x9_1_superior_code] DEBUG: Using argmax policy[52.726585 54.153275 46.267067 56.795517 52.78571  53.589386]
+2022-03-26 11:21:47,196 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:47,275 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:47,281 [ac9x9_1_superior_code] DEBUG: Using argmax policy[55.91877  51.94367  49.401028 55.19514  52.189514 54.687824]
+2022-03-26 11:21:47,281 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:47,360 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:47,364 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.213818 54.403576 60.875923 56.766064 59.717663 63.200237]
+2022-03-26 11:21:47,364 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:47,485 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:47,490 [ac9x9_1_superior_code] DEBUG: Using argmax policy[52.451923 51.333015 61.8414   55.282944 56.70146  59.830055]
+2022-03-26 11:21:47,490 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:47,574 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:47,580 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.686134 57.706257 49.992805 59.153145 52.02792  51.7519  ]
+2022-03-26 11:21:47,580 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:47,677 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:47,683 [ac9x9_1_superior_code] DEBUG: Using argmax policy[52.720818 56.058113 46.05561  59.383125 54.053795 55.006973]
+2022-03-26 11:21:47,683 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:47,799 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:47,811 [ac9x9_1_superior_code] DEBUG: Using argmax policy[62.98387  61.21969  54.678898 59.742947 58.74881  61.677925]
+2022-03-26 11:21:47,812 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:47,881 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:47,887 [ac9x9_1_superior_code] DEBUG: Using argmax policy[61.81945  51.371853 58.598637 49.434128 58.057556 57.286095]
+2022-03-26 11:21:47,887 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:47,964 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:47,968 [ac9x9_1_superior_code] DEBUG: Using argmax policy[62.50876  51.332443 60.71788  52.046757 60.550873 63.548187]
+2022-03-26 11:21:47,968 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:48,089 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:48,096 [ac9x9_1_superior_code] DEBUG: Using argmax policy[61.810867 52.140457 59.680695 48.551464 60.442368 64.28042 ]
+2022-03-26 11:21:48,096 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:48,180 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:48,186 [ac9x9_1_superior_code] DEBUG: Using argmax policy[64.50581  39.6581   61.367462 21.513836 51.60177  54.646408]
+2022-03-26 11:21:48,187 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:48,281 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:48,289 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.85138  30.865164 21.342787 14.500743 33.72683  30.016733]
+2022-03-26 11:21:48,289 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:48,402 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:48,412 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.88898  50.132885 53.030323 61.05404  58.31096  55.62888 ]
+2022-03-26 11:21:48,412 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:48,470 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:48,475 [ac9x9_1_superior_code] DEBUG: Using argmax policy[57.245148 62.837658 56.81863  57.122505 61.912373 63.33236 ]
+2022-03-26 11:21:48,475 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:48,562 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:48,566 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.74879  26.714758 50.289597 52.65101  55.043125 51.878895]
+2022-03-26 11:21:48,566 [ac9x9_1_superior_code] DEBUG: Choosing action WAIT.
+2022-03-26 11:21:48,691 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:48,697 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.398907 63.31644  49.289734 54.056072 57.867516 59.301304]
+2022-03-26 11:21:48,697 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:48,782 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:48,788 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.739147 52.424957 63.02051  59.521748 63.712944 64.884   ]
+2022-03-26 11:21:48,788 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:48,891 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:48,895 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.382023 47.0191   71.420906 42.06417  55.34017  55.194546]
+2022-03-26 11:21:48,895 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:48,958 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:48,962 [ac9x9_1_superior_code] DEBUG: Using argmax policy[24.986115 35.812073 71.60296  13.342956 31.507298 30.896595]
+2022-03-26 11:21:48,962 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:49,083 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:49,091 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.11913  61.741436 52.55331  67.43101  54.312214 52.058605]
+2022-03-26 11:21:49,091 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:49,189 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:49,196 [ac9x9_1_superior_code] DEBUG: Using argmax policy[58.499523 59.89515  53.955708 66.795    61.15231  62.142235]
+2022-03-26 11:21:49,196 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:49,265 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:49,272 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.200336 52.913063 39.76127  39.04172  49.2506   51.303875]
+2022-03-26 11:21:49,272 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:49,385 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:49,398 [ac9x9_1_superior_code] DEBUG: Using argmax policy[57.40791  46.69038  53.3007   29.826948 51.57966  53.092278]
+2022-03-26 11:21:49,399 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:49,460 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:49,466 [ac9x9_1_superior_code] DEBUG: Using argmax policy[59.440945 60.43476  57.892742 59.144978 59.716953 61.631927]
+2022-03-26 11:21:49,466 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:49,587 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:49,594 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.382523 67.652954 46.09924  28.07736  47.24145  46.19555 ]
+2022-03-26 11:21:49,595 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:49,682 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:49,695 [ac9x9_1_superior_code] DEBUG: Using argmax policy[49.168835 73.1757   16.588945 49.06996  51.92305  46.08333 ]
+2022-03-26 11:21:49,696 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:49,784 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:49,794 [ac9x9_1_superior_code] DEBUG: Using argmax policy[69.73231  62.819157 62.513016 55.285416 57.20827  57.82786 ]
+2022-03-26 11:21:49,795 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:49,884 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:49,891 [ac9x9_1_superior_code] DEBUG: Using argmax policy[71.35064  59.376194 56.81782  41.79364  64.258385 63.69054 ]
+2022-03-26 11:21:49,891 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:49,973 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:49,980 [ac9x9_1_superior_code] DEBUG: Using argmax policy[60.97298  44.268154 60.578632 58.165436 58.990055 61.38018 ]
+2022-03-26 11:21:49,980 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:50,091 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:50,099 [ac9x9_1_superior_code] DEBUG: Using argmax policy[58.983795 45.046036 61.11233  56.30227  59.42871  61.655075]
+2022-03-26 11:21:50,099 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:50,188 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:50,195 [ac9x9_1_superior_code] DEBUG: Using argmax policy[60.937527 49.506332 60.55028  52.16504  60.459866 63.81076 ]
+2022-03-26 11:21:50,195 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:50,293 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:50,303 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.51529  31.049505 65.14468  43.593437 53.254417 54.061398]
+2022-03-26 11:21:50,304 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:50,392 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:50,399 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.624954 50.14197  67.5704   41.3772   51.836994 53.383537]
+2022-03-26 11:21:50,400 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:50,487 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:50,494 [ac9x9_1_superior_code] DEBUG: Using argmax policy[57.855923 65.52185  58.07278  63.353287 56.100178 55.177288]
+2022-03-26 11:21:50,494 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:50,578 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:50,585 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.766    59.11266  30.089376 55.911644 57.050083 56.426933]
+2022-03-26 11:21:50,586 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:50,695 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:50,702 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.04842  44.54865  41.972786 47.93627  43.09087  44.947357]
+2022-03-26 11:21:50,702 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:50,799 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:50,812 [ac9x9_1_superior_code] DEBUG: Using argmax policy[42.997612 45.62469  42.597836 51.07019  43.97482  45.482155]
+2022-03-26 11:21:50,812 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:50,883 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:50,889 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.826538 49.200928 45.441055 44.81292  48.02469  51.99198 ]
+2022-03-26 11:21:50,889 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:50,997 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:51,003 [ac9x9_1_superior_code] DEBUG: Using argmax policy[55.135544 51.200394 47.401867 32.77671  42.18167  44.57817 ]
+2022-03-26 11:21:51,003 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:51,097 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:51,110 [ac9x9_1_superior_code] DEBUG: Using argmax policy[60.694477 47.543575 38.267155 23.697739 46.60003  49.246967]
+2022-03-26 11:21:51,111 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:51,183 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:51,190 [ac9x9_1_superior_code] DEBUG: Using argmax policy[66.87281  52.59696  47.801914 62.14941  51.59399  56.96189 ]
+2022-03-26 11:21:51,190 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:51,297 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:51,305 [ac9x9_1_superior_code] DEBUG: Using argmax policy[61.008923 49.853313 54.73671  29.829216 50.7974   52.028053]
+2022-03-26 11:21:51,306 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:51,402 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:51,413 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.920425 43.180515 45.243027 47.467026 47.908974 50.3685  ]
+2022-03-26 11:21:51,413 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:51,504 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:51,511 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.794018 42.283524 51.54343  46.034435 49.77933  49.64829 ]
+2022-03-26 11:21:51,511 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:51,598 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:51,605 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.00976  46.977413 53.519413 45.5898   53.983974 56.292427]
+2022-03-26 11:21:51,605 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:51,706 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:51,715 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.53085  32.817863 56.073227 18.94506  46.04106  48.265453]
+2022-03-26 11:21:51,715 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:51,788 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:51,795 [ac9x9_1_superior_code] DEBUG: Using argmax policy[24.77006  30.559778 60.488518 16.504822 32.09504  33.38995 ]
+2022-03-26 11:21:51,796 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:51,904 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:51,918 [ac9x9_1_superior_code] DEBUG: Using argmax policy[45.923195 56.022533 48.64835  56.513176 47.1329   44.479218]
+2022-03-26 11:21:51,919 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:52,008 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:52,017 [ac9x9_1_superior_code] DEBUG: Using argmax policy[44.962204 51.857292 36.33791  56.488934 52.732517 51.779396]
+2022-03-26 11:21:52,017 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:52,104 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:52,111 [ac9x9_1_superior_code] DEBUG: Using argmax policy[40.92497  38.63787  34.205677 38.92865  36.11728  38.871185]
+2022-03-26 11:21:52,111 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:52,207 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:52,221 [ac9x9_1_superior_code] DEBUG: Using argmax policy[43.100838 33.4159   37.670815 25.448656 36.81045  38.806164]
+2022-03-26 11:21:52,221 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:52,294 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:52,300 [ac9x9_1_superior_code] DEBUG: Using argmax policy[39.472485 41.492874 40.904476 42.467255 42.437412 43.621284]
+2022-03-26 11:21:52,301 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:52,394 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:52,401 [ac9x9_1_superior_code] DEBUG: Using argmax policy[30.183533 45.100735 36.528156 33.263805 37.003754 36.24422 ]
+2022-03-26 11:21:52,401 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:52,508 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:52,522 [ac9x9_1_superior_code] DEBUG: Using argmax policy[43.356155 52.483597 15.639624 34.224483 40.3645   38.18319 ]
+2022-03-26 11:21:52,522 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:52,593 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:52,600 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.37508  46.64684  43.966373 31.815948 41.21979  43.602795]
+2022-03-26 11:21:52,600 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:52,705 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:52,712 [ac9x9_1_superior_code] DEBUG: Using argmax policy[55.951283 45.305283 30.1168   30.584314 52.97882  55.09863 ]
+2022-03-26 11:21:52,712 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:52,813 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:52,824 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.764908 51.4934   48.0415   49.210392 50.163563 51.522594]
+2022-03-26 11:21:52,824 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:52,912 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:52,919 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.82906  44.93601  50.377453 30.207136 50.263855 51.281597]
+2022-03-26 11:21:52,919 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:53,016 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:53,029 [ac9x9_1_superior_code] DEBUG: Using argmax policy[41.33151  50.121857 51.629536 46.505253 52.943108 55.083916]
+2022-03-26 11:21:53,030 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:53,102 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:53,109 [ac9x9_1_superior_code] DEBUG: Using argmax policy[30.757664 52.02789  54.907673 27.808126 41.95175  42.99403 ]
+2022-03-26 11:21:53,109 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:53,212 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:53,219 [ac9x9_1_superior_code] DEBUG: Using argmax policy[23.188862 30.90352  56.055267 12.220157 27.681446 27.8254  ]
+2022-03-26 11:21:53,220 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:53,304 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:53,311 [ac9x9_1_superior_code] DEBUG: Using argmax policy[41.693493 57.872326 31.479568 51.630173 46.065994 43.569324]
+2022-03-26 11:21:53,312 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:53,403 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:53,412 [ac9x9_1_superior_code] DEBUG: Using argmax policy[45.651417 50.982216 36.76378  48.3215   47.030148 47.140533]
+2022-03-26 11:21:53,412 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:53,498 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:53,502 [ac9x9_1_superior_code] DEBUG: Using argmax policy[35.189335 35.777554 34.63639  37.44644  34.70644  34.822483]
+2022-03-26 11:21:53,502 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:53,624 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:53,634 [ac9x9_1_superior_code] DEBUG: Using argmax policy[31.372692 36.782585 27.668076 37.73542  34.325867 34.794216]
+2022-03-26 11:21:53,635 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:53,708 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:53,715 [ac9x9_1_superior_code] DEBUG: Using argmax policy[36.674736 35.330917 33.891613 33.443115 35.400387 37.20076 ]
+2022-03-26 11:21:53,716 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:53,823 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:53,836 [ac9x9_1_superior_code] DEBUG: Using argmax policy[34.715687 36.756916 33.655895 31.024347 30.805162 31.40686 ]
+2022-03-26 11:21:53,837 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:53,922 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:53,935 [ac9x9_1_superior_code] DEBUG: Using argmax policy[26.176687  37.67043   12.7220955 28.105864  28.345457  26.010279 ]
+2022-03-26 11:21:53,935 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:54,008 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:54,015 [ac9x9_1_superior_code] DEBUG: Using argmax policy[35.92917  35.886406 34.014366 36.17516  32.526005 32.38717 ]
+2022-03-26 11:21:54,016 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:21:54,121 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:54,129 [ac9x9_1_superior_code] DEBUG: Using argmax policy[26.176687  37.67043   12.7220955 28.105864  28.345457  26.010279 ]
+2022-03-26 11:21:54,130 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:21:59,515 [ac9x9_1_superior_code] INFO: Starting Episode 7
+2022-03-26 11:21:59,515 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:59,520 [ac9x9_1_superior_code] DEBUG: Using argmax policy[61.338634 42.331005 45.26647  59.697414 50.17415  54.688602]
+2022-03-26 11:21:59,521 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:59,576 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:59,580 [ac9x9_1_superior_code] DEBUG: Using argmax policy[61.56931  55.367916 61.199127 53.47074  60.0663   59.905144]
+2022-03-26 11:21:59,580 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:21:59,698 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:59,704 [ac9x9_1_superior_code] DEBUG: Using argmax policy[57.242794 51.209263 59.819958 49.04556  58.916634 60.854073]
+2022-03-26 11:21:59,704 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:21:59,777 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:59,782 [ac9x9_1_superior_code] DEBUG: Using argmax policy[58.42744  46.783726 64.1391   18.612417 47.972507 47.162876]
+2022-03-26 11:21:59,782 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:21:59,890 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:21:59,896 [ac9x9_1_superior_code] DEBUG: Using argmax policy[27.830868 38.487186 65.48666  24.39866  36.65774  36.098686]
+2022-03-26 11:21:59,896 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:00,001 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:00,008 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.015087 39.34769  45.515884 66.67554  49.86953  46.995476]
+2022-03-26 11:22:00,008 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:00,073 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:00,075 [ac9x9_1_superior_code] DEBUG: Using argmax policy[57.77135  56.686592 45.03927  63.61524  58.344624 58.305508]
+2022-03-26 11:22:00,075 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:00,195 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:00,201 [ac9x9_1_superior_code] DEBUG: Using argmax policy[49.282036 54.110428 41.81517  53.30734  52.765244 54.06524 ]
+2022-03-26 11:22:00,202 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:00,306 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:00,312 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.674656 53.18731  37.736595 56.801582 51.06809  50.438843]
+2022-03-26 11:22:00,313 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:00,424 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:00,433 [ac9x9_1_superior_code] DEBUG: Using argmax policy[49.118538 51.001568 49.691143 52.965595 54.78916  56.924736]
+2022-03-26 11:22:00,434 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:00,469 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:00,472 [ac9x9_1_superior_code] DEBUG: Using argmax policy[44.895466 55.137146 39.926964 20.300915 46.196163 46.19935 ]
+2022-03-26 11:22:00,472 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:00,601 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:00,607 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.644024 57.48457  25.278114 44.055645 44.558067 41.95473 ]
+2022-03-26 11:22:00,608 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:00,683 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:00,687 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.090366 35.360065 43.058304 49.50531  42.545994 44.584442]
+2022-03-26 11:22:00,687 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:00,824 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:00,837 [ac9x9_1_superior_code] DEBUG: Using argmax policy[57.308533 50.050564 34.353466 39.20466  53.61849  52.8093  ]
+2022-03-26 11:22:00,838 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:00,892 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:00,896 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.526417 36.01551  40.33007  51.8055   44.271477 49.82903 ]
+2022-03-26 11:22:00,896 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:01,020 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:01,027 [ac9x9_1_superior_code] DEBUG: Using argmax policy[57.713715 48.539547 53.929085 44.282917 53.462757 52.966652]
+2022-03-26 11:22:01,027 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:01,106 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:01,113 [ac9x9_1_superior_code] DEBUG: Using argmax policy[55.531456 45.85938  57.404118 54.982117 57.32668  57.841625]
+2022-03-26 11:22:01,113 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:01,204 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:01,210 [ac9x9_1_superior_code] DEBUG: Using argmax policy[50.98072  40.34658  60.617306 35.134712 47.464325 46.341022]
+2022-03-26 11:22:01,210 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:01,304 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:01,310 [ac9x9_1_superior_code] DEBUG: Using argmax policy[29.648703 35.051113 55.929066 25.646055 33.835938 32.77569 ]
+2022-03-26 11:22:01,311 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:01,412 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:01,418 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.029785 33.940628 41.930275 56.36873  40.45384  38.6296  ]
+2022-03-26 11:22:01,419 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:01,506 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:01,512 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.64891  46.738297 38.325146 59.30878  52.454903 51.615997]
+2022-03-26 11:22:01,512 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:01,624 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:01,631 [ac9x9_1_superior_code] DEBUG: Using argmax policy[65.10666  47.369633 49.72663  63.158585 54.44429  60.25186 ]
+2022-03-26 11:22:01,631 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:01,712 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:01,718 [ac9x9_1_superior_code] DEBUG: Using argmax policy[64.10003  51.260677 56.042633 35.59379  53.794327 55.814785]
+2022-03-26 11:22:01,719 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:01,822 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:01,828 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.076973 58.775604 61.034977 58.58542  61.909264 63.16386 ]
+2022-03-26 11:22:01,828 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:01,908 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:01,915 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.49873  60.464928 64.772964 38.770267 54.297432 53.590736]
+2022-03-26 11:22:01,915 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:01,995 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:02,001 [ac9x9_1_superior_code] DEBUG: Using argmax policy[22.799667 20.194012 61.243435 19.249773 27.256516 26.105911]
+2022-03-26 11:22:02,001 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:02,112 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:02,119 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.356262 42.67712  46.984653 65.8216   49.061413 48.492542]
+2022-03-26 11:22:02,120 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:02,220 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:02,226 [ac9x9_1_superior_code] DEBUG: Using argmax policy[57.550343 55.80912  55.916183 60.933052 60.47946  61.15165 ]
+2022-03-26 11:22:02,226 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:02,312 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:02,318 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.156044 24.121357 48.491356 54.71657  54.705715 51.356705]
+2022-03-26 11:22:02,319 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:02,412 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:02,419 [ac9x9_1_superior_code] DEBUG: Using argmax policy[52.707767 54.5115   46.25837  52.031376 53.513794 53.696613]
+2022-03-26 11:22:02,419 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:02,528 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:02,536 [ac9x9_1_superior_code] DEBUG: Using argmax policy[57.55586  42.587498 47.29532  57.187424 51.42298  56.939674]
+2022-03-26 11:22:02,536 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:02,613 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:02,622 [ac9x9_1_superior_code] DEBUG: Using argmax policy[59.812496 47.825653 56.222347 49.366962 55.496372 58.13362 ]
+2022-03-26 11:22:02,622 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:02,729 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:02,736 [ac9x9_1_superior_code] DEBUG: Using argmax policy[57.58488  54.942375 57.471977 60.360485 56.673927 57.128223]
+2022-03-26 11:22:02,736 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:02,822 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:02,835 [ac9x9_1_superior_code] DEBUG: Using argmax policy[50.93118  54.422516 50.13969  57.462677 53.567467 54.83799 ]
+2022-03-26 11:22:02,836 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:02,920 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:02,927 [ac9x9_1_superior_code] DEBUG: Using argmax policy[50.2174   56.680717 57.124493 52.48     57.051888 58.450275]
+2022-03-26 11:22:02,927 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:03,033 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:03,039 [ac9x9_1_superior_code] DEBUG: Using argmax policy[39.549805 60.333523 44.619587 20.599102 44.47717  43.980473]
+2022-03-26 11:22:03,040 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:03,108 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:03,113 [ac9x9_1_superior_code] DEBUG: Using argmax policy[52.050674 59.900116 40.27631  51.453953 53.826283 53.269554]
+2022-03-26 11:22:03,113 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:03,216 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:03,222 [ac9x9_1_superior_code] DEBUG: Using argmax policy[50.995327 59.35001  61.06208  59.828487 50.538948 46.742134]
+2022-03-26 11:22:03,222 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:19,689 [ac9x9_1_superior_code] INFO: Starting Episode 8
+2022-03-26 11:22:19,689 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:19,695 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.27172  58.35975  61.237026 49.057083 55.18915  57.181602]
+2022-03-26 11:22:19,695 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:19,784 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:19,790 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.68635  56.35277  60.649174 44.672977 56.91526  57.761215]
+2022-03-26 11:22:19,791 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:19,890 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:19,896 [ac9x9_1_superior_code] DEBUG: Using argmax policy[59.353825 55.15759  54.045845 38.578953 57.56123  62.878555]
+2022-03-26 11:22:19,896 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:19,969 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:19,975 [ac9x9_1_superior_code] DEBUG: Using argmax policy[63.74559  52.009903 28.175875 28.965681 48.860664 53.734856]
+2022-03-26 11:22:19,975 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:20,080 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:20,086 [ac9x9_1_superior_code] DEBUG: Using argmax policy[61.728035 57.85163  38.56841  39.651398 54.913307 54.57785 ]
+2022-03-26 11:22:20,086 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:20,191 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:20,197 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.73887  62.98061  55.24544  46.898952 45.59607  44.774117]
+2022-03-26 11:22:20,197 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:20,270 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:20,274 [ac9x9_1_superior_code] DEBUG: Using argmax policy[59.32946  61.450893 49.65873  55.329617 63.13548  62.647377]
+2022-03-26 11:22:20,274 [ac9x9_1_superior_code] DEBUG: Choosing action WAIT.
+2022-03-26 11:22:20,400 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:20,406 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.313984 51.44031  58.26554  24.614584 57.55525  56.48863 ]
+2022-03-26 11:22:20,406 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:20,487 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:20,493 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.767025 50.804993 58.558666 62.15471  59.638092 61.173203]
+2022-03-26 11:22:20,493 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:20,595 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:20,601 [ac9x9_1_superior_code] DEBUG: Using argmax policy[45.641216 57.042767 61.749966 49.10572  55.55971  57.820114]
+2022-03-26 11:22:20,601 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:20,701 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:20,707 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.256397 59.215557 63.193874 36.920345 55.50083  57.399918]
+2022-03-26 11:22:20,707 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:20,779 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:20,784 [ac9x9_1_superior_code] DEBUG: Using argmax policy[58.920902 61.71228  63.04202  36.087433 59.069317 58.92878 ]
+2022-03-26 11:22:20,784 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:20,889 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:20,894 [ac9x9_1_superior_code] DEBUG: Using argmax policy[60.605602 54.175556 62.158028 34.237507 58.574535 59.628468]
+2022-03-26 11:22:20,894 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:21,000 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:21,007 [ac9x9_1_superior_code] DEBUG: Using argmax policy[59.874897 50.839558 55.407223 31.63809  58.979195 65.69456 ]
+2022-03-26 11:22:21,007 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:21,092 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:21,099 [ac9x9_1_superior_code] DEBUG: Using argmax policy[68.36234  42.028793 49.961586 23.401659 49.202248 53.62762 ]
+2022-03-26 11:22:21,099 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:21,207 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:21,213 [ac9x9_1_superior_code] DEBUG: Using argmax policy[68.54869  57.078735 35.623875 25.536495 55.740467 57.48886 ]
+2022-03-26 11:22:21,213 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:21,294 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:21,300 [ac9x9_1_superior_code] DEBUG: Using argmax policy[59.82977  67.78653  49.163734 28.645687 46.669487 44.941708]
+2022-03-26 11:22:21,301 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:21,392 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:21,398 [ac9x9_1_superior_code] DEBUG: Using argmax policy[59.998356 66.84313  47.372322 57.654884 61.719337 61.11029 ]
+2022-03-26 11:22:21,398 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:21,508 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:21,513 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.524952 55.846874 54.29043  58.13808  55.126896 56.39668 ]
+2022-03-26 11:22:21,514 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:21,600 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:21,607 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.46458  57.422146 52.5422   54.44841  54.64935  55.38593 ]
+2022-03-26 11:22:21,607 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:21,684 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:21,688 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.72299  55.038086 54.724922 54.726063 56.89925  58.59956 ]
+2022-03-26 11:22:21,688 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:21,813 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:21,820 [ac9x9_1_superior_code] DEBUG: Using argmax policy[44.165714 47.04905  50.868027 59.70542  52.54331  51.621677]
+2022-03-26 11:22:21,821 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:21,891 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:21,898 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.002186 49.36392  56.55854  61.020466 53.99379  55.589138]
+2022-03-26 11:22:21,898 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:22,001 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:22,007 [ac9x9_1_superior_code] DEBUG: Using argmax policy[52.644398 52.291885 62.100296 21.22862  44.21131  41.971306]
+2022-03-26 11:22:22,007 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:22,122 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:22,128 [ac9x9_1_superior_code] DEBUG: Using argmax policy[57.43915  60.744926 65.49979  26.42866  53.359154 54.812683]
+2022-03-26 11:22:22,128 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:22,194 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:22,201 [ac9x9_1_superior_code] DEBUG: Using argmax policy[52.716297  64.44234   54.341843   1.9362271 43.18108   42.794426 ]
+2022-03-26 11:22:22,202 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:22,306 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:22,313 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.132072 62.55671  47.697315 51.640068 53.265804 52.808598]
+2022-03-26 11:22:22,313 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:22,410 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:22,416 [ac9x9_1_superior_code] DEBUG: Using argmax policy[58.781277 56.175514 58.44391  55.076828 58.86302  63.07221 ]
+2022-03-26 11:22:22,416 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:22,507 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:22,513 [ac9x9_1_superior_code] DEBUG: Using argmax policy[62.86263  46.304104 51.065273 63.934795 54.57191  56.58342 ]
+2022-03-26 11:22:22,513 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:22,620 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:22,627 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.25661  50.701378 52.92862  58.39918  50.338566 51.15175 ]
+2022-03-26 11:22:22,627 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:22,699 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:22,704 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.785168  58.04369   58.62511    2.9982173 37.709446  35.862713 ]
+2022-03-26 11:22:22,704 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:22,812 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:22,819 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.95772  56.24002  61.555687 24.209452 49.68701  50.27945 ]
+2022-03-26 11:22:22,819 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:22,922 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:22,928 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.880596 57.591335 48.37744  22.332611 43.524055 43.51557 ]
+2022-03-26 11:22:22,928 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:23,012 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:23,019 [ac9x9_1_superior_code] DEBUG: Using argmax policy[49.73298  56.775215 42.885033 47.841373 49.80859  49.64594 ]
+2022-03-26 11:22:23,019 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:23,113 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:23,119 [ac9x9_1_superior_code] DEBUG: Using argmax policy[52.506737 45.816242 50.857594 48.968597 53.16462  56.35875 ]
+2022-03-26 11:22:23,120 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:23,226 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:23,239 [ac9x9_1_superior_code] DEBUG: Using argmax policy[57.328804 31.931463 43.348003 54.517494 46.85031  50.304558]
+2022-03-26 11:22:23,239 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:23,314 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:23,321 [ac9x9_1_superior_code] DEBUG: Using argmax policy[61.715534 47.576904 46.33039  45.882977 55.681244 57.516033]
+2022-03-26 11:22:23,321 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:23,423 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:23,430 [ac9x9_1_superior_code] DEBUG: Using argmax policy[58.76643  67.704926 55.05889  49.8949   51.86657  50.418255]
+2022-03-26 11:22:23,430 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:23,514 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:23,528 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.658306 66.524666 32.76745  54.942802 57.131317 56.361443]
+2022-03-26 11:22:23,529 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:23,613 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:23,620 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.28341  51.983486 47.55906  52.282948 49.870148 51.439934]
+2022-03-26 11:22:23,620 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:23,700 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:23,707 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.36245  59.747246 42.292347 55.609158 53.926006 54.548794]
+2022-03-26 11:22:23,708 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:23,798 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:23,805 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.947433 52.4742   50.205963 51.043213 53.150024 55.189224]
+2022-03-26 11:22:23,806 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:23,897 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:23,903 [ac9x9_1_superior_code] DEBUG: Using argmax policy[42.27084  48.693527 37.804317 54.844196 47.564114 46.696747]
+2022-03-26 11:22:23,903 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:24,021 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:24,034 [ac9x9_1_superior_code] DEBUG: Using argmax policy[49.021423 48.928078 45.80844  59.984943 48.601364 50.06658 ]
+2022-03-26 11:22:24,034 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:24,123 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:24,131 [ac9x9_1_superior_code] DEBUG: Using argmax policy[55.020023 52.355095 59.598907 52.330486 48.75997  47.530636]
+2022-03-26 11:22:24,131 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:24,190 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:24,195 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.18396  52.251476 61.309017 55.048916 58.208485 60.0799  ]
+2022-03-26 11:22:24,195 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:24,324 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:24,332 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.39416  55.547302 53.551495 40.955067 47.933758 48.251858]
+2022-03-26 11:22:24,332 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:24,404 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:24,411 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.454433 58.9645   38.580727 53.98357  51.050804 51.42613 ]
+2022-03-26 11:22:24,412 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:24,516 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:24,524 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.439014 48.200485 51.83889  50.212223 48.971996 49.983727]
+2022-03-26 11:22:24,524 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:24,623 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:24,630 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.87041  45.936295 55.7008   47.66031  52.48316  53.363956]
+2022-03-26 11:22:24,630 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:24,718 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:24,725 [ac9x9_1_superior_code] DEBUG: Using argmax policy[50.32208  46.579685 50.2649   45.873962 52.63857  54.615444]
+2022-03-26 11:22:24,725 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:24,819 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:24,826 [ac9x9_1_superior_code] DEBUG: Using argmax policy[52.0543   38.317432 32.2634   38.654827 47.88926  51.7137  ]
+2022-03-26 11:22:24,826 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:24,926 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:24,935 [ac9x9_1_superior_code] DEBUG: Using argmax policy[55.918747 45.02717  46.289276 34.24774  48.191322 47.75472 ]
+2022-03-26 11:22:24,935 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:25,022 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:25,029 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.54985  53.781506 46.45571  59.76415  50.2547   49.128895]
+2022-03-26 11:22:25,029 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:25,133 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:25,140 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.621273 56.1744   51.05514  59.208652 53.88891  55.466003]
+2022-03-26 11:22:25,140 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:25,203 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:25,211 [ac9x9_1_superior_code] DEBUG: Using argmax policy[42.39207  48.705322 46.94059  39.226948 42.531784 42.112854]
+2022-03-26 11:22:25,212 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:25,317 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:25,325 [ac9x9_1_superior_code] DEBUG: Using argmax policy[42.066116 51.971676 33.065453 45.668022 44.015594 43.920177]
+2022-03-26 11:22:25,325 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:25,425 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:25,435 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.877953 47.972054 48.299744 48.14172  47.203796 48.334255]
+2022-03-26 11:22:25,435 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:25,525 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:25,539 [ac9x9_1_superior_code] DEBUG: Using argmax policy[49.257603 40.599236 51.106045 50.63832  42.82966  41.375786]
+2022-03-26 11:22:25,539 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:25,616 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:25,624 [ac9x9_1_superior_code] DEBUG: Using argmax policy[29.00978  37.251392 63.01474  31.430075 38.839657 40.303066]
+2022-03-26 11:22:25,624 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:25,723 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:25,737 [ac9x9_1_superior_code] DEBUG: Using argmax policy[39.943874 54.95345  48.15196  51.74125  51.16427  48.700165]
+2022-03-26 11:22:25,738 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:25,826 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:25,834 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.636105 53.479774 41.93353  49.08881  49.30289  50.575558]
+2022-03-26 11:22:25,834 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:25,925 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:25,937 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.790253 51.121925 47.10869  51.699493 49.08349  49.76599 ]
+2022-03-26 11:22:25,938 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:26,011 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:26,018 [ac9x9_1_superior_code] DEBUG: Using argmax policy[41.869434 48.60727  41.29158  48.53715  45.487316 47.068226]
+2022-03-26 11:22:26,018 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:26,125 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:26,139 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.500824 49.21731  47.33158  50.64432  49.37759  50.953476]
+2022-03-26 11:22:26,140 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:26,228 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:26,240 [ac9x9_1_superior_code] DEBUG: Using argmax policy[40.705    52.482063 30.82843  52.080276 47.719154 46.082607]
+2022-03-26 11:22:26,242 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:26,311 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:26,318 [ac9x9_1_superior_code] DEBUG: Using argmax policy[40.100986 52.32412  25.210966 41.35967  41.43636  39.297916]
+2022-03-26 11:22:26,318 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:26,404 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:26,411 [ac9x9_1_superior_code] DEBUG: Using argmax policy[42.07174  30.49896  44.8595   39.293472 37.949696 37.20881 ]
+2022-03-26 11:22:26,412 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:26,514 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:26,527 [ac9x9_1_superior_code] DEBUG: Using argmax policy[41.716156 41.537098 48.695564 43.97683  46.722736 47.629692]
+2022-03-26 11:22:26,528 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:26,616 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:26,630 [ac9x9_1_superior_code] DEBUG: Using argmax policy[38.66283  38.880592 43.766006 42.741367 39.69404  39.694294]
+2022-03-26 11:22:26,631 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:26,718 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:26,727 [ac9x9_1_superior_code] DEBUG: Using argmax policy[40.443897 35.344765 41.242294 34.083214 40.09808  40.41326 ]
+2022-03-26 11:22:26,727 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:26,810 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:26,817 [ac9x9_1_superior_code] DEBUG: Using argmax policy[41.327927 40.061348 41.33212  32.022278 41.47531  42.262375]
+2022-03-26 11:22:26,818 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:26,920 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:26,933 [ac9x9_1_superior_code] DEBUG: Using argmax policy[45.434963  37.871185  34.780254   8.4159565 34.335514  35.811203 ]
+2022-03-26 11:22:26,933 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:27,019 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:27,032 [ac9x9_1_superior_code] DEBUG: Using argmax policy[44.988056 34.95503  30.035683 19.984066 37.296734 38.318966]
+2022-03-26 11:22:27,032 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:27,120 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:27,133 [ac9x9_1_superior_code] DEBUG: Using argmax policy[37.648254 40.82819  37.432777 45.92605  39.205    37.162453]
+2022-03-26 11:22:27,134 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:27,222 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:27,233 [ac9x9_1_superior_code] DEBUG: Using argmax policy[40.258423 43.091454 41.76689  48.1946   43.670746 44.72713 ]
+2022-03-26 11:22:27,233 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:27,324 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:27,337 [ac9x9_1_superior_code] DEBUG: Using argmax policy[40.8853   41.202892 47.677242 42.189873 42.137367 41.55673 ]
+2022-03-26 11:22:27,337 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:27,427 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:27,440 [ac9x9_1_superior_code] DEBUG: Using argmax policy[43.539158 36.944656 46.198544 33.202736 41.98748  41.7422  ]
+2022-03-26 11:22:27,441 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:27,528 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:27,543 [ac9x9_1_superior_code] DEBUG: Using argmax policy[42.63217  40.063313 40.133923 40.66609  42.101383 44.774002]
+2022-03-26 11:22:27,544 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:27,627 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:27,639 [ac9x9_1_superior_code] DEBUG: Using argmax policy[49.015343 41.01547  25.438454 12.653036 34.474754 37.65487 ]
+2022-03-26 11:22:27,640 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:27,726 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:27,739 [ac9x9_1_superior_code] DEBUG: Using argmax policy[49.555084 38.042458 29.341492 14.205589 36.443195 36.230686]
+2022-03-26 11:22:27,740 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:27,831 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:27,846 [ac9x9_1_superior_code] DEBUG: Using argmax policy[38.94177  42.10223  40.112972 43.700523 36.370518 33.863144]
+2022-03-26 11:22:27,846 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:27,927 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:27,940 [ac9x9_1_superior_code] DEBUG: Using argmax policy[36.890495 37.451077 38.968174 46.78295  40.058174 40.73903 ]
+2022-03-26 11:22:27,941 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:28,029 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:28,042 [ac9x9_1_superior_code] DEBUG: Using argmax policy[40.741318 40.462753 42.14639  42.52669  40.70079  40.645164]
+2022-03-26 11:22:28,042 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:28,130 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:28,143 [ac9x9_1_superior_code] DEBUG: Using argmax policy[36.95379  40.242455 34.726677 42.187645 39.13934  39.67334 ]
+2022-03-26 11:22:28,144 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:28,231 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:28,244 [ac9x9_1_superior_code] DEBUG: Using argmax policy[36.66334  39.24193  38.503323 41.084873 40.895134 41.866947]
+2022-03-26 11:22:28,245 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:28,332 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:28,344 [ac9x9_1_superior_code] DEBUG: Using argmax policy[33.500862 39.283657 23.361452 34.530407 33.514217 33.02762 ]
+2022-03-26 11:22:28,344 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:28,432 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:28,445 [ac9x9_1_superior_code] DEBUG: Using argmax policy[40.030693 40.95785  39.681034 34.77356  36.321175 35.910576]
+2022-03-26 11:22:28,445 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:28,533 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:28,547 [ac9x9_1_superior_code] DEBUG: Using argmax policy[32.26808  37.23821  25.080498 39.87575  33.24927  32.928165]
+2022-03-26 11:22:28,548 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:28,634 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:28,644 [ac9x9_1_superior_code] DEBUG: Using argmax policy[40.030693 40.95785  39.681034 34.77356  36.321175 35.910576]
+2022-03-26 11:22:28,644 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:34,942 [ac9x9_1_superior_code] INFO: Starting Episode 9
+2022-03-26 11:22:34,942 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:34,947 [ac9x9_1_superior_code] DEBUG: Using argmax policy[45.118687 55.92495  56.921803 46.365643 52.520164 54.142838]
+2022-03-26 11:22:34,948 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:35,007 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:35,012 [ac9x9_1_superior_code] DEBUG: Using argmax policy[52.707485 51.552963 42.944256 41.900436 53.555107 57.097115]
+2022-03-26 11:22:35,012 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:35,135 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:35,141 [ac9x9_1_superior_code] DEBUG: Using argmax policy[58.1394   53.948254 33.82792  32.676395 50.35098  53.00589 ]
+2022-03-26 11:22:35,141 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:35,216 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:35,220 [ac9x9_1_superior_code] DEBUG: Using argmax policy[46.22741  59.750805 42.03311  46.70796  49.979977 48.40787 ]
+2022-03-26 11:22:35,220 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:35,340 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:35,347 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.644863 59.442757 58.576275 57.34022  57.79714  58.479298]
+2022-03-26 11:22:35,347 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:35,419 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:35,424 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.221992 55.35421  47.89943  60.755047 54.242065 56.65984 ]
+2022-03-26 11:22:35,424 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:35,536 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:35,542 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.4983   55.462402 55.26104  29.135393 55.319828 55.477192]
+2022-03-26 11:22:35,542 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:35,612 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:35,617 [ac9x9_1_superior_code] DEBUG: Using argmax policy[50.194157 55.61486  56.06373  56.334324 54.804867 56.09908 ]
+2022-03-26 11:22:35,617 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:35,738 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:35,744 [ac9x9_1_superior_code] DEBUG: Using argmax policy[43.901127 56.239258 59.605553 45.186523 51.03395  53.225437]
+2022-03-26 11:22:35,744 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:35,838 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:35,844 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.81504  56.264046 59.085354 40.673565 53.06512  54.50047 ]
+2022-03-26 11:22:35,845 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:35,912 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:35,916 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.40955  54.89476  55.94427  37.56178  53.31437  55.471592]
+2022-03-26 11:22:35,916 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:36,041 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:36,047 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.635883 49.210945 58.235794 40.45356  54.84623  55.38775 ]
+2022-03-26 11:22:36,048 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:36,146 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:36,152 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.934605 47.225475 51.285213 38.64195  54.98597  59.85088 ]
+2022-03-26 11:22:36,152 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:36,223 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:36,229 [ac9x9_1_superior_code] DEBUG: Using argmax policy[59.253517 36.50272  43.88055  35.84151  48.93132  52.898575]
+2022-03-26 11:22:36,229 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:36,341 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:36,347 [ac9x9_1_superior_code] DEBUG: Using argmax policy[61.424953 51.40266  28.10528  31.971264 52.920353 53.56885 ]
+2022-03-26 11:22:36,347 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:36,450 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:36,456 [ac9x9_1_superior_code] DEBUG: Using argmax policy[61.793213 62.082302 48.332275 34.45442  45.149612 46.764683]
+2022-03-26 11:22:36,456 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:36,528 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:36,533 [ac9x9_1_superior_code] DEBUG: Using argmax policy[57.738953 60.95554  31.717754 53.021614 63.220306 61.16879 ]
+2022-03-26 11:22:36,534 [ac9x9_1_superior_code] DEBUG: Choosing action WAIT.
+2022-03-26 11:22:36,640 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:36,647 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.941254  47.946133  49.869514  -3.7404463 54.286766  52.77614  ]
+2022-03-26 11:22:36,647 [ac9x9_1_superior_code] DEBUG: Choosing action WAIT.
+2022-03-26 11:22:36,752 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:36,758 [ac9x9_1_superior_code] DEBUG: Using argmax policy[52.68175  48.669865 50.52958  54.866673 52.612698 53.8774  ]
+2022-03-26 11:22:36,758 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:36,842 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:36,848 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.97926  52.144444 53.792526 28.600035 48.557995 48.38442 ]
+2022-03-26 11:22:36,848 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:36,927 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:36,930 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.290318 50.27734  55.18186  24.118479 49.228397 49.646725]
+2022-03-26 11:22:36,930 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:37,056 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:37,063 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.73159  58.688183 60.197315 36.482903 54.96259  55.070606]
+2022-03-26 11:22:37,063 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:37,134 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:37,137 [ac9x9_1_superior_code] DEBUG: Using argmax policy[58.29332  55.09262  59.846825 25.6752   54.653774 55.138474]
+2022-03-26 11:22:37,138 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:37,259 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:37,265 [ac9x9_1_superior_code] DEBUG: Using argmax policy[58.147064 58.949142 58.13184  25.639496 54.88997  56.319   ]
+2022-03-26 11:22:37,265 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:37,351 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:37,357 [ac9x9_1_superior_code] DEBUG: Using argmax policy[57.317524 60.86573  54.964878 53.796757 56.962265 58.686333]
+2022-03-26 11:22:37,358 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:37,438 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:37,446 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.644672 50.813587 55.949997 56.8221   60.52877  62.451855]
+2022-03-26 11:22:37,446 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:37,561 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:37,568 [ac9x9_1_superior_code] DEBUG: Using argmax policy[56.068275 34.21051  41.24116  67.15203  53.225452 54.827675]
+2022-03-26 11:22:37,568 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:37,641 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:37,646 [ac9x9_1_superior_code] DEBUG: Using argmax policy[58.053165 50.24381  56.144985 67.00381  55.601685 57.643894]
+2022-03-26 11:22:37,646 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:37,750 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:37,756 [ac9x9_1_superior_code] DEBUG: Using argmax policy[67.074295 61.917183 62.61095  28.059925 50.219906 51.09981 ]
+2022-03-26 11:22:37,756 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:37,860 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:37,867 [ac9x9_1_superior_code] DEBUG: Using argmax policy[69.99844  65.40091  48.079918 24.316965 63.116333 62.831627]
+2022-03-26 11:22:37,867 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:37,938 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:37,943 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.644344 52.772896 49.904808 13.556167 41.323658 40.38081 ]
+2022-03-26 11:22:37,944 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:38,067 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:38,073 [ac9x9_1_superior_code] DEBUG: Using argmax policy[50.24319  53.616997 46.123104 49.030537 48.7044   49.33655 ]
+2022-03-26 11:22:38,073 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:38,144 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:38,151 [ac9x9_1_superior_code] DEBUG: Using argmax policy[49.023098 49.65693  53.148182 49.117825 51.618893 51.889313]
+2022-03-26 11:22:38,151 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:38,262 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:38,269 [ac9x9_1_superior_code] DEBUG: Using argmax policy[54.38599  50.26917  55.50392  41.312443 53.60348  55.28733 ]
+2022-03-26 11:22:38,269 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:38,365 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:38,371 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.2481   55.228344 58.990456 51.22527  54.671535 55.776924]
+2022-03-26 11:22:38,371 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:38,443 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:38,450 [ac9x9_1_superior_code] DEBUG: Using argmax policy[53.63518  50.018887 59.869316 43.98478  55.342415 56.367073]
+2022-03-26 11:22:38,450 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:38,562 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:38,569 [ac9x9_1_superior_code] DEBUG: Using argmax policy[55.144485 48.285152 54.912613 32.85491  55.594303 58.409653]
+2022-03-26 11:22:38,569 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:38,671 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:38,676 [ac9x9_1_superior_code] DEBUG: Using argmax policy[58.189255 38.062996 53.666725 33.086773 52.03431  55.796867]
+2022-03-26 11:22:38,676 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:38,747 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:38,753 [ac9x9_1_superior_code] DEBUG: Using argmax policy[59.804573 49.229507 54.985554 36.374397 53.057426 52.902912]
+2022-03-26 11:22:38,753 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:38,878 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:38,885 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.949055 60.60051  57.22366  51.388042 49.113136 47.675945]
+2022-03-26 11:22:38,885 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:38,953 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:38,959 [ac9x9_1_superior_code] DEBUG: Using argmax policy[55.197536 64.27782  25.482765 55.773197 62.60337  61.56355 ]
+2022-03-26 11:22:38,959 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:39,071 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:39,077 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.02973  51.072136 48.82195  53.270023 49.8872   51.27842 ]
+2022-03-26 11:22:39,078 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:39,178 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:39,185 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.52769  51.55165  46.333282 49.421494 48.36564  49.955833]
+2022-03-26 11:22:39,185 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:39,254 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:39,260 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.823055 50.26514  50.234734 50.860714 54.22975  56.24591 ]
+2022-03-26 11:22:39,260 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:39,372 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:39,379 [ac9x9_1_superior_code] DEBUG: Using argmax policy[41.510384 38.54302  40.125767 58.506992 47.217426 44.934753]
+2022-03-26 11:22:39,379 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:39,445 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:39,448 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.00914  43.05746  46.07771  57.732113 47.447178 49.83671 ]
+2022-03-26 11:22:39,449 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:39,577 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:39,583 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.415634 49.86227  54.80429  48.13404  45.058792 44.01038 ]
+2022-03-26 11:22:39,584 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:39,682 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:39,688 [ac9x9_1_superior_code] DEBUG: Using argmax policy[51.24452  50.52536  55.500484 37.139465 50.420387 51.89146 ]
+2022-03-26 11:22:39,689 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:39,758 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:39,764 [ac9x9_1_superior_code] DEBUG: Using argmax policy[41.613747 50.308975 50.45283  31.246225 42.120995 42.343407]
+2022-03-26 11:22:39,765 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:39,881 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:39,888 [ac9x9_1_superior_code] DEBUG: Using argmax policy[38.91791  35.16494  40.133507 18.480822 35.50907  35.89797 ]
+2022-03-26 11:22:39,888 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:39,973 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:39,981 [ac9x9_1_superior_code] DEBUG: Using argmax policy[36.983185 35.34361  38.266285 32.5883   38.19734  41.20243 ]
+2022-03-26 11:22:39,981 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:40,086 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:40,094 [ac9x9_1_superior_code] DEBUG: Using argmax policy[41.641277 26.476974 39.36873  31.063105 33.509094 35.44046 ]
+2022-03-26 11:22:40,094 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:40,177 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:40,184 [ac9x9_1_superior_code] DEBUG: Using argmax policy[40.578056 33.20985  26.792803  4.281313 29.385918 30.099142]
+2022-03-26 11:22:40,184 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:40,290 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:40,296 [ac9x9_1_superior_code] DEBUG: Using argmax policy[35.877808 43.95248  32.09781  21.034475 30.475376 31.407314]
+2022-03-26 11:22:40,296 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:40,353 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:40,358 [ac9x9_1_superior_code] DEBUG: Using argmax policy[37.688873 47.33326  25.752718 35.469532 38.053326 37.208492]
+2022-03-26 11:22:40,358 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:40,480 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:40,487 [ac9x9_1_superior_code] DEBUG: Using argmax policy[43.32416  43.35427  38.34086  37.417004 37.941936 38.8183  ]
+2022-03-26 11:22:40,487 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:40,591 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:40,597 [ac9x9_1_superior_code] DEBUG: Using argmax policy[42.684635 37.42668  39.546234 44.90172  41.41071  42.615814]
+2022-03-26 11:22:40,598 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:40,679 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:40,686 [ac9x9_1_superior_code] DEBUG: Using argmax policy[42.289543 39.716446 38.581142 35.88924  40.17641  43.175858]
+2022-03-26 11:22:40,686 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:40,781 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:40,787 [ac9x9_1_superior_code] DEBUG: Using argmax policy[40.317276 34.05542  34.379154 35.10064  31.905355 33.031887]
+2022-03-26 11:22:40,787 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:40,883 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:40,890 [ac9x9_1_superior_code] DEBUG: Using argmax policy[42.03957  38.043606 29.85523  18.47853  35.00421  33.438107]
+2022-03-26 11:22:40,891 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:40,965 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:40,971 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.766167 46.45529  37.634254 41.93038  37.683075 40.836967]
+2022-03-26 11:22:40,971 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:41,074 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:41,081 [ac9x9_1_superior_code] DEBUG: Using argmax policy[47.91776  43.981197 46.623486 31.26631  42.051033 42.632866]
+2022-03-26 11:22:41,081 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:41,187 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:41,200 [ac9x9_1_superior_code] DEBUG: Using argmax policy[45.694298 43.590176 32.71756  45.162243 42.547466 44.20405 ]
+2022-03-26 11:22:41,201 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:41,282 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:41,288 [ac9x9_1_superior_code] DEBUG: Using argmax policy[48.089176 39.77019  45.584053 33.29554  43.53987  44.422924]
+2022-03-26 11:22:41,288 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:41,390 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:41,398 [ac9x9_1_superior_code] DEBUG: Using argmax policy[38.559887 40.585155 45.105522 40.476303 46.26483  48.872875]
+2022-03-26 11:22:41,398 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:41,487 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:41,494 [ac9x9_1_superior_code] DEBUG: Using argmax policy[34.12908  27.038912 49.74648  19.439892 39.014576 37.975212]
+2022-03-26 11:22:41,494 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:41,575 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:41,582 [ac9x9_1_superior_code] DEBUG: Using argmax policy[ 4.4617925 10.481403  52.966866   4.5468616 15.753416  16.888968 ]
+2022-03-26 11:22:41,582 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:41,676 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:41,689 [ac9x9_1_superior_code] DEBUG: Using argmax policy[36.131817 46.564953 40.70456  48.50685  40.993664 38.420654]
+2022-03-26 11:22:41,690 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:41,762 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:41,769 [ac9x9_1_superior_code] DEBUG: Using argmax policy[39.27128  44.06522  35.319767 47.663082 44.511078 44.954624]
+2022-03-26 11:22:41,770 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:41,877 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:41,885 [ac9x9_1_superior_code] DEBUG: Using argmax policy[32.407917 30.850876 28.08079  29.892012 28.924437 31.565628]
+2022-03-26 11:22:41,885 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:41,981 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:41,992 [ac9x9_1_superior_code] DEBUG: Using argmax policy[31.984566 26.62069  31.052214 21.809818 27.860996 29.331642]
+2022-03-26 11:22:41,992 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:42,083 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:42,090 [ac9x9_1_superior_code] DEBUG: Using argmax policy[27.142467 33.173386 31.96025  30.68206  33.34972  34.500004]
+2022-03-26 11:22:42,091 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:42,185 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:42,197 [ac9x9_1_superior_code] DEBUG: Using argmax policy[23.236189 33.885735 32.702923 29.674028 30.319656 29.524214]
+2022-03-26 11:22:42,198 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:42,259 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:42,266 [ac9x9_1_superior_code] DEBUG: Using argmax policy[20.808817 24.904676 17.763306 21.836681 22.04072  21.735304]
+2022-03-26 11:22:42,267 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:42,363 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:42,368 [ac9x9_1_superior_code] DEBUG: Using argmax policy[24.998962 25.258738 26.954533 21.455997 22.637846 22.578465]
+2022-03-26 11:22:42,368 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:42,468 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:42,480 [ac9x9_1_superior_code] DEBUG: Using argmax policy[24.380978 21.756952 28.19334  26.330654 26.716898 27.463074]
+2022-03-26 11:22:42,482 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:42,569 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:42,582 [ac9x9_1_superior_code] DEBUG: Using argmax policy[26.627983 26.071928 26.196972 26.249544 25.833822 25.810898]
+2022-03-26 11:22:42,583 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:42,675 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:42,689 [ac9x9_1_superior_code] DEBUG: Using argmax policy[24.10465  20.206463 26.334936 22.554718 24.447206 25.208988]
+2022-03-26 11:22:42,690 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:42,770 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:42,784 [ac9x9_1_superior_code] DEBUG: Using argmax policy[24.35625  24.203928 25.283148 24.82866  25.50485  26.19636 ]
+2022-03-26 11:22:42,785 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:42,871 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:42,884 [ac9x9_1_superior_code] DEBUG: Using argmax policy[24.06315  23.881962 25.85791  25.242542 22.100874 21.212568]
+2022-03-26 11:22:42,884 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:42,971 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:42,983 [ac9x9_1_superior_code] DEBUG: Using argmax policy[-2.441403   -1.3412752  28.315842    0.88402915  4.3089023   5.984616  ]
+2022-03-26 11:22:42,983 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:43,071 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:43,084 [ac9x9_1_superior_code] DEBUG: Using argmax policy[20.480785 28.576653 27.75975  23.878147 21.559078 20.284857]
+2022-03-26 11:22:43,084 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:43,172 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:43,185 [ac9x9_1_superior_code] DEBUG: Using argmax policy[24.67015  28.456501 24.64527  26.870533 26.934298 27.500113]
+2022-03-26 11:22:43,186 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:43,276 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:43,289 [ac9x9_1_superior_code] DEBUG: Using argmax policy[27.31817  27.805815 28.306822 27.945135 27.152138 27.195831]
+2022-03-26 11:22:43,289 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:43,377 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:43,390 [ac9x9_1_superior_code] DEBUG: Using argmax policy[28.115292 25.037579 28.994553 27.306736 27.753658 28.13904 ]
+2022-03-26 11:22:43,390 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:43,478 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:43,491 [ac9x9_1_superior_code] DEBUG: Using argmax policy[26.683037 27.546926 28.773367 27.866117 28.188044 28.672207]
+2022-03-26 11:22:43,492 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:43,580 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:43,594 [ac9x9_1_superior_code] DEBUG: Using argmax policy[28.697273 26.241238 29.355225 26.615509 28.615778 28.98938 ]
+2022-03-26 11:22:43,595 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:43,678 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:43,692 [ac9x9_1_superior_code] DEBUG: Using argmax policy[30.08441  28.007456 28.169878 29.350048 28.849709 30.264292]
+2022-03-26 11:22:43,692 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:43,779 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:43,791 [ac9x9_1_superior_code] DEBUG: Using argmax policy[30.323467 28.56128  27.1855   29.768703 25.682947 26.355566]
+2022-03-26 11:22:43,792 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:43,881 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:43,894 [ac9x9_1_superior_code] DEBUG: Using argmax policy[29.992605 23.4129   20.975811 13.404027 22.86509  23.673105]
+2022-03-26 11:22:43,894 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:43,974 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:43,982 [ac9x9_1_superior_code] DEBUG: Using argmax policy[28.227684 30.624086 22.437117 28.828032 26.814127 26.911484]
+2022-03-26 11:22:43,982 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:44,081 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:44,093 [ac9x9_1_superior_code] DEBUG: Using argmax policy[19.952583 24.085588 18.716639 21.29946  21.47343  21.472137]
+2022-03-26 11:22:44,094 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:44,176 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:44,183 [ac9x9_1_superior_code] DEBUG: Using argmax policy[23.898094 24.28629  23.865108 23.365866 23.0651   22.938145]
+2022-03-26 11:22:44,183 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:44,288 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:44,303 [ac9x9_1_superior_code] DEBUG: Using argmax policy[19.737667 23.123766 20.56988  24.590057 22.533836 23.046751]
+2022-03-26 11:22:44,303 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:44,387 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:44,400 [ac9x9_1_superior_code] DEBUG: Using argmax policy[22.170996 22.675417 23.45     22.820679 23.450022 24.182924]
+2022-03-26 11:22:44,401 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:44,489 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:44,499 [ac9x9_1_superior_code] DEBUG: Using argmax policy[22.17044  22.180569 24.44738  23.779055 20.765343 20.025597]
+2022-03-26 11:22:44,499 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:44,588 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:44,601 [ac9x9_1_superior_code] DEBUG: Using argmax policy[-0.44993442 -1.0049086  25.122366    2.7965295   6.5136867   8.599662  ]
+2022-03-26 11:22:44,601 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:44,689 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:44,702 [ac9x9_1_superior_code] DEBUG: Using argmax policy[17.306515 24.495996 22.39015  22.68489  19.31693  18.115925]
+2022-03-26 11:22:44,703 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:44,790 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:44,804 [ac9x9_1_superior_code] DEBUG: Using argmax policy[20.69733  24.468134 21.43592  22.713903 23.152283 23.559536]
+2022-03-26 11:22:44,804 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:44,896 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:44,906 [ac9x9_1_superior_code] DEBUG: Using argmax policy[28.520594 29.211634 27.10456  25.974398 26.876211 26.958677]
+2022-03-26 11:22:44,906 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:44,994 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:45,008 [ac9x9_1_superior_code] DEBUG: Using argmax policy[23.72098  27.27322  23.583225 27.843023 26.06774  26.551523]
+2022-03-26 11:22:45,009 [ac9x9_1_superior_code] DEBUG: Choosing action LEFT.
+2022-03-26 11:22:45,094 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:45,108 [ac9x9_1_superior_code] DEBUG: Using argmax policy[26.562168 26.602371 26.322903 24.573444 26.949741 28.810282]
+2022-03-26 11:22:45,108 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:45,196 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:45,209 [ac9x9_1_superior_code] DEBUG: Using argmax policy[27.888214 29.848488 28.908691 20.648489 22.348946 22.312323]
+2022-03-26 11:22:45,210 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:45,294 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:45,309 [ac9x9_1_superior_code] DEBUG: Using argmax policy[22.56909  28.291546 13.716371 21.466846 21.68537  20.622192]
+2022-03-26 11:22:45,309 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:45,400 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:45,413 [ac9x9_1_superior_code] DEBUG: Using argmax policy[29.803741 30.337772 25.948229 26.58812  24.50533  25.879856]
+2022-03-26 11:22:45,414 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:45,496 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:45,510 [ac9x9_1_superior_code] DEBUG: Using argmax policy[23.748306 29.03925  16.295801 23.329674 23.30328  22.197142]
+2022-03-26 11:22:45,510 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
+2022-03-26 11:22:45,602 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:45,616 [ac9x9_1_superior_code] DEBUG: Using argmax policy[26.090454 27.513866 30.785908 27.23765  29.948214 30.07741 ]
+2022-03-26 11:22:45,616 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:45,702 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:45,714 [ac9x9_1_superior_code] DEBUG: Using argmax policy[32.408092 25.811966 26.979763 11.030185 27.371931 28.212696]
+2022-03-26 11:22:45,714 [ac9x9_1_superior_code] DEBUG: Choosing action UP.
+2022-03-26 11:22:45,803 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:45,815 [ac9x9_1_superior_code] DEBUG: Using argmax policy[25.405657 27.027308 29.10439  28.4755   30.308226 30.986017]
+2022-03-26 11:22:45,816 [ac9x9_1_superior_code] DEBUG: Choosing action BOMB.
+2022-03-26 11:22:45,906 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:45,919 [ac9x9_1_superior_code] DEBUG: Using argmax policy[22.570854 24.610817 32.37309  28.676573 28.381992 27.421288]
+2022-03-26 11:22:45,920 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:46,002 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:46,014 [ac9x9_1_superior_code] DEBUG: Using argmax policy[ 7.943779  12.002848  30.612804  -0.6594372  9.277603   9.721952 ]
+2022-03-26 11:22:46,015 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:46,104 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:46,121 [ac9x9_1_superior_code] DEBUG: Using argmax policy[22.618832 26.514227 29.76221  26.567848 23.207237 20.866655]
+2022-03-26 11:22:46,121 [ac9x9_1_superior_code] DEBUG: Choosing action DOWN.
+2022-03-26 11:22:46,204 [ac9x9_1_superior_code] INFO: Predicting Action
+2022-03-26 11:22:46,217 [ac9x9_1_superior_code] DEBUG: Using argmax policy[25.065521  29.719913  28.41315    7.6426144 20.293886  17.82435  ]
+2022-03-26 11:22:46,218 [ac9x9_1_superior_code] DEBUG: Choosing action RIGHT.
