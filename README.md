@@ -1,4 +1,4 @@
-# **BomberMario: Reinforcement Learning for Game AI**
+# **BomberMario: Reinforcement Learning for Bomberman Game**
 
 **Authors:** Daniel Richter, Rhea Habermann, Julian Aßmann  
 
