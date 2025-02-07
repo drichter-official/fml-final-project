@@ -11,7 +11,7 @@
 ---
 
 <div style="display: flex; justify-content: center;">
-  <img src="bombermario.png" alt="BomberMario Game" style="width: cm;">
+  <img src="mariobombproc.png" alt="BomberMario" style="width: cm;">
 </div>
 
 ---
