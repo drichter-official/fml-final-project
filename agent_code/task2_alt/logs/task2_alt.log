@@ -1,0 +1,825 @@
+2022-03-19 17:37:31,312 [task2_alt_code] DEBUG: Successfully entered setup code
+2022-03-19 17:37:31,312 [task2_alt_code] DEBUG: Successfully entered setup code
+2022-03-19 17:37:31,312 [task2_alt_code] INFO: Loading model.
+2022-03-19 17:37:33,754 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:33,787 [task2_alt_code] DEBUG: Using argmax policy[0.03302211 0.08517873 0.29814556 0.18444297 0.28451893 0.14113253]
+2022-03-19 17:37:33,787 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:37:33,846 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:33,850 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:33,850 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:33,953 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:33,958 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:33,958 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:34,050 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:34,054 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:34,054 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:34,153 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:34,158 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:34,158 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:34,254 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:34,259 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:34,260 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:34,361 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:34,365 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:34,365 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:34,456 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:34,460 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:34,460 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:34,560 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:34,565 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:34,566 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:34,663 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:34,667 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:34,667 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:34,761 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:34,765 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:34,765 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:34,864 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:34,868 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:34,869 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:34,964 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:34,968 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:34,968 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:35,065 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:35,069 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:35,070 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:35,167 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:35,171 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:35,171 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:35,268 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:35,272 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:35,272 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:35,371 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:35,376 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:35,377 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:35,469 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:35,473 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:35,473 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:35,572 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:35,575 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:35,575 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:35,673 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:35,676 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:35,676 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:35,775 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:35,779 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:35,779 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:35,883 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:35,887 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:35,887 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:35,979 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:35,982 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:35,982 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:36,081 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:36,084 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:36,084 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:36,181 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:36,184 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:36,184 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:36,284 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:36,290 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:36,290 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:36,388 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:36,392 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:36,393 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:36,485 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:36,489 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:36,489 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:36,588 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:36,591 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:36,591 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:36,689 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:36,693 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:36,693 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:36,791 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:36,794 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:36,795 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:36,892 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:36,897 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:36,897 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:36,992 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:36,996 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:36,997 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:37,094 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:37,098 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:37,098 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:37,196 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:37,200 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:37,200 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:37,297 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:37,301 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:37,301 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:37,399 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:37,403 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:37,403 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:37,502 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:37,505 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:37,505 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:37,602 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:37,605 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:37,606 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:37,704 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:37,708 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:37,708 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:37,805 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:37,809 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:37,809 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:37,907 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:37,911 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:37,912 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:38,008 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:38,011 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:38,011 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:38,110 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:38,113 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:38,113 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:38,212 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:38,215 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:38,215 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:38,313 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:38,317 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:38,317 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:38,415 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:38,419 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:38,419 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:38,516 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:38,519 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:38,519 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:38,617 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:38,620 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:38,621 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:38,718 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:38,721 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:38,721 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:38,822 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:38,826 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:38,826 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:38,921 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:38,924 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:38,925 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:39,023 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:39,026 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:39,026 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:39,125 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:39,128 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:39,128 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:39,225 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:39,228 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:39,228 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:39,327 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:39,332 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:39,332 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:39,428 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:39,432 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:39,432 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:39,529 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:39,532 [task2_alt_code] DEBUG: Using argmax policy[0.27590376 0.03380141 0.03810463 0.1987123  0.31430602 0.2734068 ]
+2022-03-19 17:37:39,532 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:39,632 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:39,636 [task2_alt_code] DEBUG: Using argmax policy[0.25726968 0.01301223 0.042427   0.20576425 0.2904436  0.2743245 ]
+2022-03-19 17:37:39,637 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:39,733 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:39,737 [task2_alt_code] DEBUG: Using argmax policy[0.25793773 0.02188456 0.04762211 0.20277445 0.2970321  0.2811955 ]
+2022-03-19 17:37:39,737 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:39,834 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:39,838 [task2_alt_code] DEBUG: Using argmax policy[0.25793773 0.02188456 0.04762211 0.20277445 0.2970321  0.2811955 ]
+2022-03-19 17:37:39,838 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:39,936 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:39,939 [task2_alt_code] DEBUG: Using argmax policy[0.25793773 0.02188456 0.04762211 0.20277445 0.2970321  0.2811955 ]
+2022-03-19 17:37:39,940 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:40,038 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:40,041 [task2_alt_code] DEBUG: Using argmax policy[0.25359303 0.03577672 0.04461591 0.20381463 0.30982292 0.2911662 ]
+2022-03-19 17:37:40,041 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:40,139 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:40,143 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:40,143 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:40,242 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:40,246 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:40,246 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:40,342 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:40,345 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:40,345 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:40,442 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:40,446 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:40,446 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:40,545 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:40,548 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:40,548 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:40,645 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:40,649 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:40,649 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:40,747 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:40,751 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:40,751 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:40,849 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:40,852 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:40,852 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:40,951 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:40,954 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:40,955 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:41,052 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:41,056 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:41,056 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:41,154 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:41,157 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:41,157 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:41,255 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:41,258 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:41,258 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:41,356 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:41,360 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:41,360 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:41,458 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:41,462 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:41,462 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:41,559 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:41,563 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:41,563 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:41,660 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:41,663 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:41,663 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:41,762 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:41,766 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:41,766 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:41,862 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:41,866 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:41,867 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:41,966 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:41,969 [task2_alt_code] DEBUG: Using argmax policy[0.2585513  0.03421853 0.0452194  0.20563614 0.30474684 0.2911923 ]
+2022-03-19 17:37:41,970 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:42,067 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:42,070 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:42,071 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:42,168 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:42,171 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:42,171 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:42,269 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:42,274 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:42,274 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:42,372 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:42,376 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:42,377 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:42,470 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:42,474 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:42,474 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:42,573 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:42,577 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:42,577 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:42,673 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:42,677 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:42,677 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:42,775 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:42,779 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:42,779 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:42,876 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:42,879 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:42,879 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:42,978 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:42,982 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:42,982 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:43,079 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:43,082 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:43,082 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:43,181 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:43,185 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:43,185 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:43,282 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:43,286 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:43,286 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:43,382 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:43,386 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:43,386 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:43,485 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:43,488 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:43,488 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:43,586 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:43,589 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:43,589 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:43,690 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:43,695 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:43,695 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:43,789 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:43,793 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:43,793 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:43,893 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:43,898 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:43,898 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:43,992 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:43,996 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:43,996 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:44,093 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:44,097 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:44,097 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:44,196 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:44,199 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:44,199 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:44,298 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:44,301 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:44,302 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:44,401 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:44,406 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:44,406 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:44,500 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:44,503 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:44,503 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:44,601 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:44,605 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:44,606 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:44,703 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:44,707 [task2_alt_code] DEBUG: Using argmax policy[0.2575534  0.03154016 0.04472977 0.20495829 0.3039767  0.2920331 ]
+2022-03-19 17:37:44,707 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:44,805 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:44,809 [task2_alt_code] DEBUG: Using argmax policy[ 0.20195302 -0.00589129 -0.00331119  0.17978191  0.2725445   0.269023  ]
+2022-03-19 17:37:44,809 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:44,908 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:44,911 [task2_alt_code] DEBUG: Using argmax policy[0.27574265 0.05454569 0.06021738 0.21996765 0.3064538  0.2919325 ]
+2022-03-19 17:37:44,911 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:45,008 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:45,012 [task2_alt_code] DEBUG: Using argmax policy[0.27574265 0.05454569 0.06021738 0.21996765 0.3064538  0.2919325 ]
+2022-03-19 17:37:45,012 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:45,110 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:45,113 [task2_alt_code] DEBUG: Using argmax policy[0.24963613 0.02803285 0.05125529 0.19796543 0.3062451  0.2888669 ]
+2022-03-19 17:37:45,113 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:45,211 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:45,214 [task2_alt_code] DEBUG: Using argmax policy[0.2594732  0.07899677 0.05656253 0.21600202 0.3412381  0.2987966 ]
+2022-03-19 17:37:45,214 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:45,312 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:45,316 [task2_alt_code] DEBUG: Using argmax policy[0.28535783 0.1081206  0.06693509 0.23617622 0.33991686 0.30323923]
+2022-03-19 17:37:45,316 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:45,414 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:45,418 [task2_alt_code] DEBUG: Using argmax policy[0.28535783 0.1081206  0.06693509 0.23617622 0.33991686 0.30323923]
+2022-03-19 17:37:45,418 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:45,518 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:45,523 [task2_alt_code] DEBUG: Using argmax policy[0.28535783 0.1081206  0.06693509 0.23617622 0.33991686 0.30323923]
+2022-03-19 17:37:45,523 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:45,618 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:45,622 [task2_alt_code] DEBUG: Using argmax policy[0.22088176 0.05550312 0.0369829  0.14037581 0.24771176 0.25830892]
+2022-03-19 17:37:45,622 [task2_alt_code] DEBUG: Choosing action BOMB.
+2022-03-19 17:37:45,719 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:45,723 [task2_alt_code] DEBUG: Using argmax policy[0.32461524 0.10219405 0.03956618 0.07534021 0.20394318 0.01842697]
+2022-03-19 17:37:45,724 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:37:45,821 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:45,824 [task2_alt_code] DEBUG: Using argmax policy[-0.10653541  0.15031828  0.05537612  0.25571728  0.05044929 -0.22134279]
+2022-03-19 17:37:45,824 [task2_alt_code] DEBUG: Choosing action LEFT.
+2022-03-19 17:37:45,922 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:45,926 [task2_alt_code] DEBUG: Using argmax policy[-0.04668679  0.00359459 -0.03445097  0.24688707  0.1223774   0.08435725]
+2022-03-19 17:37:45,926 [task2_alt_code] DEBUG: Choosing action LEFT.
+2022-03-19 17:37:46,024 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:46,028 [task2_alt_code] DEBUG: Using argmax policy[-0.02912235  0.03166177 -0.02931214  0.26721823  0.14118706  0.09149818]
+2022-03-19 17:37:46,028 [task2_alt_code] DEBUG: Choosing action LEFT.
+2022-03-19 17:37:46,126 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:46,131 [task2_alt_code] DEBUG: Using argmax policy[-0.20358804 -0.23918709 -0.02833516  0.1296282   0.03283353  0.01484768]
+2022-03-19 17:37:46,131 [task2_alt_code] DEBUG: Choosing action LEFT.
+2022-03-19 17:37:46,226 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:46,229 [task2_alt_code] DEBUG: Using argmax policy[-0.13804029  0.10214449  0.04399226  0.09646029  0.18140708  0.08483231]
+2022-03-19 17:37:46,229 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:46,327 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:46,330 [task2_alt_code] DEBUG: Using argmax policy[-0.12598217  0.02005479  0.17504884  0.09728654  0.21197139  0.26676437]
+2022-03-19 17:37:46,331 [task2_alt_code] DEBUG: Choosing action BOMB.
+2022-03-19 17:37:46,429 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:46,433 [task2_alt_code] DEBUG: Using argmax policy[-0.13717107  0.16581617 -0.00989226  0.04619206  0.07854885 -0.01800128]
+2022-03-19 17:37:46,433 [task2_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-19 17:37:46,530 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:46,533 [task2_alt_code] DEBUG: Using argmax policy[ 0.02402351  0.11858309  0.2579938  -0.16272588  0.03147627 -0.28074533]
+2022-03-19 17:37:46,534 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:37:46,632 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:46,635 [task2_alt_code] DEBUG: Using argmax policy[0.18059082 0.32166865 0.34819815 0.21614963 0.33539763 0.16678038]
+2022-03-19 17:37:46,635 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:37:46,734 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:46,738 [task2_alt_code] DEBUG: Using argmax policy[ 0.3320732   0.27259073  0.336722    0.11582174  0.12921287 -0.12856877]
+2022-03-19 17:37:46,738 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:37:46,836 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:46,839 [task2_alt_code] DEBUG: Using argmax policy[ 0.14216131  0.035111    0.14802106  0.09736925  0.14238642 -0.02328488]
+2022-03-19 17:37:46,839 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:37:46,938 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:46,941 [task2_alt_code] DEBUG: Using argmax policy[ 0.12534592  0.02608881  0.150631    0.00946914  0.09803019 -0.13446763]
+2022-03-19 17:37:46,941 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:37:47,040 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:47,044 [task2_alt_code] DEBUG: Using argmax policy[0.2546699  0.07646164 0.19882612 0.1740894  0.11686466 0.29631332]
+2022-03-19 17:37:47,045 [task2_alt_code] DEBUG: Choosing action BOMB.
+2022-03-19 17:37:47,141 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:47,145 [task2_alt_code] DEBUG: Using argmax policy[ 0.22391851 -0.00488495  0.2449757   0.09397406 -0.01465446 -0.00148851]
+2022-03-19 17:37:47,145 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:37:47,242 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:47,246 [task2_alt_code] DEBUG: Using argmax policy[-0.2065732   0.15298201  0.06962161  0.45601058 -0.07354376 -0.1408842 ]
+2022-03-19 17:37:47,246 [task2_alt_code] DEBUG: Choosing action LEFT.
+2022-03-19 17:37:47,343 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:47,346 [task2_alt_code] DEBUG: Using argmax policy[ 0.08646972  0.20141767 -0.04071814  0.6022782   0.10148126  0.23742883]
+2022-03-19 17:37:47,347 [task2_alt_code] DEBUG: Choosing action LEFT.
+2022-03-19 17:37:47,445 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:47,449 [task2_alt_code] DEBUG: Using argmax policy[0.29317474 0.47668305 0.2760731  0.5411726  0.21328515 0.14916949]
+2022-03-19 17:37:47,449 [task2_alt_code] DEBUG: Choosing action LEFT.
+2022-03-19 17:37:47,547 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:47,550 [task2_alt_code] DEBUG: Using argmax policy[0.0938344  0.43596554 0.02143893 0.34074003 0.33872646 0.09078793]
+2022-03-19 17:37:47,550 [task2_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-19 17:37:47,648 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:47,652 [task2_alt_code] DEBUG: Using argmax policy[ 0.19152139  0.3525428   0.23336737  0.29596323  0.08651289 -0.00080834]
+2022-03-19 17:37:47,652 [task2_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-19 17:37:47,749 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:47,753 [task2_alt_code] DEBUG: Using argmax policy[0.18807536 0.16206859 0.09298724 0.2794356  0.1221608  0.2856368 ]
+2022-03-19 17:37:47,753 [task2_alt_code] DEBUG: Choosing action BOMB.
+2022-03-19 17:37:47,851 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:47,855 [task2_alt_code] DEBUG: Using argmax policy[0.15230598 0.27066967 0.06442721 0.17388573 0.05670523 0.06168033]
+2022-03-19 17:37:47,855 [task2_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-19 17:37:47,953 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:47,957 [task2_alt_code] DEBUG: Using argmax policy[ 0.1881135   0.0269524   0.16194813 -0.05168495 -0.16089617 -0.24552168]
+2022-03-19 17:37:47,957 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:37:48,054 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:48,057 [task2_alt_code] DEBUG: Using argmax policy[0.33348477 0.08033179 0.1624042  0.16026497 0.11960382 0.01717969]
+2022-03-19 17:37:48,057 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:37:48,155 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:48,158 [task2_alt_code] DEBUG: Using argmax policy[ 0.24162571  0.23059437  0.21397382  0.14150414  0.07935583 -0.18811528]
+2022-03-19 17:37:48,158 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:37:48,257 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:48,260 [task2_alt_code] DEBUG: Using argmax policy[ 0.19000515 -0.00845148  0.06850742  0.08140616  0.10829881  0.05590729]
+2022-03-19 17:37:48,261 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:37:48,357 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:48,361 [task2_alt_code] DEBUG: Using argmax policy[ 0.21723942  0.07352466  0.21171328  0.03784428  0.09015834 -0.13286957]
+2022-03-19 17:37:48,361 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:37:48,458 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:48,462 [task2_alt_code] DEBUG: Using argmax policy[0.30084985 0.06941    0.11709541 0.22890924 0.21551768 0.26081207]
+2022-03-19 17:37:48,462 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:37:48,560 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:48,564 [task2_alt_code] DEBUG: Using argmax policy[0.05342627 0.17023163 0.31257853 0.26059324 0.28022385 0.22367166]
+2022-03-19 17:37:48,564 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:37:48,662 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:48,667 [task2_alt_code] DEBUG: Using argmax policy[0.30084985 0.06941    0.11709541 0.22890924 0.21551768 0.26081207]
+2022-03-19 17:37:48,667 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:37:48,762 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:48,765 [task2_alt_code] DEBUG: Using argmax policy[0.05342627 0.17023163 0.31257853 0.26059324 0.28022385 0.22367166]
+2022-03-19 17:37:48,766 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:37:48,863 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:48,867 [task2_alt_code] DEBUG: Using argmax policy[0.30084985 0.06941    0.11709541 0.22890924 0.21551768 0.26081207]
+2022-03-19 17:37:48,867 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:37:48,966 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:48,969 [task2_alt_code] DEBUG: Using argmax policy[0.05342627 0.17023163 0.31257853 0.26059324 0.28022385 0.22367166]
+2022-03-19 17:37:48,969 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:37:49,068 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:49,073 [task2_alt_code] DEBUG: Using argmax policy[0.30084985 0.06941    0.11709541 0.22890924 0.21551768 0.26081207]
+2022-03-19 17:37:49,073 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:37:49,171 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:49,176 [task2_alt_code] DEBUG: Using argmax policy[0.05342627 0.17023163 0.31257853 0.26059324 0.28022385 0.22367166]
+2022-03-19 17:37:49,176 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:37:49,270 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:49,274 [task2_alt_code] DEBUG: Using argmax policy[0.30084985 0.06941    0.11709541 0.22890924 0.21551768 0.26081207]
+2022-03-19 17:37:49,274 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:37:49,372 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:49,375 [task2_alt_code] DEBUG: Using argmax policy[0.05342627 0.17023163 0.31257853 0.26059324 0.28022385 0.22367166]
+2022-03-19 17:37:49,375 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:37:49,473 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:49,477 [task2_alt_code] DEBUG: Using argmax policy[0.30084985 0.06941    0.11709541 0.22890924 0.21551768 0.26081207]
+2022-03-19 17:37:49,477 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:37:49,574 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:49,578 [task2_alt_code] DEBUG: Using argmax policy[0.05342627 0.17023163 0.31257853 0.26059324 0.28022385 0.22367166]
+2022-03-19 17:37:49,578 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:37:49,676 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:49,679 [task2_alt_code] DEBUG: Using argmax policy[0.29424828 0.05613682 0.11510316 0.2252353  0.21597749 0.26186144]
+2022-03-19 17:37:49,679 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:37:49,776 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:49,780 [task2_alt_code] DEBUG: Using argmax policy[0.05342627 0.17023163 0.31257853 0.26059324 0.28022385 0.22367166]
+2022-03-19 17:37:49,780 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:37:49,878 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:49,881 [task2_alt_code] DEBUG: Using argmax policy[0.30084985 0.06941    0.11709541 0.22890924 0.21551768 0.26081207]
+2022-03-19 17:37:49,881 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:37:49,980 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:49,983 [task2_alt_code] DEBUG: Using argmax policy[0.05342627 0.17023163 0.31257853 0.26059324 0.28022385 0.22367166]
+2022-03-19 17:37:49,983 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:37:50,082 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:50,085 [task2_alt_code] DEBUG: Using argmax policy[0.30084985 0.06941    0.11709541 0.22890924 0.21551768 0.26081207]
+2022-03-19 17:37:50,085 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:37:50,183 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:50,186 [task2_alt_code] DEBUG: Using argmax policy[0.05342627 0.17023163 0.31257853 0.26059324 0.28022385 0.22367166]
+2022-03-19 17:37:50,186 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:37:50,591 [task2_alt_code] INFO: Starting Episode 2
+2022-03-19 17:37:50,591 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:50,595 [task2_alt_code] DEBUG: Using argmax policy[-0.0205537   0.02343486  0.21972711  0.22601067  0.19956617  0.1064496 ]
+2022-03-19 17:37:50,595 [task2_alt_code] DEBUG: Choosing action LEFT.
+2022-03-19 17:37:50,692 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:50,695 [task2_alt_code] DEBUG: Using argmax policy[-0.10092639  0.02147418  0.15675557  0.09824255  0.27974838  0.26764357]
+2022-03-19 17:37:50,696 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:50,794 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:50,797 [task2_alt_code] DEBUG: Using argmax policy[-0.10092639  0.02147418  0.15675557  0.09824255  0.27974838  0.26764357]
+2022-03-19 17:37:50,798 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:50,895 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:50,898 [task2_alt_code] DEBUG: Using argmax policy[-0.10092639  0.02147418  0.15675557  0.09824255  0.27974838  0.26764357]
+2022-03-19 17:37:50,898 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:51,003 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:51,007 [task2_alt_code] DEBUG: Using argmax policy[-0.10092639  0.02147418  0.15675557  0.09824255  0.27974838  0.26764357]
+2022-03-19 17:37:51,007 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:51,100 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:51,104 [task2_alt_code] DEBUG: Using argmax policy[-0.10092639  0.02147418  0.15675557  0.09824255  0.27974838  0.26764357]
+2022-03-19 17:37:51,104 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:51,199 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:51,202 [task2_alt_code] DEBUG: Using argmax policy[-0.10092639  0.02147418  0.15675557  0.09824255  0.27974838  0.26764357]
+2022-03-19 17:37:51,202 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:51,301 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:51,306 [task2_alt_code] DEBUG: Using argmax policy[-0.10092639  0.02147418  0.15675557  0.09824255  0.27974838  0.26764357]
+2022-03-19 17:37:51,306 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:51,407 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:51,411 [task2_alt_code] DEBUG: Using argmax policy[-0.10092639  0.02147418  0.15675557  0.09824255  0.27974838  0.26764357]
+2022-03-19 17:37:51,412 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:51,505 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:51,508 [task2_alt_code] DEBUG: Using argmax policy[-0.10092639  0.02147418  0.15675557  0.09824255  0.27974838  0.26764357]
+2022-03-19 17:37:51,509 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:51,607 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:51,611 [task2_alt_code] DEBUG: Using argmax policy[-0.10092639  0.02147418  0.15675557  0.09824255  0.27974838  0.26764357]
+2022-03-19 17:37:51,611 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:51,707 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:51,710 [task2_alt_code] DEBUG: Using argmax policy[-0.10092639  0.02147418  0.15675557  0.09824255  0.27974838  0.26764357]
+2022-03-19 17:37:51,711 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:51,810 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:51,813 [task2_alt_code] DEBUG: Using argmax policy[-0.10092639  0.02147418  0.15675557  0.09824255  0.27974838  0.26764357]
+2022-03-19 17:37:51,814 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:51,909 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:51,913 [task2_alt_code] DEBUG: Using argmax policy[-0.10092639  0.02147418  0.15675557  0.09824255  0.27974838  0.26764357]
+2022-03-19 17:37:51,913 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:52,321 [task2_alt_code] INFO: Starting Episode 3
+2022-03-19 17:37:52,321 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:52,325 [task2_alt_code] DEBUG: Using argmax policy[0.08500539 0.09520081 0.26027572 0.28405172 0.2248658  0.14545618]
+2022-03-19 17:37:52,325 [task2_alt_code] DEBUG: Choosing action LEFT.
+2022-03-19 17:37:52,419 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:52,422 [task2_alt_code] DEBUG: Using argmax policy[-0.06813464  0.12171458  0.15915757  0.16807382  0.22906046  0.26043665]
+2022-03-19 17:37:52,422 [task2_alt_code] DEBUG: Choosing action BOMB.
+2022-03-19 17:37:52,520 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:52,523 [task2_alt_code] DEBUG: Using argmax policy[-0.09162262  0.19595718 -0.00156913  0.13408023  0.08451111 -0.02531716]
+2022-03-19 17:37:52,523 [task2_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-19 17:37:52,621 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:52,624 [task2_alt_code] DEBUG: Using argmax policy[ 0.05150502  0.12298881  0.2359242  -0.10342474 -0.01469115 -0.3080552 ]
+2022-03-19 17:37:52,625 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:37:52,723 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:52,726 [task2_alt_code] DEBUG: Using argmax policy[0.19363482 0.22594462 0.27374405 0.282294   0.32922688 0.15063627]
+2022-03-19 17:37:52,726 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:52,825 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:52,828 [task2_alt_code] DEBUG: Using argmax policy[0.19363482 0.22594462 0.27374405 0.282294   0.32922688 0.15063627]
+2022-03-19 17:37:52,828 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:52,927 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:52,930 [task2_alt_code] DEBUG: Using argmax policy[-0.11697966 -0.04324781  0.13372765  0.09946934  0.25814682  0.09455559]
+2022-03-19 17:37:52,931 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:53,028 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:53,034 [task2_alt_code] DEBUG: Using argmax policy[0.2923205  0.02698764 0.08555283 0.23889934 0.23257947 0.08214821]
+2022-03-19 17:37:53,034 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:37:53,130 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:53,133 [task2_alt_code] DEBUG: Using argmax policy[0.02992704 0.16470394 0.23646684 0.4248691  0.21956986 0.1572553 ]
+2022-03-19 17:37:53,133 [task2_alt_code] DEBUG: Choosing action LEFT.
+2022-03-19 17:37:53,232 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:53,236 [task2_alt_code] DEBUG: Using argmax policy[0.08068852 0.1258899  0.10534103 0.5164553  0.2275282  0.25327364]
+2022-03-19 17:37:53,236 [task2_alt_code] DEBUG: Choosing action LEFT.
+2022-03-19 17:37:53,332 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:53,336 [task2_alt_code] DEBUG: Using argmax policy[0.20453621 0.30296806 0.1983908  0.675096   0.15688781 0.232828  ]
+2022-03-19 17:37:53,336 [task2_alt_code] DEBUG: Choosing action LEFT.
+2022-03-19 17:37:53,434 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:53,438 [task2_alt_code] DEBUG: Using argmax policy[0.2532814  0.41424617 0.16206525 0.8634507  0.38606733 0.38242108]
+2022-03-19 17:37:53,438 [task2_alt_code] DEBUG: Choosing action LEFT.
+2022-03-19 17:37:53,537 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:53,540 [task2_alt_code] DEBUG: Using argmax policy[0.06996995 0.33404246 0.31220224 0.15062901 0.3559975  0.26775506]
+2022-03-19 17:37:53,540 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:53,641 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:53,646 [task2_alt_code] DEBUG: Using argmax policy[0.06996995 0.33404246 0.31220224 0.15062901 0.3559975  0.26775506]
+2022-03-19 17:37:53,646 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:53,744 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:53,747 [task2_alt_code] DEBUG: Using argmax policy[0.06996995 0.33404246 0.31220224 0.15062901 0.3559975  0.26775506]
+2022-03-19 17:37:53,747 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:53,841 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:53,845 [task2_alt_code] DEBUG: Using argmax policy[0.06996995 0.33404246 0.31220224 0.15062901 0.3559975  0.26775506]
+2022-03-19 17:37:53,845 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:53,944 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:53,948 [task2_alt_code] DEBUG: Using argmax policy[0.06996995 0.33404246 0.31220224 0.15062901 0.3559975  0.26775506]
+2022-03-19 17:37:53,948 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:54,046 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:54,052 [task2_alt_code] DEBUG: Using argmax policy[0.06996995 0.33404246 0.31220224 0.15062901 0.3559975  0.26775506]
+2022-03-19 17:37:54,053 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:54,147 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:54,150 [task2_alt_code] DEBUG: Using argmax policy[0.06996995 0.33404246 0.31220224 0.15062901 0.3559975  0.26775506]
+2022-03-19 17:37:54,150 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:54,249 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:54,252 [task2_alt_code] DEBUG: Using argmax policy[0.06996995 0.33404246 0.31220224 0.15062901 0.3559975  0.26775506]
+2022-03-19 17:37:54,253 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:54,351 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:54,354 [task2_alt_code] DEBUG: Using argmax policy[0.06996995 0.33404246 0.31220224 0.15062901 0.3559975  0.26775506]
+2022-03-19 17:37:54,355 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:54,859 [task2_alt_code] INFO: Starting Episode 4
+2022-03-19 17:37:54,859 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:54,862 [task2_alt_code] DEBUG: Using argmax policy[0.23689319 0.17594056 0.19970788 0.25019577 0.25751403 0.20548013]
+2022-03-19 17:37:54,862 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:54,958 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:54,961 [task2_alt_code] DEBUG: Using argmax policy[0.23689319 0.17594056 0.19970788 0.25019577 0.25751403 0.20548013]
+2022-03-19 17:37:54,962 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:55,063 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:55,068 [task2_alt_code] DEBUG: Using argmax policy[0.23689319 0.17594056 0.19970788 0.25019577 0.25751403 0.20548013]
+2022-03-19 17:37:55,068 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:55,161 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:55,164 [task2_alt_code] DEBUG: Using argmax policy[0.23689319 0.17594056 0.19970788 0.25019577 0.25751403 0.20548013]
+2022-03-19 17:37:55,164 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:55,263 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:55,266 [task2_alt_code] DEBUG: Using argmax policy[0.23689319 0.17594056 0.19970788 0.25019577 0.25751403 0.20548013]
+2022-03-19 17:37:55,267 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:55,367 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:55,372 [task2_alt_code] DEBUG: Using argmax policy[0.23689319 0.17594056 0.19970788 0.25019577 0.25751403 0.20548013]
+2022-03-19 17:37:55,372 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:55,466 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:55,469 [task2_alt_code] DEBUG: Using argmax policy[0.23689319 0.17594056 0.19970788 0.25019577 0.25751403 0.20548013]
+2022-03-19 17:37:55,469 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:55,569 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:55,573 [task2_alt_code] DEBUG: Using argmax policy[0.23689319 0.17594056 0.19970788 0.25019577 0.25751403 0.20548013]
+2022-03-19 17:37:55,573 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:55,669 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:55,673 [task2_alt_code] DEBUG: Using argmax policy[0.23689319 0.17594056 0.19970788 0.25019577 0.25751403 0.20548013]
+2022-03-19 17:37:55,673 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:55,772 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:55,775 [task2_alt_code] DEBUG: Using argmax policy[0.23689319 0.17594056 0.19970788 0.25019577 0.25751403 0.20548013]
+2022-03-19 17:37:55,776 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:55,872 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:55,876 [task2_alt_code] DEBUG: Using argmax policy[0.23689319 0.17594056 0.19970788 0.25019577 0.25751403 0.20548013]
+2022-03-19 17:37:55,876 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:55,973 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:55,977 [task2_alt_code] DEBUG: Using argmax policy[0.23689319 0.17594056 0.19970788 0.25019577 0.25751403 0.20548013]
+2022-03-19 17:37:55,977 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:56,381 [task2_alt_code] INFO: Starting Episode 5
+2022-03-19 17:37:56,381 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:56,385 [task2_alt_code] DEBUG: Using argmax policy[0.21334554 0.12532175 0.22539154 0.21381576 0.2525249  0.20044304]
+2022-03-19 17:37:56,385 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:56,481 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:56,484 [task2_alt_code] DEBUG: Using argmax policy[0.21334554 0.12532175 0.22539154 0.21381576 0.2525249  0.20044304]
+2022-03-19 17:37:56,485 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:56,583 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:56,587 [task2_alt_code] DEBUG: Using argmax policy[0.21334554 0.12532175 0.22539154 0.21381576 0.2525249  0.20044304]
+2022-03-19 17:37:56,587 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:56,685 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:56,688 [task2_alt_code] DEBUG: Using argmax policy[0.21334554 0.12532175 0.22539154 0.21381576 0.2525249  0.20044304]
+2022-03-19 17:37:56,688 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:56,786 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:56,789 [task2_alt_code] DEBUG: Using argmax policy[0.21334554 0.12532175 0.22539154 0.21381576 0.2525249  0.20044304]
+2022-03-19 17:37:56,789 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:56,887 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:56,890 [task2_alt_code] DEBUG: Using argmax policy[0.21334554 0.12532175 0.22539154 0.21381576 0.2525249  0.20044304]
+2022-03-19 17:37:56,890 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:56,989 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:56,993 [task2_alt_code] DEBUG: Using argmax policy[0.21334554 0.12532175 0.22539154 0.21381576 0.2525249  0.20044304]
+2022-03-19 17:37:56,993 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:57,090 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:57,093 [task2_alt_code] DEBUG: Using argmax policy[0.21334554 0.12532175 0.22539154 0.21381576 0.2525249  0.20044304]
+2022-03-19 17:37:57,093 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:57,192 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:57,195 [task2_alt_code] DEBUG: Using argmax policy[0.21334554 0.12532175 0.22539154 0.21381576 0.2525249  0.20044304]
+2022-03-19 17:37:57,196 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:57,294 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:57,297 [task2_alt_code] DEBUG: Using argmax policy[0.21334554 0.12532175 0.22539154 0.21381576 0.2525249  0.20044304]
+2022-03-19 17:37:57,297 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:57,600 [task2_alt_code] INFO: Starting Episode 6
+2022-03-19 17:37:57,600 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:57,603 [task2_alt_code] DEBUG: Using argmax policy[0.18583362 0.22929843 0.197879   0.2425862  0.31714487 0.26108968]
+2022-03-19 17:37:57,603 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:57,700 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:57,703 [task2_alt_code] DEBUG: Using argmax policy[0.18583362 0.22929843 0.197879   0.2425862  0.31714487 0.26108968]
+2022-03-19 17:37:57,703 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:57,805 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:57,808 [task2_alt_code] DEBUG: Using argmax policy[0.18583362 0.22929843 0.197879   0.2425862  0.31714487 0.26108968]
+2022-03-19 17:37:57,809 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:57,904 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:57,907 [task2_alt_code] DEBUG: Using argmax policy[0.18583362 0.22929843 0.197879   0.2425862  0.31714487 0.26108968]
+2022-03-19 17:37:57,907 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:58,005 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:58,009 [task2_alt_code] DEBUG: Using argmax policy[0.18583362 0.22929843 0.197879   0.2425862  0.31714487 0.26108968]
+2022-03-19 17:37:58,009 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:58,111 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:58,116 [task2_alt_code] DEBUG: Using argmax policy[0.18583362 0.22929843 0.197879   0.2425862  0.31714487 0.26108968]
+2022-03-19 17:37:58,117 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:58,208 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:58,213 [task2_alt_code] DEBUG: Using argmax policy[0.18583362 0.22929843 0.197879   0.2425862  0.31714487 0.26108968]
+2022-03-19 17:37:58,213 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:58,310 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:58,314 [task2_alt_code] DEBUG: Using argmax policy[0.18583362 0.22929843 0.197879   0.2425862  0.31714487 0.26108968]
+2022-03-19 17:37:58,314 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:37:58,615 [task2_alt_code] INFO: Starting Episode 7
+2022-03-19 17:37:58,615 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:58,622 [task2_alt_code] DEBUG: Using argmax policy[-0.00130046  0.10553727  0.23791647  0.25913298  0.24358244  0.12302008]
+2022-03-19 17:37:58,623 [task2_alt_code] DEBUG: Choosing action LEFT.
+2022-03-19 17:37:58,717 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:58,720 [task2_alt_code] DEBUG: Using argmax policy[-0.01215481  0.09560586  0.1177576   0.2383531   0.21070965  0.27021918]
+2022-03-19 17:37:58,721 [task2_alt_code] DEBUG: Choosing action BOMB.
+2022-03-19 17:37:58,821 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:58,827 [task2_alt_code] DEBUG: Using argmax policy[-0.0231786   0.15845971 -0.0141959   0.28343928 -0.02918509 -0.01768863]
+2022-03-19 17:37:58,827 [task2_alt_code] DEBUG: Choosing action LEFT.
+2022-03-19 17:37:58,925 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:58,931 [task2_alt_code] DEBUG: Using argmax policy[-0.13223273 -0.2691765   0.10099997 -0.04009626  0.02606605 -0.12567078]
+2022-03-19 17:37:58,931 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:37:59,021 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:59,026 [task2_alt_code] DEBUG: Using argmax policy[-0.13223273 -0.2691765   0.10099997 -0.04009626  0.02606605 -0.12567078]
+2022-03-19 17:37:59,027 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:37:59,127 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:37:59,131 [task2_alt_code] DEBUG: Using argmax policy[-0.13223273 -0.2691765   0.10099997 -0.04009626  0.02606605 -0.12567078]
+2022-03-19 17:37:59,132 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:38:00,046 [task2_alt_code] INFO: Starting Episode 8
+2022-03-19 17:38:00,046 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:00,052 [task2_alt_code] DEBUG: Using argmax policy[0.18157177 0.22446342 0.18822438 0.24040693 0.307073   0.22726573]
+2022-03-19 17:38:00,052 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:38:00,143 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:00,148 [task2_alt_code] DEBUG: Using argmax policy[0.18157177 0.22446342 0.18822438 0.24040693 0.307073   0.22726573]
+2022-03-19 17:38:00,148 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:38:00,241 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:00,245 [task2_alt_code] DEBUG: Using argmax policy[0.18157177 0.22446342 0.18822438 0.24040693 0.307073   0.22726573]
+2022-03-19 17:38:00,246 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:38:00,343 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:00,347 [task2_alt_code] DEBUG: Using argmax policy[0.18157177 0.22446342 0.18822438 0.24040693 0.307073   0.22726573]
+2022-03-19 17:38:00,347 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:38:00,446 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:00,450 [task2_alt_code] DEBUG: Using argmax policy[0.18157177 0.22446342 0.18822438 0.24040693 0.307073   0.22726573]
+2022-03-19 17:38:00,450 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:38:00,546 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:00,550 [task2_alt_code] DEBUG: Using argmax policy[0.18157177 0.22446342 0.18822438 0.24040693 0.307073   0.22726573]
+2022-03-19 17:38:00,550 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:38:00,649 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:00,655 [task2_alt_code] DEBUG: Using argmax policy[0.18157177 0.22446342 0.18822438 0.24040693 0.307073   0.22726573]
+2022-03-19 17:38:00,655 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:38:00,750 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:00,755 [task2_alt_code] DEBUG: Using argmax policy[0.18157177 0.22446342 0.18822438 0.24040693 0.307073   0.22726573]
+2022-03-19 17:38:00,755 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:38:00,858 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:00,862 [task2_alt_code] DEBUG: Using argmax policy[0.18157177 0.22446342 0.18822438 0.24040693 0.307073   0.22726573]
+2022-03-19 17:38:00,862 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:38:00,958 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:00,963 [task2_alt_code] DEBUG: Using argmax policy[0.18157177 0.22446342 0.18822438 0.24040693 0.307073   0.22726573]
+2022-03-19 17:38:00,963 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:38:01,056 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:01,060 [task2_alt_code] DEBUG: Using argmax policy[0.18157177 0.22446342 0.18822438 0.24040693 0.307073   0.22726573]
+2022-03-19 17:38:01,060 [task2_alt_code] DEBUG: Choosing action WAIT.
+2022-03-19 17:38:01,464 [task2_alt_code] INFO: Starting Episode 9
+2022-03-19 17:38:01,464 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:01,469 [task2_alt_code] DEBUG: Using argmax policy[0.3343048  0.40562978 0.33937967 0.38507214 0.0553271  0.28513688]
+2022-03-19 17:38:01,469 [task2_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-19 17:38:01,563 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:01,569 [task2_alt_code] DEBUG: Using argmax policy[0.232794   0.3638391  0.34061158 0.35197696 0.36925492 0.51587635]
+2022-03-19 17:38:01,569 [task2_alt_code] DEBUG: Choosing action BOMB.
+2022-03-19 17:38:01,668 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:01,673 [task2_alt_code] DEBUG: Using argmax policy[ 0.23329578  0.19053419  0.13477093  0.4270327  -0.00822314  0.14088501]
+2022-03-19 17:38:01,673 [task2_alt_code] DEBUG: Choosing action LEFT.
+2022-03-19 17:38:01,769 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:01,774 [task2_alt_code] DEBUG: Using argmax policy[ 0.39288563 -0.04240522  0.4365673   0.19358318 -0.38239282 -0.19293593]
+2022-03-19 17:38:01,775 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:38:01,871 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:01,876 [task2_alt_code] DEBUG: Using argmax policy[0.31407994 0.15176745 0.39461103 0.20097166 0.03670644 0.14047207]
+2022-03-19 17:38:01,877 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:38:01,968 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:01,972 [task2_alt_code] DEBUG: Using argmax policy[0.31407994 0.15176745 0.39461103 0.20097166 0.03670644 0.14047207]
+2022-03-19 17:38:01,972 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:38:02,070 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:02,074 [task2_alt_code] DEBUG: Using argmax policy[ 0.28970027  0.02695074  0.22893874  0.19494165 -0.10695264  0.11186846]
+2022-03-19 17:38:02,074 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:38:03,192 [task2_alt_code] INFO: Starting Episode 10
+2022-03-19 17:38:03,192 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:03,197 [task2_alt_code] DEBUG: Using argmax policy[0.37087375 0.37581322 0.4114719  0.35754928 0.03067198 0.2831397 ]
+2022-03-19 17:38:03,197 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:38:03,290 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:03,294 [task2_alt_code] DEBUG: Using argmax policy[0.45905995 0.28764656 0.3479925  0.31785995 0.1494139  0.41056246]
+2022-03-19 17:38:03,294 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:38:03,394 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:03,397 [task2_alt_code] DEBUG: Using argmax policy[0.37087375 0.37581322 0.4114719  0.35754928 0.03067198 0.2831397 ]
+2022-03-19 17:38:03,397 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:38:03,492 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:03,496 [task2_alt_code] DEBUG: Using argmax policy[0.45905995 0.28764656 0.3479925  0.31785995 0.1494139  0.41056246]
+2022-03-19 17:38:03,496 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:38:03,594 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:03,598 [task2_alt_code] DEBUG: Using argmax policy[0.37087375 0.37581322 0.4114719  0.35754928 0.03067198 0.2831397 ]
+2022-03-19 17:38:03,598 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:38:03,696 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:03,701 [task2_alt_code] DEBUG: Using argmax policy[0.45905995 0.28764656 0.3479925  0.31785995 0.1494139  0.41056246]
+2022-03-19 17:38:03,701 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:38:03,799 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:03,802 [task2_alt_code] DEBUG: Using argmax policy[0.37087375 0.37581322 0.4114719  0.35754928 0.03067198 0.2831397 ]
+2022-03-19 17:38:03,802 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:38:03,899 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:03,903 [task2_alt_code] DEBUG: Using argmax policy[0.45905995 0.28764656 0.3479925  0.31785995 0.1494139  0.41056246]
+2022-03-19 17:38:03,903 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:38:04,002 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:04,005 [task2_alt_code] DEBUG: Using argmax policy[0.37087375 0.37581322 0.4114719  0.35754928 0.03067198 0.2831397 ]
+2022-03-19 17:38:04,005 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:38:04,104 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:04,108 [task2_alt_code] DEBUG: Using argmax policy[0.45905995 0.28764656 0.3479925  0.31785995 0.1494139  0.41056246]
+2022-03-19 17:38:04,108 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:38:04,204 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:04,208 [task2_alt_code] DEBUG: Using argmax policy[0.37087375 0.37581322 0.4114719  0.35754928 0.03067198 0.2831397 ]
+2022-03-19 17:38:04,208 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:38:04,306 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:04,309 [task2_alt_code] DEBUG: Using argmax policy[0.45905995 0.28764656 0.3479925  0.31785995 0.1494139  0.41056246]
+2022-03-19 17:38:04,310 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:38:04,412 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:04,418 [task2_alt_code] DEBUG: Using argmax policy[0.37087375 0.37581322 0.4114719  0.35754928 0.03067198 0.2831397 ]
+2022-03-19 17:38:04,418 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:38:04,508 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:04,512 [task2_alt_code] DEBUG: Using argmax policy[0.45905995 0.28764656 0.3479925  0.31785995 0.1494139  0.41056246]
+2022-03-19 17:38:04,512 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:38:04,614 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:04,618 [task2_alt_code] DEBUG: Using argmax policy[0.37087375 0.37581322 0.4114719  0.35754928 0.03067198 0.2831397 ]
+2022-03-19 17:38:04,619 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:38:04,720 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:04,724 [task2_alt_code] DEBUG: Using argmax policy[0.45905995 0.28764656 0.3479925  0.31785995 0.1494139  0.41056246]
+2022-03-19 17:38:04,724 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:38:04,815 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:04,818 [task2_alt_code] DEBUG: Using argmax policy[0.37087375 0.37581322 0.4114719  0.35754928 0.03067198 0.2831397 ]
+2022-03-19 17:38:04,818 [task2_alt_code] DEBUG: Choosing action DOWN.
+2022-03-19 17:38:04,915 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:04,919 [task2_alt_code] DEBUG: Using argmax policy[0.45905995 0.28764656 0.3479925  0.31785995 0.1494139  0.41056246]
+2022-03-19 17:38:04,919 [task2_alt_code] DEBUG: Choosing action UP.
+2022-03-19 17:38:05,016 [task2_alt_code] INFO: Predicting Action
+2022-03-19 17:38:05,020 [task2_alt_code] DEBUG: Using argmax policy[0.37087375 0.37581322 0.4114719  0.35754928 0.03067198 0.2831397 ]
+2022-03-19 17:38:05,020 [task2_alt_code] DEBUG: Choosing action DOWN.

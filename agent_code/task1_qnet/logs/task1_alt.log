@@ -1,0 +1,398 @@
+2022-03-30 14:30:32,489 [task1_alt_code] DEBUG: Successfully entered setup code
+2022-03-30 14:30:32,489 [task1_alt_code] INFO: Loading model.
+2022-03-30 14:30:34,046 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:34,064 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:34,067 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:34,141 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:34,144 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:34,144 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:34,239 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:34,241 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:34,242 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:34,343 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:34,345 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:34,346 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:34,440 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:34,442 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:34,442 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:34,544 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:34,546 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:34,547 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:34,644 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:34,645 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:34,646 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:34,747 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:34,749 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:34,749 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:34,848 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:34,850 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:34,850 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:34,950 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:34,951 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:34,952 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:35,052 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:35,053 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:35,054 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:35,152 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:35,154 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:35,154 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:35,255 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:35,256 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:35,256 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:35,357 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:35,358 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:35,359 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:35,458 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:35,459 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:35,460 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:35,560 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:35,561 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:35,561 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:35,661 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:35,662 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:35,663 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:35,764 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:35,766 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:35,766 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:35,866 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:35,868 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:35,869 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:35,968 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:35,971 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:35,972 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:36,066 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:36,067 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:36,068 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:36,168 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:36,170 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:36,170 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:36,270 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:36,271 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:36,271 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:36,372 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:36,374 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:36,374 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:36,473 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:36,475 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:36,475 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:36,576 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:36,579 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:36,580 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:36,676 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:36,678 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:36,678 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:36,778 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:36,781 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:36,782 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:36,879 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:36,882 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:36,883 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:36,980 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:36,983 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:36,984 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:37,080 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:37,083 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:37,083 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:37,180 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:37,182 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:37,182 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:37,282 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:37,285 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:37,285 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:37,383 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:37,385 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:37,385 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:37,484 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:37,486 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:37,486 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:37,586 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:37,589 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:37,589 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:37,687 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:37,690 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:37,690 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:37,788 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:37,790 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:37,791 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:37,888 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:37,891 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:37,891 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:37,990 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:37,993 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:37,993 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:38,091 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:38,094 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:38,094 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:38,191 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:38,194 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:38,195 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:38,292 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:38,295 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:38,295 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:38,392 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:38,394 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:38,395 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:38,494 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:38,497 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:38,498 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:38,596 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:38,599 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:38,600 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:38,696 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:38,698 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:38,698 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:38,796 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:38,798 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:38,798 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:38,896 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:38,898 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:38,898 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:38,998 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:39,000 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:39,000 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:39,099 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:39,102 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:39,102 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:39,198 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:39,200 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:39,200 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:39,301 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:39,304 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:39,304 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:39,407 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:39,409 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:39,410 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:39,502 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:39,504 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:39,504 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:39,602 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:39,604 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:39,605 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:39,706 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:39,709 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:39,709 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:39,804 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:39,806 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:39,807 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:39,907 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:39,910 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:39,910 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:40,006 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:40,008 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:40,009 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:40,108 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:40,110 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:40,110 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:40,211 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:40,214 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:40,214 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:40,310 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:40,312 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:40,313 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:40,412 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:40,414 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:40,415 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:40,515 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:40,518 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:40,518 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:40,614 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:40,615 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:40,616 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:40,716 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:40,718 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:40,719 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:40,816 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:40,817 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:40,818 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:40,917 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:40,919 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:40,920 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:41,017 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:41,019 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:41,019 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:41,117 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:41,119 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:41,120 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:41,221 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:41,223 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:41,224 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:41,321 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:41,324 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:41,324 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:41,421 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:41,424 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:41,424 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:41,523 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:41,525 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:41,526 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:41,622 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:41,624 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:41,625 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:41,723 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:41,725 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:41,725 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:41,825 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:41,827 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:41,828 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:41,928 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:41,930 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:41,931 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:42,029 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:42,032 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:42,032 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:42,131 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:42,134 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:42,134 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:42,231 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:42,234 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:42,234 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:42,333 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:42,335 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:42,335 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:42,436 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:42,439 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:42,439 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:42,536 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:42,538 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:42,539 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:42,639 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:42,641 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:42,642 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:42,740 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:42,742 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:42,743 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:42,841 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:42,844 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:42,844 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:42,941 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:42,944 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:42,944 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:43,042 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:43,044 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:43,044 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:43,143 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:43,146 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:43,147 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:43,245 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:43,247 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:43,248 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:43,345 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:43,347 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:43,348 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:43,445 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:43,447 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:43,448 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:43,546 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:43,547 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:43,548 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:43,646 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:43,648 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:43,648 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:43,746 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:43,748 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:43,749 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:43,847 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:43,849 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:43,849 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:43,947 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:43,948 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:43,949 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:44,050 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:44,053 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:44,054 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:44,151 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:44,153 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:44,154 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:44,250 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:44,253 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:44,254 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:44,350 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:44,352 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:44,352 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:44,453 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:44,455 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:44,456 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:44,552 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:44,554 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:44,554 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:44,654 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:44,657 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:44,658 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:44,755 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:44,758 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:44,758 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:44,856 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:44,859 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:44,860 [task1_alt_code] DEBUG: Choosing action DOWN.
+2022-03-30 14:30:44,958 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:44,960 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:44,960 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:45,059 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:45,062 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:45,062 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:45,160 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:45,163 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:45,164 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:45,261 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:45,264 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:45,264 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:45,362 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:45,364 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:45,365 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:45,464 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:45,467 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:45,468 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:45,566 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:45,569 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:45,570 [task1_alt_code] DEBUG: Choosing action RIGHT.
+2022-03-30 14:30:45,665 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:45,668 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:45,669 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:45,766 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:45,769 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:45,769 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:45,866 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:45,869 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:45,870 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:45,968 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:45,971 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:45,971 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:46,068 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:46,071 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:46,071 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:46,168 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:46,171 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:46,172 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:46,269 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:46,272 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:46,273 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:46,370 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:46,373 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:46,374 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:46,470 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:46,473 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:46,474 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:46,572 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:46,574 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:46,574 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:46,672 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:46,675 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:46,675 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:46,772 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:46,775 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:46,776 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:46,874 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:46,876 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:46,876 [task1_alt_code] DEBUG: Choosing action UP.
+2022-03-30 14:30:46,974 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:46,977 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:46,977 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:47,074 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:47,077 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:47,077 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:47,174 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:47,176 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:47,176 [task1_alt_code] DEBUG: Choosing action LEFT.
+2022-03-30 14:30:47,275 [task1_alt_code] INFO: Predicting Action
+2022-03-30 14:30:47,277 [task1_alt_code] DEBUG: Using argmax policy
+2022-03-30 14:30:47,278 [task1_alt_code] DEBUG: Choosing action LEFT.
